@@ -1,0 +1,100 @@
+files:
+  # metadata
+  hiv1-art.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-art.json
+    md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
+  hiv1-lanl.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl.json
+    md5: ce33aedc39b09e87e1d7e6d7d02e7f64
+  mmetsp.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mmetsp.json
+    md5: af9eb1c8c94fc1cb18a1ee740f82e5e0
+  mtdna-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-all.json
+    md5: da93bdc9132440f122e810b29d89327f
+  mtdna-human-haplogroups.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-human-haplogroups.json
+    md5: 0ff3f3395564ffedaaa6a12e83c28950
+  mtdna-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-refseq.json
+    md5: 7bbe98a5e9a82b9e7afee870cfc3271f
+  mtdna-taxa.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-taxa.json
+    md5: fe91a51e2d44e89fbb97142c998925bc
+  nuclear-animals.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-animals.json
+    md5: 1b0857b1e35193a09a1ad226eb635da6
+  nuclear-archaea.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-archaea.json
+    md5: 179933dc512475a087836779b9feecbb
+  nuclear-bacteria.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-bacteria.json
+    md5: 43c18e5990b7702a71411735525443ee
+  nuclear-fungi.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-fungi.json
+    md5: f7ab44dd27a998403f3f572f73bad15f
+  nuclear-plants.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-plants.json
+    md5: d7c66fdc9bf7dcc41d1eef00844a9c37
+  nuclear-protists.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-protists.json
+    md5: 124ec173d35ae1179623c92e3bc0f764
+  pdna-cp-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-cp-all.json
+    md5: 5859bea44fc788c98f93523620ec84da
+  pdna-cp-taxa.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-cp-taxa.json
+    md5: b8733adebbd92fd2cfd377a750f7ddea
+  pdna-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-refseq.json
+    md5: 77e813be2f7457f342f8c8ef64e135ae
+  viruses.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses.json
+    md5: 2403d459486acc912420d09a8d081ab0
+
+  # archives
+  genomes-animals-a_g.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=008e94eff141d4e7aa47682c62ad90e62&authkey=AR7WMnIgX-R1Lc1cNrqm1Ww
+    md5: 4d309f8bfab10d2bc2e4fb2df86b8ba5
+  genomes-animals-h_n.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=04a6aa82cff804fb7ac089cb7b71f12bc&authkey=ATlIPUaFTCYbIF71SouY6OA
+    md5: 70f75a881e66ce2973eaaabf1d177833
+  genomes-animals-o_z.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0fd7747a22451477f83e1d98369fd56a8&authkey=AfacnDpQ6ewaPyBb3wDNVlo
+    md5: 395ecd4303a4d1dee63ca1d4467d0eda
+  genomes-archaea.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=034bf6445d7ab4c9ca446c5fb8d7f63ef&authkey=AV-7a9Kg_1UkjwcWuLRBD9w
+    md5: 06d498610f6d5bf9742d3c2f1df357a6
+  genomes-bacteria.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0bb6490de3084451eaffa4269173ce0d9&authkey=Abu2cn0zDdNwLTX2cqMH2uk
+    md5: 666f2221c98a0895dc210eb3c74f5766
+  genomes-fungi.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=018b4a4176aed40f987b3969b4a1a547e&authkey=AdWfZTEY9o4OibojbkAtpWs
+    md5: 15bce50b2cc04cdf22f8f8939714f1ea
+  genomes-plants.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f374aa4a66ad455591e85422ba908f8b&authkey=AY3w96Uss0Pg-8GgoXUNdqE
+    md5: 0b99f57fabc4affa9c3c4b98cee83ff7
+  genomes-protists.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0896e2b4e445b4aed8ccdd22adf774ded&authkey=Ae4bK3mHosciQgoXp8djIEY
+    md5: b3b55eede261cda229775f7f008c10e7
+  hiv1.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0e12855abac2e42288dacebe17951e206&authkey=ASDNjaXgQhzk-HoC9a1TE7U
+    md5: d92b0818cd91d0c87521c38efa0cfe73
+  mmetsp.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=03e830de3e7c44d68a1a52918d062f5f3&authkey=AcexjJCjBe8xo0hb82XrYhk
+    md5: e7dc8c58aba542a0bf0abad73cc4672f
+  mtdna-all.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b679ce19a975467da0324d9bdfff1f34&authkey=AVFhOyV7RdfO5xZ5sz-jZhQ
+    md5: afaa9d6cc7544864a8b3df05ec8084fc
+  mtdna-refseq.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=035d6710f03644dfea60bb12c2208be30&authkey=AVJPvc53T0oh6_9bikpIX2Q
+    md5: a8864301a991caeca3f996812d7b5e27
+  pdna-cp-all.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f9a3570e2ead40d3a44aef779ead8e53&authkey=AT3MLzpkTPaF_-O4yETqanI
+    md5: f1ccb7e0abf6bd63f2ec48eb365d68e3
+  pdna-refseq.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b3e945dc27434883a42cab0acca8ea92&authkey=AeYDhRo8iQ_80AUwZakNs9k
+    md5: 793f746d540a8839ebecc44b71fe5003
+  viruses.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0eda248f8c7e245fe9a8b3f50cd1ddc62&authkey=AeAqEq_GRZUA15LFQsQ0Nrk
+    md5: cf2d81dcf2c4449452be1a42d9ad6be6

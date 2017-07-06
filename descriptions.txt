@@ -1,0 +1,22 @@
+hiv1-lanl: https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html, virus: HIV-1, genomic region: complete genome, excluding problematic || on: 5/18/17, listed GenBank update: 5/6/17
+hiv1-art: batch-indelible5.aliview.fa, from Art
+
+mmetsp: http://imicrobe.us/project/view/104, ftp://ftp.imicrobe.us/projects/104/samples/
+
+mtdna-human-haplogroups: http://www.mitomap.org/MITOMAP/Mitobank, http://www.mitomap.org/foswiki/pub/MITOMAP/Mitobank/genbank_ids_2016June25.csv || on: 6/25/16
+mtdna-refseq: RefSeq release 81, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/mitochondrion/ || on: 3/6/17
+mtdna-taxa: NCBI Nucleotide, query: "<taxonomy ID>"[Organism:exp] AND ("mitochondrial"[Title] OR "mitochondria"[Title] OR "mitochondrion"[Title]) NOT "contig"[Title] NOT "scaffold"[Title] NOT "partial"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "incomplete"[Title] AND ("12000"[SLEN] : "99999999"[SLEN]) || on: 3/13/17
+mtdna-all: NCBI Nucleotide, query: ("mitochondrial"[Title] OR "mitochondria"[Title] OR "mitochondrion"[Title]) AND "complete"[Title] AND "genome"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "plasmid"[Title] AND ("1000"[SLEN] : "999999999"[SLEN]) || on: 5/17/17
+
+nuclear-animals: https://www.ncbi.nlm.nih.gov/genome/browse/, group: animals, levels: complete+chromosome || on: 6/15/17
+nuclear-archaea: https://www.ncbi.nlm.nih.gov/genome/browse/, group: archaea, levels: complete+chromosome || on: 6/24/17
+nuclear-bacteria: https://www.ncbi.nlm.nih.gov/genome/browse/, group: bacteria, levels: complete+chromosome || on: 6/25/17
+nuclear-fungi: https://www.ncbi.nlm.nih.gov/genome/browse/, group: fungi, levels: complete+chromosome || on: 6/24/17
+nuclear-plants: https://www.ncbi.nlm.nih.gov/genome/browse/, group: plants, levels: complete+chromosome || on: 6/15/17
+nuclear-protists: https://www.ncbi.nlm.nih.gov/genome/browse/, group: protists, levels: complete+chromosome || on: 6/15/17
+
+pdna-refseq: RefSeq release 82, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plastid/ || on: 5/15/17
+pdna-cp-taxa: NCBI Nucleotide, query: "<taxonomy ID>"[Organism:exp] AND ("mitochondrial"[Title] OR "mitochondria"[Title] OR "mitochondrion"[Title]) NOT "contig"[Title] NOT "scaffold"[Title] NOT "partial"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "incomplete"[Title] AND ("12000"[SLEN] : "99999999"[SLEN]) || on: 3/13/17
+pdna-cp-all: NCBI Nucleotide, query: "chloroplast"[Title] AND "complete"[Title] AND "genome"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "plasmid"[Title] AND ("1000"[SLEN] : "999999999"[SLEN]) || on: 5/17/17
+
+viruses:  NCBI Nucleotide, query: "txid10239"[Organism:exp] AND ("complete genome"[Title] OR "complete sequence"[Title]) NOT "miRNA"[Title] NOT "long terminal repeat"[Title] NOT "ltr"[Title] NOT "contig"[Title] NOT "spacer"[Title] NOT "pseudogene"[Title] NOT "genes"[Title] NOT "gene"[Title] NOT "segment"[Title] NOT "partial"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "incomplete"[Title] || on: 5/14/17

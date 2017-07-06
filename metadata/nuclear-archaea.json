@@ -1,0 +1,2366 @@
+{
+  "Acidianus hospitalis": {
+    "id": "GCA_000213215.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015518.1",
+        "length": 2137654
+      }
+    ]
+  },
+  "Acidianus manzaensis": {
+    "id": "GCA_002116695.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP020477.1",
+        "length": 2687463
+      }
+    ]
+  },
+  "Acidilobus saccharovorans": {
+    "id": "GCA_000144915.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Acidilobales; Acidilobaceae; Acidilobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014374.1",
+        "length": 1496453
+      }
+    ]
+  },
+  "Aciduliprofundum sp. MAR08-339": {
+    "id": "GCA_000327505.1",
+    "taxonomy": "Archaea; Euryarchaeota; DHVE2 group",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019942.1",
+        "length": 1437090
+      }
+    ]
+  },
+  "Aciduliprofundum boonei": {
+    "id": "GCA_000025665.1",
+    "taxonomy": "Archaea; Euryarchaeota; DHVE2 group; Aciduliprofundum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013926.1",
+        "length": 1486778
+      }
+    ]
+  },
+  "Aeropyrum camini": {
+    "id": "GCA_000591035.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AP012489.1",
+        "length": 1595994
+      }
+    ]
+  },
+  "Aeropyrum pernix": {
+    "id": "GCA_000011125.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "BA000002.3",
+        "length": 1669696
+      }
+    ]
+  },
+  "Archaeoglobus fulgidus": {
+    "id": "GCA_000008665.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_000917.1",
+        "length": 2178400
+      }
+    ]
+  },
+  "Archaeoglobus profundus": {
+    "id": "GCA_000025285.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013741.1",
+        "length": 1560622
+      }
+    ]
+  },
+  "Archaeoglobus sulfaticallidus": {
+    "id": "GCA_000385565.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021169.1",
+        "length": 2076931
+      }
+    ]
+  },
+  "Archaeoglobus veneficus": {
+    "id": "GCA_000194625.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015320.1",
+        "length": 1901943
+      }
+    ]
+  },
+  "Caldisphaera lagunensis": {
+    "id": "GCA_000317795.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Acidilobales; Caldisphaeraceae; Caldisphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019791.1",
+        "length": 1546846
+      }
+    ]
+  },
+  "Caldivirga maquilingensis": {
+    "id": "GCA_000018305.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Caldivirga",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009954.1",
+        "length": 2077567
+      }
+    ]
+  },
+  "Candidatus Caldiarchaeum subterraneum": {
+    "id": "GCA_000270325.1",
+    "taxonomy": "Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Caldiarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "BA000048.1",
+        "length": 1680938
+      }
+    ]
+  },
+  "Candidatus Korarchaeum cryptofilum": {
+    "id": "GCA_000019605.1",
+    "taxonomy": "Archaea; Candidatus Korarchaeota; Candidatus Korarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_010482.1",
+        "length": 1590757
+      }
+    ]
+  },
+  "Candidatus Methanomassiliicoccus intestinalis": {
+    "id": "GCA_000404225.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Methanomassiliicoccus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021353.1",
+        "length": 1931651
+      }
+    ]
+  },
+  "Candidatus Methanomethylophilus alvus": {
+    "id": "GCA_000300255.2",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Candidatus Methanomethylophilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_020913.1",
+        "length": 1666795
+      }
+    ]
+  },
+  "Candidatus Methanoplasma termitum": {
+    "id": "GCA_000800805.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Candidatus Methanoplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP010070.1",
+        "length": 1488669
+      }
+    ]
+  },
+  "Candidatus Nanopusillus acidilobi": {
+    "id": "GCA_001552015.1",
+    "taxonomy": "Archaea; Nanoarchaeota; Nanoarchaeales; Nanopusillaceae; Candidatus Nanopusillus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP010514.1",
+        "length": 605887
+      }
+    ]
+  },
+  "Candidatus Nitrocosmicus oleophilus": {
+    "id": "GCA_000802205.2",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Candidatus Nitrosocosmicus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP012850.1",
+        "length": 3430706
+      }
+    ]
+  },
+  "Candidatus Nitrosoarchaeum limnia": {
+    "id": "GCA_000204585.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Candidatus Nitrosoarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM001158.1",
+        "length": 1772718
+      }
+    ]
+  },
+  "Candidatus Nitrosocosmicus exaquare": {
+    "id": "GCA_001870125.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Candidatus Nitrosocosmicus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP017922.1",
+        "length": 2989777
+      }
+    ]
+  },
+  "Candidatus Nitrosomarinus catalina": {
+    "id": "GCA_002156965.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Candidatus Nitrosomarinus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP021324.1",
+        "length": 1360076
+      }
+    ]
+  },
+  "Candidatus Nitrosopelagicus brevis": {
+    "id": "GCA_000812185.1",
+    "taxonomy": "Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Nitrosopelagicus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007026.1",
+        "length": 1232128
+      }
+    ]
+  },
+  "Candidatus Nitrosopumilus adriaticus": {
+    "id": "GCA_000956175.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011070.1",
+        "length": 1803090
+      }
+    ]
+  },
+  "Candidatus Nitrosopumilus koreensis": {
+    "id": "GCA_000299365.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP003842.1",
+        "length": 1639964
+      }
+    ]
+  },
+  "Candidatus Nitrosopumilus piranensis": {
+    "id": "GCA_000875775.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP010868.1",
+        "length": 1713078
+      }
+    ]
+  },
+  "Candidatus Nitrosopumilus sediminis": {
+    "id": "GCA_000299395.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018656.1",
+        "length": 1690905
+      }
+    ]
+  },
+  "Candidatus Nitrososphaera evergladensis": {
+    "id": "GCA_000730285.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP007174.1",
+        "length": 2954373
+      }
+    ]
+  },
+  "Candidatus Nitrososphaera gargensis": {
+    "id": "GCA_000303155.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP002408.1",
+        "length": 2833868
+      }
+    ]
+  },
+  "Candidatus Nitrosotalea devanaterra": {
+    "id": "GCA_900065925.1",
+    "taxonomy": "Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Nitrosotalea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LN890280.1",
+        "length": 1805304
+      }
+    ]
+  },
+  "Candidatus Nitrosotenuis cloacae": {
+    "id": "GCA_000955905.3",
+    "taxonomy": "Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Nitrosotenuis",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011097.1",
+        "length": 1620156
+      }
+    ]
+  },
+  "Cenarchaeum symbiosum": {
+    "id": "GCA_000200715.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Cenarchaeales; Cenarchaeaceae; Cenarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "DP000238.1",
+        "length": 2045086
+      }
+    ]
+  },
+  "Cuniculiplasma divulgatum": {
+    "id": "GCA_900083515.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Cuniculiplasmataceae; Cuniculiplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT671858.1",
+        "length": 1938699
+      }
+    ]
+  },
+  "Desulfurococcus amylolyticus": {
+    "id": "GCA_000020905.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Desulfurococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_011766.1",
+        "length": 1365223
+      }
+    ]
+  },
+  "Desulfurococcus mucosus": {
+    "id": "GCA_000186365.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Desulfurococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014961.1",
+        "length": 1314639
+      }
+    ]
+  },
+  "Ferroglobus placidus": {
+    "id": "GCA_000025505.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Ferroglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013849.1",
+        "length": 2196266
+      }
+    ]
+  },
+  "Ferroplasma acidarmanus": {
+    "id": "GCA_000152265.2",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Ferroplasmaceae; Ferroplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021592.1",
+        "length": 1935211
+      }
+    ]
+  },
+  "Ferroplasma acidiphilum": {
+    "id": "GCA_002078355.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Ferroplasmaceae; Ferroplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP015363.1",
+        "length": 1826943
+      }
+    ]
+  },
+  "Fervidicoccus fontis": {
+    "id": "GCA_000258425.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Fervidicoccales; Fervidicoccaceae; Fervidicoccus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP003423.1",
+        "length": 1319206
+      }
+    ]
+  },
+  "Geoglobus acetivorans": {
+    "id": "GCA_000789255.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Geoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009552.1",
+        "length": 1860815
+      }
+    ]
+  },
+  "Geoglobus ahangari": {
+    "id": "GCA_001006045.1",
+    "taxonomy": "Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Geoglobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011267.1",
+        "length": 1770093
+      }
+    ]
+  },
+  "Halalkalicoccus jeotgali": {
+    "id": "GCA_000196895.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halalkalicoccus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014297.1",
+        "length": 2809118
+      }
+    ]
+  },
+  "Halanaeroarchaeum sulfurireducens": {
+    "id": "GCA_001305655.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halanaeroarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011564.1",
+        "length": 2129244
+      }
+    ]
+  },
+  "Haloarcula sp. CBA1115": {
+    "id": "GCA_000827835.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP010529.1",
+        "length": 3423144
+      }
+    ]
+  },
+  "Haloarcula hispanica": {
+    "id": "GCA_000223905.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Haloarcula",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015948.1",
+        "length": 2995271,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_015943.1",
+        "length": 488918,
+        "number": "II"
+      }
+    ]
+  },
+  "Haloarcula marismortui": {
+    "id": "GCA_000011085.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Haloarcula",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006396.1",
+        "length": 3131724,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006397.1",
+        "length": 288050,
+        "number": "II"
+      }
+    ]
+  },
+  "Halobacterium sp. DL1": {
+    "id": "GCA_000230955.3",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007060.1",
+        "length": 2846968
+      }
+    ]
+  },
+  "Halobacterium hubeiense": {
+    "id": "GCA_001488575.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_LN831302.1",
+        "length": 2510607
+      }
+    ]
+  },
+  "Halobacterium salinarum": {
+    "id": "GCA_000069025.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_010364.1",
+        "length": 2000962
+      }
+    ]
+  },
+  "Halobiforma lacisalsi": {
+    "id": "GCA_000226975.3",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halobiforma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP019285.1",
+        "length": 4161587
+      }
+    ]
+  },
+  "Halodesulfurarchaeum formicicum": {
+    "id": "GCA_001767315.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halodesulfurarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP016070.1",
+        "length": 1972283
+      }
+    ]
+  },
+  "Haloferax gibbonsii": {
+    "id": "GCA_001190965.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011947.1",
+        "length": 2945391
+      }
+    ]
+  },
+  "Haloferax mediterranei": {
+    "id": "GCA_000306765.2",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017941.2",
+        "length": 2948884
+      }
+    ]
+  },
+  "Haloferax volcanii": {
+    "id": "GCA_000025685.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013967.1",
+        "length": 2847757
+      }
+    ]
+  },
+  "Halogeometricum borinquense": {
+    "id": "GCA_000172995.2",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halogeometricum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014729.1",
+        "length": 2820544
+      }
+    ]
+  },
+  "Halomicrobium mukohataei": {
+    "id": "GCA_000023965.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Halomicrobium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013202.1",
+        "length": 3110487
+      }
+    ]
+  },
+  "Halopiger xanaduensis": {
+    "id": "GCA_000217715.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halopiger",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015666.1",
+        "length": 3668009
+      }
+    ]
+  },
+  "Haloquadratum walsbyi": {
+    "id": "GCA_000237865.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloquadratum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017459.1",
+        "length": 3148033
+      }
+    ]
+  },
+  "Halorhabdus tiamatea": {
+    "id": "GCA_000470655.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Halorhabdus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021921.1",
+        "length": 2815791
+      }
+    ]
+  },
+  "Halorhabdus utahensis": {
+    "id": "GCA_000023945.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Halorhabdus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013158.1",
+        "length": 3116795
+      }
+    ]
+  },
+  "Halorientalis sp. IM1011": {
+    "id": "GCA_001989615.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP019067.1",
+        "length": 3381613
+      }
+    ]
+  },
+  "Halorubrum lacusprofundi": {
+    "id": "GCA_000022205.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Haloferacales; Halorubraceae; Halorubrum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012029.1",
+        "length": 2735295,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012028.1",
+        "length": 525943,
+        "number": "2"
+      }
+    ]
+  },
+  "Halostagnicola larsenii": {
+    "id": "GCA_000517625.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halostagnicola",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007055.1",
+        "length": 2789326
+      }
+    ]
+  },
+  "Haloterrigena daqingensis": {
+    "id": "GCA_001971705.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Haloterrigena",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP019327.1",
+        "length": 3397437
+      }
+    ]
+  },
+  "Haloterrigena turkmenica": {
+    "id": "GCA_000025325.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Haloterrigena",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013743.1",
+        "length": 3889038
+      }
+    ]
+  },
+  "Halovivax ruber": {
+    "id": "GCA_000328525.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halovivax",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP003050.1",
+        "length": 3223876
+      }
+    ]
+  },
+  "Hyperthermus butylicus": {
+    "id": "GCA_000015145.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Hyperthermus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_008818.1",
+        "length": 1667163
+      }
+    ]
+  },
+  "Ignicoccus hospitalis": {
+    "id": "GCA_000017945.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignicoccus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009776.1",
+        "length": 1297538
+      }
+    ]
+  },
+  "Ignicoccus islandicus": {
+    "id": "GCA_001481685.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignicoccus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP006867.1",
+        "length": 1394664
+      }
+    ]
+  },
+  "Ignisphaera aggregans": {
+    "id": "GCA_000145985.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignisphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP002098.1",
+        "length": 1875953
+      }
+    ]
+  },
+  "Metallosphaera cuprina": {
+    "id": "GCA_000204925.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015435.1",
+        "length": 1840348
+      }
+    ]
+  },
+  "Metallosphaera sedula": {
+    "id": "GCA_000016605.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009440.1",
+        "length": 2191517
+      }
+    ]
+  },
+  "Methanobacterium sp. MB1": {
+    "id": "GCA_000499765.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_023044.1",
+        "length": 2029766
+      }
+    ]
+  },
+  "Methanobacterium congolense": {
+    "id": "GCA_900095295.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_LT607756.1",
+        "length": 2451457
+      }
+    ]
+  },
+  "Methanobacterium formicicum": {
+    "id": "GCA_000762265.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP006933.1",
+        "length": 2449987
+      }
+    ]
+  },
+  "Methanobacterium lacus": {
+    "id": "GCA_000191585.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015216.1",
+        "length": 2583753
+      }
+    ]
+  },
+  "Methanobacterium paludis": {
+    "id": "GCA_000214725.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015574.1",
+        "length": 2546541
+      }
+    ]
+  },
+  "Methanobrevibacter sp. AbM4": {
+    "id": "GCA_000404165.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021355.1",
+        "length": 1998189
+      }
+    ]
+  },
+  "Methanobrevibacter sp. YE315": {
+    "id": "GCA_001548675.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP010834.1",
+        "length": 2273296
+      }
+    ]
+  },
+  "Methanobrevibacter millerae": {
+    "id": "GCA_001477655.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP011266.1",
+        "length": 2543538
+      }
+    ]
+  },
+  "Methanobrevibacter olleyae": {
+    "id": "GCA_001563245.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP014265.1",
+        "length": 2201192
+      }
+    ]
+  },
+  "Methanobrevibacter ruminantium": {
+    "id": "GCA_000024185.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013790.1",
+        "length": 2937203
+      }
+    ]
+  },
+  "Methanobrevibacter smithii": {
+    "id": "GCA_000016525.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009515.1",
+        "length": 1853160
+      }
+    ]
+  },
+  "Methanocaldococcus sp. FS406-22": {
+    "id": "GCA_000025525.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013887.1",
+        "length": 1760939
+      }
+    ]
+  },
+  "Methanocaldococcus bathoardescens": {
+    "id": "GCA_000739065.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009149.1",
+        "length": 1607556
+      }
+    ]
+  },
+  "Methanocaldococcus fervens": {
+    "id": "GCA_000023985.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013156.1",
+        "length": 1485061
+      }
+    ]
+  },
+  "Methanocaldococcus infernus": {
+    "id": "GCA_000092305.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014122.1",
+        "length": 1328194
+      }
+    ]
+  },
+  "Methanocaldococcus jannaschii": {
+    "id": "GCA_000091665.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_000909.1",
+        "length": 1664970
+      }
+    ]
+  },
+  "Methanocaldococcus vulcanius": {
+    "id": "GCA_000024625.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013407.1",
+        "length": 1746329
+      }
+    ]
+  },
+  "Methanocella arvoryzae": {
+    "id": "GCA_000063445.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009464.1",
+        "length": 3179916
+      }
+    ]
+  },
+  "Methanocella conradii": {
+    "id": "GCA_000251105.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017034.1",
+        "length": 2378438
+      }
+    ]
+  },
+  "Methanocella paludicola": {
+    "id": "GCA_000011005.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AP011532.1",
+        "length": 2957635
+      }
+    ]
+  },
+  "Methanococcoides burtonii": {
+    "id": "GCA_000013725.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanococcoides",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007955.1",
+        "length": 2575032
+      }
+    ]
+  },
+  "Methanococcoides methylutens": {
+    "id": "GCA_000970325.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanococcoides",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009518.1",
+        "length": 2394636
+      }
+    ]
+  },
+  "Methanococcus aeolicus": {
+    "id": "GCA_000017185.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009635.1",
+        "length": 1569500
+      }
+    ]
+  },
+  "Methanococcus maripaludis": {
+    "id": "GCA_000017225.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009637.1",
+        "length": 1772694
+      }
+    ]
+  },
+  "Methanococcus vannielii": {
+    "id": "GCA_000017165.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009634.1",
+        "length": 1720048
+      }
+    ]
+  },
+  "Methanococcus voltae": {
+    "id": "GCA_000006175.2",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014222.1",
+        "length": 1936387
+      }
+    ]
+  },
+  "Methanocorpusculum labreanum": {
+    "id": "GCA_000015765.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanocorpusculaceae; Methanocorpusculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_008942.1",
+        "length": 1804962
+      }
+    ]
+  },
+  "Methanoculleus sp. MAB1": {
+    "id": "GCA_900036045.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_LT158599.1",
+        "length": 2859299
+      }
+    ]
+  },
+  "Methanoculleus bourgensis": {
+    "id": "GCA_000304355.2",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoculleus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018227.2",
+        "length": 2789774
+      }
+    ]
+  },
+  "Methanoculleus marisnigri": {
+    "id": "GCA_000015825.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoculleus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009051.1",
+        "length": 2478101
+      }
+    ]
+  },
+  "Methanofollis liminatans": {
+    "id": "GCA_000275865.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanofollis",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CM001555.1",
+        "length": 2475100
+      }
+    ]
+  },
+  "Methanohalobium evestigatum": {
+    "id": "GCA_000196655.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanohalobium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014253.1",
+        "length": 2242317
+      }
+    ]
+  },
+  "Methanohalophilus halophilus": {
+    "id": "GCA_001889405.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanohalophilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP017921.1",
+        "length": 2022959
+      }
+    ]
+  },
+  "Methanohalophilus mahii": {
+    "id": "GCA_000025865.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanohalophilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014002.1",
+        "length": 2012424
+      }
+    ]
+  },
+  "Methanolacinia petrolearia": {
+    "id": "GCA_000147875.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanolacinia",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014507.1",
+        "length": 2843290
+      }
+    ]
+  },
+  "Methanolinea tarda": {
+    "id": "GCA_000235685.3",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanolinea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_AGIY02000001.1",
+        "length": 2052856
+      }
+    ]
+  },
+  "Methanolobus psychrophilus": {
+    "id": "GCA_000306725.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018876.1",
+        "length": 3072769
+      }
+    ]
+  },
+  "Methanomethylovorans hollandica": {
+    "id": "GCA_000328665.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanomethylovorans",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019977.1",
+        "length": 2428904
+      }
+    ]
+  },
+  "Methanoplanus limicola": {
+    "id": "GCA_000243255.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoplanus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CM001436.1",
+        "length": 3200946
+      }
+    ]
+  },
+  "Methanopyrus sp. SNP6": {
+    "id": "GCA_002201895.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP019436.1",
+        "length": 1421621
+      }
+    ]
+  },
+  "Methanopyrus sp. KOL6": {
+    "id": "GCA_002201915.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP019470.1",
+        "length": 1430309
+      }
+    ]
+  },
+  "Methanopyrus kandleri": {
+    "id": "GCA_000007185.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AE009439.1",
+        "length": 1694969
+      }
+    ]
+  },
+  "Methanoregula boonei": {
+    "id": "GCA_000017625.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanoregula",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009712.1",
+        "length": 2542943
+      }
+    ]
+  },
+  "Methanoregula formicica": {
+    "id": "GCA_000327485.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanoregula",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019943.1",
+        "length": 2820858
+      }
+    ]
+  },
+  "Methanosaeta concilii": {
+    "id": "GCA_000204415.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015416.1",
+        "length": 3008626
+      }
+    ]
+  },
+  "Methanosaeta harundinacea": {
+    "id": "GCA_000235565.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017527.1",
+        "length": 2559043
+      }
+    ]
+  },
+  "Methanosaeta thermophila": {
+    "id": "GCA_000014945.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP000477.1",
+        "length": 1879471
+      }
+    ]
+  },
+  "Methanosalsum zhilinae": {
+    "id": "GCA_000217995.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosalsum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015676.1",
+        "length": 2138444
+      }
+    ]
+  },
+  "Methanosarcina sp. WWM596": {
+    "id": "GCA_000969965.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009503.1",
+        "length": 4137337
+      }
+    ]
+  },
+  "Methanosarcina sp. MTP4": {
+    "id": "GCA_000970045.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009505.1",
+        "length": 4211468
+      }
+    ]
+  },
+  "Methanosarcina sp. Kolksee": {
+    "id": "GCA_000969945.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009524.1",
+        "length": 4499114
+      }
+    ]
+  },
+  "Methanosarcina sp. WH1": {
+    "id": "GCA_000970005.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009504.1",
+        "length": 3914091
+      }
+    ]
+  },
+  "Methanosarcina sp. 795": {
+    "id": "GCA_001402855.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP011449.1",
+        "length": 3122414
+      }
+    ]
+  },
+  "Methanosarcina acetivorans": {
+    "id": "GCA_000007345.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003552.1",
+        "length": 5751492
+      }
+    ]
+  },
+  "Methanosarcina barkeri": {
+    "id": "GCA_000195895.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007355.1",
+        "length": 4837408
+      }
+    ]
+  },
+  "Methanosarcina horonobensis": {
+    "id": "GCA_000970285.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009516.1",
+        "length": 5018607
+      }
+    ]
+  },
+  "Methanosarcina lacustris": {
+    "id": "GCA_000970265.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009515.1",
+        "length": 4139808
+      }
+    ]
+  },
+  "Methanosarcina mazei": {
+    "id": "GCA_000007065.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003901.1",
+        "length": 4096345
+      }
+    ]
+  },
+  "Methanosarcina siciliae": {
+    "id": "GCA_000970085.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009506.1",
+        "length": 5017558
+      }
+    ]
+  },
+  "Methanosarcina thermophila": {
+    "id": "GCA_000969885.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009501.1",
+        "length": 3127379
+      }
+    ]
+  },
+  "Methanosarcina vacuolata": {
+    "id": "GCA_000969905.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009520.1",
+        "length": 4505752
+      }
+    ]
+  },
+  "Methanosphaera stadtmanae": {
+    "id": "GCA_000012545.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanosphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007681.1",
+        "length": 1767403
+      }
+    ]
+  },
+  "Methanosphaerula palustris": {
+    "id": "GCA_000021965.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanosphaerula",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_011832.1",
+        "length": 2922917
+      }
+    ]
+  },
+  "Methanospirillum hungatei": {
+    "id": "GCA_000013445.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanospirillaceae; Methanospirillum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007796.1",
+        "length": 3544738
+      }
+    ]
+  },
+  "Methanothermobacter sp. CaT2": {
+    "id": "GCA_000828575.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_AP011952.1",
+        "length": 1720003
+      }
+    ]
+  },
+  "Methanothermobacter marburgensis": {
+    "id": "GCA_000145295.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014408.1",
+        "length": 1634695
+      }
+    ]
+  },
+  "Methanothermobacter thermautotrophicus": {
+    "id": "GCA_000008645.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_000916.1",
+        "length": 1751377
+      }
+    ]
+  },
+  "Methanothermobacter wolfeii": {
+    "id": "GCA_900095815.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_LT608329.1",
+        "length": 1686891
+      }
+    ]
+  },
+  "Methanothermococcus okinawensis": {
+    "id": "GCA_000179575.2",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanothermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015636.1",
+        "length": 1662525
+      }
+    ]
+  },
+  "Methanothermus fervidus": {
+    "id": "GCA_000166095.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanothermaceae; Methanothermus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014658.1",
+        "length": 1243342
+      }
+    ]
+  },
+  "Methanotorris igneus": {
+    "id": "GCA_000214415.1",
+    "taxonomy": "Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanotorris",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015562.1",
+        "length": 1854197
+      }
+    ]
+  },
+  "Nanoarchaeum equitans": {
+    "id": "GCA_000008085.1",
+    "taxonomy": "Archaea; Nanoarchaeota; Nanoarchaeales; Nanoarchaeaceae; Nanoarchaeum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AE017199.1",
+        "length": 490885
+      }
+    ]
+  },
+  "Nanohaloarchaea archaeon": {
+    "id": "GCA_001761425.1",
+    "taxonomy": "Archaea; Candidatus Nanohaloarchaeota; Nanohaloarchaea; unclassified Nanohaloarchaea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP012986.1",
+        "length": 1118574
+      }
+    ]
+  },
+  "Natrialba magadii": {
+    "id": "GCA_000025625.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrialba",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013922.1",
+        "length": 3751858
+      }
+    ]
+  },
+  "Natrialbaceae archaeon": {
+    "id": "GCA_002156705.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; unclassified Natrialbaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP019893.1",
+        "length": 3930546
+      }
+    ]
+  },
+  "Natrinema sp. J7-2": {
+    "id": "GCA_000281695.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018224.1",
+        "length": 3697626
+      }
+    ]
+  },
+  "Natrinema pellirubrum": {
+    "id": "GCA_000230735.3",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrinema",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019962.1",
+        "length": 3790479
+      }
+    ]
+  },
+  "Natronobacterium gregoryi": {
+    "id": "GCA_000230715.3",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natronobacterium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019792.1",
+        "length": 3788356
+      }
+    ]
+  },
+  "Natronococcus occultus": {
+    "id": "GCA_000328685.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natronococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_019974.1",
+        "length": 4013216
+      }
+    ]
+  },
+  "Natronomonas moolapensis": {
+    "id": "GCA_000591055.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Natronomonas",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_020388.1",
+        "length": 2912573
+      }
+    ]
+  },
+  "Natronomonas pharaonis": {
+    "id": "GCA_000026045.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Haloarculaceae; Natronomonas",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007426.1",
+        "length": 2595221
+      }
+    ]
+  },
+  "Nitrosopumilus maritimus": {
+    "id": "GCA_000018465.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP000866.1",
+        "length": 1645259
+      }
+    ]
+  },
+  "Nitrososphaera viennensis": {
+    "id": "GCA_000698785.1",
+    "taxonomy": "Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007536.1",
+        "length": 2527938
+      }
+    ]
+  },
+  "Palaeococcus pacificus": {
+    "id": "GCA_000725425.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Palaeococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP006019.1",
+        "length": 1859370
+      }
+    ]
+  },
+  "Picrophilus torridus": {
+    "id": "GCA_000008265.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Picrophilaceae; Picrophilus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_005877.1",
+        "length": 1545895
+      }
+    ]
+  },
+  "Pyrobaculum sp. WP30": {
+    "id": "GCA_001189275.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP012158.1",
+        "length": 1993257
+      }
+    ]
+  },
+  "Pyrobaculum aerophilum": {
+    "id": "GCA_000007225.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AE009441.1",
+        "length": 2222430
+      }
+    ]
+  },
+  "Pyrobaculum arsenaticum": {
+    "id": "GCA_000016385.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP000660.1",
+        "length": 2121076
+      }
+    ]
+  },
+  "Pyrobaculum calidifontis": {
+    "id": "GCA_000015805.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP000561.1",
+        "length": 2009313
+      }
+    ]
+  },
+  "Pyrobaculum ferrireducens": {
+    "id": "GCA_000234805.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP003098.1",
+        "length": 2467972
+      }
+    ]
+  },
+  "Pyrobaculum islandicum": {
+    "id": "GCA_000015205.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_008701.1",
+        "length": 1826402
+      }
+    ]
+  },
+  "Pyrobaculum neutrophilum": {
+    "id": "GCA_000019805.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP001014.1",
+        "length": 1769823
+      }
+    ]
+  },
+  "Pyrobaculum oguniense": {
+    "id": "GCA_000247545.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP003316.1",
+        "length": 2436033
+      }
+    ]
+  },
+  "Pyrococcus sp. ST04": {
+    "id": "GCA_000263735.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017946.1",
+        "length": 1736885
+      }
+    ]
+  },
+  "Pyrococcus sp. NA2": {
+    "id": "GCA_000211475.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015474.1",
+        "length": 1861320
+      }
+    ]
+  },
+  "Pyrococcus abyssi": {
+    "id": "GCA_000195935.2",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_000868.1",
+        "length": 1765118
+      }
+    ]
+  },
+  "Pyrococcus furiosus": {
+    "id": "GCA_000007305.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003413.1",
+        "length": 1908256
+      }
+    ]
+  },
+  "Pyrococcus horikoshii": {
+    "id": "GCA_000011105.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_000961.1",
+        "length": 1738505
+      }
+    ]
+  },
+  "Pyrococcus kukulkanii": {
+    "id": "GCA_001577775.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP010835.1",
+        "length": 1977126
+      }
+    ]
+  },
+  "Pyrococcus yayanosii": {
+    "id": "GCA_000215995.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015680.1",
+        "length": 1716818
+      }
+    ]
+  },
+  "Pyrodictium delaneyi": {
+    "id": "GCA_001412615.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Pyrodictium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP013011.1",
+        "length": 2023836
+      }
+    ]
+  },
+  "Pyrolobus fumarii": {
+    "id": "GCA_000223395.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Pyrolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015931.1",
+        "length": 1843267
+      }
+    ]
+  },
+  "Salinarchaeum sp. Harcht-Bsk1": {
+    "id": "GCA_000403645.1",
+    "taxonomy": "Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_021313.1",
+        "length": 3255260
+      }
+    ]
+  },
+  "Staphylothermus hellenicus": {
+    "id": "GCA_000092465.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Staphylothermus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014205.1",
+        "length": 1580347
+      }
+    ]
+  },
+  "Staphylothermus marinus": {
+    "id": "GCA_000015945.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Staphylothermus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009033.1",
+        "length": 1570485
+      }
+    ]
+  },
+  "Sulfolobus sp. A20": {
+    "id": "GCA_001719125.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP017006.1",
+        "length": 2688317
+      }
+    ]
+  },
+  "Sulfolobus acidocaldarius": {
+    "id": "GCA_000012285.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007181.1",
+        "length": 2225959
+      }
+    ]
+  },
+  "Sulfolobus islandicus": {
+    "id": "GCA_000022385.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012589.1",
+        "length": 2736272
+      }
+    ]
+  },
+  "Sulfolobus solfataricus": {
+    "id": "GCA_000007005.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_002754.1",
+        "length": 2992245
+      }
+    ]
+  },
+  "Sulfolobus tokodaii": {
+    "id": "GCA_000011205.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003106.2",
+        "length": 2694756
+      }
+    ]
+  },
+  "Thermococcus sp. AM4": {
+    "id": "GCA_000151205.2",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016051.1",
+        "length": 2086428
+      }
+    ]
+  },
+  "Thermococcus sp. 4557": {
+    "id": "GCA_000221185.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015865.1",
+        "length": 2011320
+      }
+    ]
+  },
+  "Thermococcus sp. 2319x1": {
+    "id": "GCA_001484685.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP012200.1",
+        "length": 1961221
+      }
+    ]
+  },
+  "Thermococcus barophilus": {
+    "id": "GCA_000151105.2",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014804.1",
+        "length": 2010078
+      }
+    ]
+  },
+  "Thermococcus chitonophagus": {
+    "id": "GCA_900012635.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_LN999010.1",
+        "length": 1969648
+      }
+    ]
+  },
+  "Thermococcus cleftensis": {
+    "id": "GCA_000265525.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018015.1",
+        "length": 1950313
+      }
+    ]
+  },
+  "Thermococcus eurythermalis": {
+    "id": "GCA_000769655.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP008887.1",
+        "length": 2122535
+      }
+    ]
+  },
+  "Thermococcus gammatolerans": {
+    "id": "GCA_000022365.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012804.1",
+        "length": 2045438
+      }
+    ]
+  },
+  "Thermococcus guaymasensis": {
+    "id": "GCA_000816105.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007140.1",
+        "length": 1920914
+      }
+    ]
+  },
+  "Thermococcus kodakarensis": {
+    "id": "GCA_000009965.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006624.1",
+        "length": 2088737
+      }
+    ]
+  },
+  "Thermococcus litoralis": {
+    "id": "GCA_000246985.3",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_022084.1",
+        "length": 2215172
+      }
+    ]
+  },
+  "Thermococcus nautili": {
+    "id": "GCA_000585495.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007264.1",
+        "length": 1976356
+      }
+    ]
+  },
+  "Thermococcus onnurineus": {
+    "id": "GCA_000018365.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_011529.1",
+        "length": 1847607
+      }
+    ]
+  },
+  "Thermococcus paralvinellae": {
+    "id": "GCA_000517445.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP006965.1",
+        "length": 1957742
+      }
+    ]
+  },
+  "Thermococcus peptonophilus": {
+    "id": "GCA_001592435.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP014750.1",
+        "length": 1847000
+      }
+    ]
+  },
+  "Thermococcus piezophilus": {
+    "id": "GCA_001647085.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP015520.1",
+        "length": 1928800
+      }
+    ]
+  },
+  "Thermococcus sibiricus": {
+    "id": "GCA_000022545.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012883.1",
+        "length": 1845800
+      }
+    ]
+  },
+  "Thermofilum adornatus": {
+    "id": "GCA_000446015.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_022093.1",
+        "length": 1750259
+      }
+    ]
+  },
+  "Thermofilum carboxyditrophus": {
+    "id": "GCA_000813245.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP007493.1",
+        "length": 1754190
+      }
+    ]
+  },
+  "Thermofilum pendens": {
+    "id": "GCA_000015225.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_008698.1",
+        "length": 1781889
+      }
+    ]
+  },
+  "Thermofilum uzonense": {
+    "id": "GCA_000993805.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NZ_CP009961.1",
+        "length": 1611988
+      }
+    ]
+  },
+  "Thermogladius cellulolyticus": {
+    "id": "GCA_000264495.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Thermogladius",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017954.1",
+        "length": 1356318
+      }
+    ]
+  },
+  "Thermoplasma acidophilum": {
+    "id": "GCA_000195915.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Thermoplasmataceae; Thermoplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_002578.1",
+        "length": 1564906
+      }
+    ]
+  },
+  "Thermoplasma volcanium": {
+    "id": "GCA_000011185.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Thermoplasmataceae; Thermoplasma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_002689.2",
+        "length": 1584804
+      }
+    ]
+  },
+  "Thermoplasmatales archaeon": {
+    "id": "GCA_000350305.1",
+    "taxonomy": "Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; unclassified Thermoplasmatales; unclassified Thermoplasmatales (miscellaneous)",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_020892.1",
+        "length": 1461105
+      }
+    ]
+  },
+  "Thermoproteus tenax": {
+    "id": "GCA_000253055.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016070.1",
+        "length": 1841542
+      }
+    ]
+  },
+  "Thermoproteus uzoniensis": {
+    "id": "GCA_000193375.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015315.1",
+        "length": 1936063
+      }
+    ]
+  },
+  "Thermosphaera aggregans": {
+    "id": "GCA_000092185.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Thermosphaera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014160.1",
+        "length": 1316595
+      }
+    ]
+  },
+  "Vulcanisaeta distributa": {
+    "id": "GCA_000148385.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Vulcanisaeta",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014537.1",
+        "length": 2374137
+      }
+    ]
+  },
+  "Vulcanisaeta moutnovskia": {
+    "id": "GCA_000190315.1",
+    "taxonomy": "Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Vulcanisaeta",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_015151.1",
+        "length": 2298983
+      }
+    ]
+  }
+}

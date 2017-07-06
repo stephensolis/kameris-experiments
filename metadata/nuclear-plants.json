@@ -1,0 +1,5990 @@
+{
+  "Ananas comosus": {
+    "id": "GCA_001540865.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Bromeliaceae; Bromelioideae; Ananas",
+    "sequences": [
+      {
+        "id": "NC_033621.1",
+        "length": 24880688,
+        "number": "1",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033622.1",
+        "length": 17334668,
+        "number": "2",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033623.1",
+        "length": 16781886,
+        "number": "3",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033624.1",
+        "length": 15584765,
+        "number": "4",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033625.1",
+        "length": 15024279,
+        "number": "5",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033626.1",
+        "length": 14747297,
+        "number": "6",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033627.1",
+        "length": 14728688,
+        "number": "7",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033628.1",
+        "length": 13970067,
+        "number": "8",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033629.1",
+        "length": 13841557,
+        "number": "9",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033630.1",
+        "length": 13112115,
+        "number": "10",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033631.1",
+        "length": 13096665,
+        "number": "11",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033632.1",
+        "length": 12612916,
+        "number": "12",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033633.1",
+        "length": 11759267,
+        "number": "13",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033634.1",
+        "length": 11705491,
+        "number": "14",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033635.1",
+        "length": 11365478,
+        "number": "15",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033636.1",
+        "length": 11174208,
+        "number": "16",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033637.1",
+        "length": 11156084,
+        "number": "17",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033638.1",
+        "length": 10911977,
+        "number": "18",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033639.1",
+        "length": 10815949,
+        "number": "19",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033640.1",
+        "length": 10792357,
+        "number": "20",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033641.1",
+        "length": 10645290,
+        "number": "21",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033642.1",
+        "length": 10398566,
+        "number": "22",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033643.1",
+        "length": 7979763,
+        "number": "23",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033644.1",
+        "length": 7684463,
+        "number": "24",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_033645.1",
+        "length": 3739203,
+        "number": "25",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026220.1",
+        "length": 159636,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Arabidopsis thaliana": {
+    "id": "GCA_000001735.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis",
+    "sequences": [
+      {
+        "id": "NC_003070.9",
+        "length": 30427671,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_003071.7",
+        "length": 19698289,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_003074.8",
+        "length": 23459830,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_003075.7",
+        "length": 18585056,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_003076.8",
+        "length": 26975502,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_001284.2",
+        "length": 366924,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_000932.1",
+        "length": 154478,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Arabis alpina": {
+    "id": "GCA_000733195.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Arabideae; Arabis",
+    "sequences": [
+      {
+        "id": "CM002869.1",
+        "length": 25238555,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002870.1",
+        "length": 28351830,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002871.1",
+        "length": 27950219,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002872.1",
+        "length": 23266485,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002873.1",
+        "length": 22804910,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002874.1",
+        "length": 37079636,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002875.1",
+        "length": 29178675,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002876.1",
+        "length": 40886855,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023367.1",
+        "length": 152866,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Arachis duranensis": {
+    "id": "GCA_000817695.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Dalbergieae; Arachis",
+    "sequences": [
+      {
+        "id": "NC_029772.2",
+        "length": 107035537,
+        "number": "A01",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029773.2",
+        "length": 93869048,
+        "number": "A02",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029774.2",
+        "length": 135057546,
+        "number": "A03",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029775.2",
+        "length": 123556382,
+        "number": "A04",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029776.2",
+        "length": 110037037,
+        "number": "A05",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029777.2",
+        "length": 112752717,
+        "number": "A06",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029778.2",
+        "length": 79126724,
+        "number": "A07",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029779.2",
+        "length": 49462234,
+        "number": "A08",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029780.2",
+        "length": 120672674,
+        "number": "A09",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029781.2",
+        "length": 109463236,
+        "number": "A10",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Arachis ipaensis": {
+    "id": "GCA_000816755.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Dalbergieae; Arachis",
+    "sequences": [
+      {
+        "id": "NC_029785.2",
+        "length": 137414913,
+        "number": "B01",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029786.2",
+        "length": 108997779,
+        "number": "B02",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029787.2",
+        "length": 136109863,
+        "number": "B03",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029788.2",
+        "length": 133615181,
+        "number": "B04",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029789.2",
+        "length": 149900536,
+        "number": "B05",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029790.2",
+        "length": 137147148,
+        "number": "B06",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029791.2",
+        "length": 126351151,
+        "number": "B07",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029792.2",
+        "length": 129606920,
+        "number": "B08",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029793.2",
+        "length": 147089397,
+        "number": "B09",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029794.2",
+        "length": 136175642,
+        "number": "B10",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Asparagus officinalis": {
+    "id": "GCA_001876935.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Asparagaceae; Asparagoideae; Asparagus",
+    "sequences": [
+      {
+        "id": "NC_033794.1",
+        "length": 132393784,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033795.1",
+        "length": 84732013,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033796.1",
+        "length": 113259003,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033797.1",
+        "length": 146560859,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033798.1",
+        "length": 131469567,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033799.1",
+        "length": 78779235,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033800.1",
+        "length": 151357931,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033801.1",
+        "length": 131339754,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033802.1",
+        "length": 68543460,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033803.1",
+        "length": 73452336,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034777.1",
+        "length": 156699,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Beta vulgaris": {
+    "id": "GCA_000511025.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Chenopodiaceae; Betoideae; Beta",
+    "sequences": [
+      {
+        "id": "NC_025812.2",
+        "length": 34941034,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025813.2",
+        "length": 40393389,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025814.2",
+        "length": 26577699,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025815.2",
+        "length": 33024243,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025816.2",
+        "length": 52461754,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025817.2",
+        "length": 60962716,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025818.2",
+        "length": 44152522,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025819.2",
+        "length": 38796167,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025820.2",
+        "length": 45274173,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_002511.2",
+        "length": 368801,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "EF534108.1",
+        "length": 149696,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Brachypodium distachyon": {
+    "id": "GCA_000005505.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Pooideae; Brachypodieae; Brachypodium",
+    "sequences": [
+      {
+        "id": "NC_016131.2",
+        "length": 75119905,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016132.2",
+        "length": 59384932,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016133.2",
+        "length": 59935730,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016134.2",
+        "length": 48772488,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016135.2",
+        "length": 28563423,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011032.1",
+        "length": 135199,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Brassica juncea": {
+    "id": "GCA_001687265.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica",
+    "sequences": [
+      {
+        "id": "CM007185.1",
+        "length": 45320942,
+        "number": "A1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007186.1",
+        "length": 25468329,
+        "number": "A2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007187.1",
+        "length": 43957692,
+        "number": "A3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007188.1",
+        "length": 33175494,
+        "number": "A4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007189.1",
+        "length": 38841276,
+        "number": "A5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007190.1",
+        "length": 38054609,
+        "number": "A6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007191.1",
+        "length": 28547970,
+        "number": "A7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007192.1",
+        "length": 29345952,
+        "number": "A8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007193.1",
+        "length": 62778564,
+        "number": "A9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007194.1",
+        "length": 22354415,
+        "number": "A10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007195.1",
+        "length": 32467241,
+        "number": "B1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007196.1",
+        "length": 60369500,
+        "number": "B2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007197.1",
+        "length": 83567108,
+        "number": "B3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007198.1",
+        "length": 28343526,
+        "number": "B4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007199.1",
+        "length": 50573455,
+        "number": "B5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007200.1",
+        "length": 18736220,
+        "number": "B6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007201.1",
+        "length": 44223734,
+        "number": "B7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007202.1",
+        "length": 77673080,
+        "number": "B8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016123.1",
+        "length": 219766,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_028272.1",
+        "length": 153483,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Brassica napus": {
+    "id": "GCA_000686985.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_027757.1",
+        "length": 46747018,
+        "number": "A1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027758.1",
+        "length": 31488241,
+        "number": "A2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027759.1",
+        "length": 51870232,
+        "number": "A3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027760.1",
+        "length": 41855496,
+        "number": "A4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027761.1",
+        "length": 35747119,
+        "number": "A5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027762.1",
+        "length": 47127078,
+        "number": "A6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027763.1",
+        "length": 43258566,
+        "number": "A7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027764.1",
+        "length": 24646021,
+        "number": "A8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027765.1",
+        "length": 46179939,
+        "number": "A9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027766.1",
+        "length": 21498587,
+        "number": "A10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027767.1",
+        "length": 45114658,
+        "number": "C1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027768.1",
+        "length": 46391361,
+        "number": "C2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027769.1",
+        "length": 54295181,
+        "number": "C3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027770.1",
+        "length": 60807478,
+        "number": "C4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027771.1",
+        "length": 39600445,
+        "number": "C5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027772.1",
+        "length": 39632211,
+        "number": "C6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027773.1",
+        "length": 38882957,
+        "number": "C7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027774.1",
+        "length": 36757632,
+        "number": "C8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027775.1",
+        "length": 23213773,
+        "number": "C9"
+      },
+      {
+        "type": "chloroplast",
+        "id": "NC_016734.1",
+        "length": 152860
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_008285.1",
+        "length": 221853
+      }
+    ]
+  },
+  "Brassica nigra": {
+    "id": "GCA_001682895.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica",
+    "sequences": [
+      {
+        "id": "CM004491.1",
+        "length": 30920229,
+        "number": "B1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004492.1",
+        "length": 44367670,
+        "number": "B2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004493.1",
+        "length": 44396707,
+        "number": "B3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004494.1",
+        "length": 32756842,
+        "number": "B4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004495.1",
+        "length": 39062406,
+        "number": "B5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004496.1",
+        "length": 32494073,
+        "number": "B6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004497.1",
+        "length": 41685129,
+        "number": "B7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004498.1",
+        "length": 44809562,
+        "number": "B8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029182.1",
+        "length": 232407,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_030450.1",
+        "length": 153633,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Brassica oleracea": {
+    "id": "GCA_000695525.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_027748.1",
+        "length": 43764888,
+        "number": "C1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027749.1",
+        "length": 52886895,
+        "number": "C2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027750.1",
+        "length": 64984695,
+        "number": "C3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027751.1",
+        "length": 53719093,
+        "number": "C4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027752.1",
+        "length": 46902585,
+        "number": "C5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027753.1",
+        "length": 39822476,
+        "number": "C6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027754.1",
+        "length": 48366697,
+        "number": "C7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027755.1",
+        "length": 41758685,
+        "number": "C8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027756.1",
+        "length": 54679868,
+        "number": "C9"
+      },
+      {
+        "type": "chloroplast",
+        "id": "KR233156.1",
+        "length": 153366
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_016118.1",
+        "length": 360271
+      }
+    ]
+  },
+  "Brassica rapa": {
+    "id": "GCA_000309985.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassiceae; Brassica",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_024795.1",
+        "length": 28635137,
+        "number": "A1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024796.1",
+        "length": 27864329,
+        "number": "A2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024797.1",
+        "length": 31725688,
+        "number": "A3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024798.1",
+        "length": 18984343,
+        "number": "A4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024799.1",
+        "length": 23960834,
+        "number": "A5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024800.1",
+        "length": 26286742,
+        "number": "A6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024801.1",
+        "length": 22597724,
+        "number": "A7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024802.1",
+        "length": 21613650,
+        "number": "A8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024803.1",
+        "length": 37155481,
+        "number": "A9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024804.1",
+        "length": 17599535,
+        "number": "A10"
+      },
+      {
+        "type": "chloroplast",
+        "id": "NC_015139.1",
+        "length": 219747
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_015139.1",
+        "length": 219747
+      }
+    ]
+  },
+  "Cajanus cajan": {
+    "id": "GCA_000340665.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Cajanus",
+    "sequences": [
+      {
+        "id": "NC_033804.1",
+        "length": 17676265,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033805.1",
+        "length": 36921656,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033806.1",
+        "length": 29476785,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033807.1",
+        "length": 12502730,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033808.1",
+        "length": 5133333,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033809.1",
+        "length": 23791330,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033810.1",
+        "length": 19579009,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033811.1",
+        "length": 20383548,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033812.1",
+        "length": 10489139,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033813.1",
+        "length": 22571102,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033814.1",
+        "length": 48970052,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031429.1",
+        "length": 153841,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Camelina sativa": {
+    "id": "GCA_000633955.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Camelina",
+    "sequences": [
+      {
+        "id": "NC_025685.1",
+        "length": 23241285,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025686.1",
+        "length": 29139806,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025687.1",
+        "length": 28500605,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025688.1",
+        "length": 30110606,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025689.1",
+        "length": 34971402,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025690.1",
+        "length": 26391736,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025691.1",
+        "length": 33617777,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025692.1",
+        "length": 27720346,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025693.1",
+        "length": 38094978,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025694.1",
+        "length": 25316904,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025695.1",
+        "length": 49703607,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025696.1",
+        "length": 33044737,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025697.1",
+        "length": 24101694,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025698.1",
+        "length": 31758599,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025699.1",
+        "length": 30521352,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025700.1",
+        "length": 29110212,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025701.1",
+        "length": 35492130,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025702.1",
+        "length": 20869551,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025703.1",
+        "length": 26736940,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025704.1",
+        "length": 30099736,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029337.1",
+        "length": 153044,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Capsicum annuum": {
+    "id": "GCA_000710875.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Capsiceae; Capsicum",
+    "sequences": [
+      {
+        "id": "NC_029977.1",
+        "length": 301019445,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029978.1",
+        "length": 163962470,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029979.1",
+        "length": 261510930,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029980.1",
+        "length": 215701946,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029981.1",
+        "length": 217274494,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029982.1",
+        "length": 219521584,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029983.1",
+        "length": 222112641,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029984.1",
+        "length": 153299543,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029985.1",
+        "length": 238794889,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029986.1",
+        "length": 205736368,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029987.1",
+        "length": 220335243,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029988.1",
+        "length": 229934170,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018552.1",
+        "length": 156781,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_024624.1",
+        "length": 511530,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Cenchrus americanus": {
+    "id": "GCA_002174835.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACMAD clade; Panicoideae; Panicodae; Paniceae; Cenchrinae; Cenchrus",
+    "sequences": [
+      {
+        "id": "CM007982.1",
+        "length": 275477322,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007983.1",
+        "length": 243061704,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007984.1",
+        "length": 300915289,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007985.1",
+        "length": 191835039,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007986.1",
+        "length": 158699395,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007987.1",
+        "length": 240577051,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007988.1",
+        "length": 154015841,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024171.1",
+        "length": 140718,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Cicer arietinum": {
+    "id": "GCA_000331145.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Cicereae; Cicer",
+    "sequences": [
+      {
+        "id": "NC_021160.1",
+        "length": 48359943,
+        "number": "Ca1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021161.1",
+        "length": 36634854,
+        "number": "Ca2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021162.1",
+        "length": 39989001,
+        "number": "Ca3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021163.1",
+        "length": 49191682,
+        "number": "Ca4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021164.1",
+        "length": 48169137,
+        "number": "Ca5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021165.1",
+        "length": 59463898,
+        "number": "Ca6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021166.1",
+        "length": 48961560,
+        "number": "Ca7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021167.1",
+        "length": 16477302,
+        "number": "Ca8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011163.1",
+        "length": 125319,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Citrus maxima": {
+    "id": "GCA_002006925.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae; Citrus",
+    "sequences": [
+      {
+        "id": "CM007748.1",
+        "length": 32082701,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007749.1",
+        "length": 53008150,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007750.1",
+        "length": 30666748,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007751.1",
+        "length": 29346085,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007752.1",
+        "length": 49531769,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007753.1",
+        "length": 23636167,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007754.1",
+        "length": 22269817,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007755.1",
+        "length": 21028080,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007756.1",
+        "length": 40397281,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034290.1",
+        "length": 160133,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Citrus sinensis": {
+    "id": "GCA_000317415.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae; Citrus",
+    "sequences": [
+      {
+        "id": "NC_023046.1",
+        "length": 28801852,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023047.1",
+        "length": 30838379,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023048.1",
+        "length": 28715784,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023049.1",
+        "length": 19951838,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023050.1",
+        "length": 36147563,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023051.1",
+        "length": 21175815,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023052.1",
+        "length": 32205869,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023053.1",
+        "length": 22711823,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023054.1",
+        "length": 18450785,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_008334.1",
+        "length": 160129,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Cucumis sativus": {
+    "id": "GCA_000004075.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Cucurbitales; Cucurbitaceae; Benincaseae; Cucumis",
+    "sequences": [
+      {
+        "id": "NC_026655.1",
+        "length": 29149675,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026656.1",
+        "length": 23174626,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026657.1",
+        "length": 39782674,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026658.1",
+        "length": 23425844,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026659.1",
+        "length": 28023477,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026660.1",
+        "length": 29076228,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026661.1",
+        "length": 19226500,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016005.1",
+        "length": 1555935,
+        "number": "1",
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_016004.1",
+        "length": 83817,
+        "number": "2",
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_016006.1",
+        "length": 44840,
+        "number": "3",
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_007144.1",
+        "length": 155293,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Daucus carota": {
+    "id": "GCA_001625215.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; campanulids; Apiales; Apiaceae; Apioideae; Scandiceae; Daucinae; Daucus; Daucus sect. Daucus",
+    "sequences": [
+      {
+        "id": "NC_030381.1",
+        "length": 51465339,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030382.1",
+        "length": 43913520,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030383.1",
+        "length": 50312079,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030384.1",
+        "length": 35924511,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030385.1",
+        "length": 41956025,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030386.1",
+        "length": 36610139,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030387.1",
+        "length": 36358036,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030388.1",
+        "length": 31745509,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030389.1",
+        "length": 33682890,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_008325.1",
+        "length": 155911,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_017855.1",
+        "length": 281132,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Elaeis guineensis": {
+    "id": "GCA_000442705.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Arecaceae; Arecoideae; Cocoseae; Elaeidinae; Elaeis",
+    "sequences": [
+      {
+        "id": "NC_025993.1",
+        "length": 68435666,
+        "number": "Chr1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025994.1",
+        "length": 65558141,
+        "number": "Chr2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025995.1",
+        "length": 60060032,
+        "number": "Chr3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025996.1",
+        "length": 57251647,
+        "number": "Chr4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025997.1",
+        "length": 51955539,
+        "number": "Chr5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025998.1",
+        "length": 44357769,
+        "number": "Chr6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025999.1",
+        "length": 43454766,
+        "number": "Chr7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026000.1",
+        "length": 40195399,
+        "number": "Chr8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026001.1",
+        "length": 38056896,
+        "number": "Chr9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026002.1",
+        "length": 31890735,
+        "number": "Chr10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026003.1",
+        "length": 30068910,
+        "number": "Chr11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026004.1",
+        "length": 28800575,
+        "number": "Chr12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026005.1",
+        "length": 27817470,
+        "number": "Chr13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026006.1",
+        "length": 24379743,
+        "number": "Chr14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026007.1",
+        "length": 24314465,
+        "number": "Chr15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026008.1",
+        "length": 21371083,
+        "number": "Chr16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_017602.1",
+        "length": 156973,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Eutrema salsugineum": {
+    "id": "GCA_000325905.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Eutremeae; Eutrema",
+    "sequences": [
+      {
+        "id": "CM001778.1",
+        "length": 28703709,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001779.1",
+        "length": 22899295,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001780.1",
+        "length": 24899828,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001781.1",
+        "length": 25023397,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001782.1",
+        "length": 25768102,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001783.1",
+        "length": 29380638,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001784.1",
+        "length": 29299852,
+        "number": "7",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Fragaria vesca": {
+    "id": "GCA_000184155.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Rosoideae; Potentilleae; Fragariinae; Fragaria",
+    "sequences": [
+      {
+        "id": "NC_020491.1",
+        "length": 22681039,
+        "number": "LG1",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020492.1",
+        "length": 33308843,
+        "number": "LG2",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020493.1",
+        "length": 27879571,
+        "number": "LG3",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020494.1",
+        "length": 23292877,
+        "number": "LG4",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020495.1",
+        "length": 29328693,
+        "number": "LG5",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020496.1",
+        "length": 38222195,
+        "number": "LG6",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_020497.1",
+        "length": 23403891,
+        "number": "LG7",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_015206.1",
+        "length": 155691,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Glycine max": {
+    "id": "GCA_000004515.3",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Glycine; Soja",
+    "sequences": [
+      {
+        "id": "NC_016088.2",
+        "length": 56831395,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016089.2",
+        "length": 48577505,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016090.2",
+        "length": 45779434,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016091.2",
+        "length": 52388848,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016092.2",
+        "length": 42234498,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016093.2",
+        "length": 51416163,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016094.2",
+        "length": 44630203,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016095.2",
+        "length": 47837022,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016096.2",
+        "length": 50189283,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016097.2",
+        "length": 51566898,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016098.2",
+        "length": 34766867,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016099.2",
+        "length": 40091314,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016100.2",
+        "length": 45874162,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016101.2",
+        "length": 49042192,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016102.2",
+        "length": 51756343,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016103.2",
+        "length": 37887014,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016104.2",
+        "length": 41641078,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016105.2",
+        "length": 58018742,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016106.2",
+        "length": 50746504,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016107.2",
+        "length": 47900577,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007942.1",
+        "length": 152218,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_020455.1",
+        "length": 402558,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Gossypium arboreum": {
+    "id": "GCA_000612285.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium",
+    "sequences": [
+      {
+        "id": "NC_030664.1",
+        "length": 147124936,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030665.1",
+        "length": 101023042,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030666.1",
+        "length": 102937913,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030667.1",
+        "length": 137675496,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030668.1",
+        "length": 59691364,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030669.1",
+        "length": 121339338,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030670.1",
+        "length": 127721098,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030671.1",
+        "length": 127390875,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030672.1",
+        "length": 96604005,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030673.1",
+        "length": 114683840,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030674.1",
+        "length": 105699404,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030675.1",
+        "length": 146008498,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030676.1",
+        "length": 144148110,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016712.1",
+        "length": 160230,
+        "type": "chloroplast"
+      },
+      {
+        "id": "KR736342.1",
+        "length": 687482,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Gossypium hirsutum": {
+    "id": "GCA_000987745.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium",
+    "sequences": [
+      {
+        "id": "NC_030074.1",
+        "length": 92291805,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030075.1",
+        "length": 106994729,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030076.1",
+        "length": 37363027,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030077.1",
+        "length": 78750349,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030078.1",
+        "length": 56898656,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030079.1",
+        "length": 79162310,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030080.1",
+        "length": 42802127,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030081.1",
+        "length": 100353538,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030082.1",
+        "length": 34012170,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030083.1",
+        "length": 91128445,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030084.1",
+        "length": 95484752,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030085.1",
+        "length": 102570143,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030086.1",
+        "length": 56485995,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030087.1",
+        "length": 44799946,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030088.1",
+        "length": 91555666,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030089.1",
+        "length": 102030775,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030090.1",
+        "length": 39386523,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030091.1",
+        "length": 57801308,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030092.1",
+        "length": 70911690,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030093.1",
+        "length": 65574513,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030094.1",
+        "length": 47987235,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030095.1",
+        "length": 61129363,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030096.1",
+        "length": 61753794,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030097.1",
+        "length": 55877068,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030098.1",
+        "length": 50193149,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030099.1",
+        "length": 23272750,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027406.1",
+        "length": 668584,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_007944.1",
+        "length": 160301,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Gossypium raimondii": {
+    "id": "GCA_000327365.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium",
+    "sequences": [
+      {
+        "id": "NC_026929.1",
+        "length": 55868233,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026930.1",
+        "length": 62769430,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026931.1",
+        "length": 45765648,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026932.1",
+        "length": 62178258,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026933.1",
+        "length": 64140413,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026934.1",
+        "length": 51074515,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026935.1",
+        "length": 60982465,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026936.1",
+        "length": 57128820,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026937.1",
+        "length": 70713020,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026938.1",
+        "length": 62175169,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026939.1",
+        "length": 62681010,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026940.1",
+        "length": 35429946,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026941.1",
+        "length": 58321163,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016668.1",
+        "length": 160161,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_029998.1",
+        "length": 676078,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Helianthus annuus": {
+    "id": "GCA_002127325.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; campanulids; Asterales; Asteraceae; Asteroideae; Heliantheae alliance; Heliantheae; Helianthus",
+    "sequences": [
+      {
+        "id": "CM007890.1",
+        "length": 153905722,
+        "number": "1",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007891.1",
+        "length": 180951721,
+        "number": "2",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007892.1",
+        "length": 168485022,
+        "number": "3",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007893.1",
+        "length": 178899001,
+        "number": "4",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007894.1",
+        "length": 219053782,
+        "number": "5",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007895.1",
+        "length": 103887801,
+        "number": "6",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007896.1",
+        "length": 103871911,
+        "number": "7",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007897.1",
+        "length": 153252196,
+        "number": "8",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007898.1",
+        "length": 209865144,
+        "number": "9",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007899.1",
+        "length": 246315975,
+        "number": "10",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007900.1",
+        "length": 168460249,
+        "number": "11",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007901.1",
+        "length": 166489593,
+        "number": "12",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007902.1",
+        "length": 197258317,
+        "number": "13",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007903.1",
+        "length": 174509413,
+        "number": "14",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007904.1",
+        "length": 171247636,
+        "number": "15",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007905.1",
+        "length": 188620566,
+        "number": "16",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007906.1",
+        "length": 214723238,
+        "number": "17",
+        "type": "linkage group"
+      },
+      {
+        "id": "CM007907.1",
+        "length": 151101,
+        "type": "chloroplast"
+      },
+      {
+        "id": "CM007908.1",
+        "length": 301004,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Leersia perrieri": {
+    "id": "GCA_000325765.3",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Leersia",
+    "sequences": [
+      {
+        "id": "CM002476.1",
+        "length": 32922458,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002480.1",
+        "length": 26406337,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002481.1",
+        "length": 29602667,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002482.1",
+        "length": 23326293,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002483.1",
+        "length": 20807039,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002484.1",
+        "length": 21016138,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002485.1",
+        "length": 22540073,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002486.1",
+        "length": 20165712,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002487.1",
+        "length": 15534364,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002477.1",
+        "length": 15557830,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002478.1",
+        "length": 21046960,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002479.1",
+        "length": 17761961,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "KY347906.1",
+        "length": 136196,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Lupinus angustifolius": {
+    "id": "GCA_001865875.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Genisteae; Lupinus",
+    "sequences": [
+      {
+        "id": "NC_032009.1",
+        "length": 36457581,
+        "number": "LG01",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032010.1",
+        "length": 24697652,
+        "number": "LG02",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032011.1",
+        "length": 30153019,
+        "number": "LG03",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032012.1",
+        "length": 27333975,
+        "number": "LG04",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032013.1",
+        "length": 26376911,
+        "number": "LG05",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032014.1",
+        "length": 33111450,
+        "number": "LG06",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032015.1",
+        "length": 19782170,
+        "number": "LG07",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032016.1",
+        "length": 25521646,
+        "number": "LG08",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032017.1",
+        "length": 21753712,
+        "number": "LG09",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032018.1",
+        "length": 16341955,
+        "number": "LG10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032019.1",
+        "length": 35963958,
+        "number": "LG11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032020.1",
+        "length": 19065701,
+        "number": "LG12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032021.1",
+        "length": 17820680,
+        "number": "LG13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032022.1",
+        "length": 16251777,
+        "number": "LG14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032023.1",
+        "length": 20964703,
+        "number": "LG15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032024.1",
+        "length": 20786881,
+        "number": "LG16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032025.1",
+        "length": 21299880,
+        "number": "LG17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032026.1",
+        "length": 16588007,
+        "number": "LG18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032027.1",
+        "length": 18159812,
+        "number": "LG19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032028.1",
+        "length": 21988590,
+        "number": "LG20",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Malus domestica": {
+    "id": "GCA_000148765.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Maloideae; Maleae; Malus",
+    "sequences": [
+      {
+        "id": "NC_024239.1",
+        "length": 29289779,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024240.1",
+        "length": 36374806,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024241.1",
+        "length": 33710802,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024242.1",
+        "length": 23020739,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024243.1",
+        "length": 31606955,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024244.1",
+        "length": 25473135,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024245.1",
+        "length": 26383534,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024246.1",
+        "length": 29603939,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024247.1",
+        "length": 33717675,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024248.1",
+        "length": 33391235,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024249.1",
+        "length": 35299535,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024250.1",
+        "length": 31678690,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024251.1",
+        "length": 34719086,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024252.1",
+        "length": 29158859,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024253.1",
+        "length": 47181002,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024254.1",
+        "length": 20664393,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024255.1",
+        "length": 24923725,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018554.1",
+        "length": 396947,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Manihot esculenta": {
+    "id": "GCA_001659605.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Malpighiales; Euphorbiaceae; Crotonoideae; Manihoteae; Manihot",
+    "sequences": [
+      {
+        "id": "CM004387.1",
+        "length": 34959721,
+        "number": "LG1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004388.1",
+        "length": 32417782,
+        "number": "LG2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004389.1",
+        "length": 29412403,
+        "number": "LG3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004390.1",
+        "length": 28735499,
+        "number": "LG4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004391.1",
+        "length": 28438989,
+        "number": "LG5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004392.1",
+        "length": 27939960,
+        "number": "LG6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004393.1",
+        "length": 27069033,
+        "number": "LG7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004394.1",
+        "length": 34000172,
+        "number": "LG8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004395.1",
+        "length": 29413690,
+        "number": "LG9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004396.1",
+        "length": 26335333,
+        "number": "LG10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004397.1",
+        "length": 27369018,
+        "number": "LG11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004398.1",
+        "length": 31596830,
+        "number": "LG12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004399.1",
+        "length": 28119335,
+        "number": "LG13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004400.1",
+        "length": 24855542,
+        "number": "LG14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004401.1",
+        "length": 26192760,
+        "number": "LG15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004402.1",
+        "length": 28979753,
+        "number": "LG16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004403.1",
+        "length": 27373735,
+        "number": "LG17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004404.1",
+        "length": 25231592,
+        "number": "LG18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_010433.1",
+        "length": 161453,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Medicago truncatula": {
+    "id": "GCA_000219495.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Trifolieae; Medicago",
+    "sequences": [
+      {
+        "id": "NC_016407.2",
+        "length": 52991155,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016408.2",
+        "length": 45729672,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016409.2",
+        "length": 55515152,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016410.2",
+        "length": 56582383,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016411.2",
+        "length": 43630510,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016412.2",
+        "length": 35275713,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016413.2",
+        "length": 49172423,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016414.2",
+        "length": 45569985,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_003119.6",
+        "length": 124033,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_029641.1",
+        "length": 271618,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Micromonas commoda": {
+    "id": "GCA_000090985.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas",
+    "sequences": [
+      {
+        "id": "NC_013038.1",
+        "length": 2053059,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013039.1",
+        "length": 1914325,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013040.1",
+        "length": 1759951,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013041.1",
+        "length": 1584431,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013042.1",
+        "length": 1518631,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013043.1",
+        "length": 1431126,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013044.1",
+        "length": 1394110,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013045.1",
+        "length": 1276107,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013046.1",
+        "length": 1260462,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013047.1",
+        "length": 1160640,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013048.1",
+        "length": 1145873,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013049.1",
+        "length": 1084119,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013050.1",
+        "length": 1011177,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013051.1",
+        "length": 832468,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013052.1",
+        "length": 739136,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013053.1",
+        "length": 608929,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_013054.1",
+        "length": 214782,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012643.1",
+        "length": 47425,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_012575.1",
+        "length": 72585,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Musa acuminata": {
+    "id": "GCA_000313855.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Zingiberales; Musaceae; Musa",
+    "sequences": [
+      {
+        "id": "NC_025202.1",
+        "length": 27573629,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025203.1",
+        "length": 22054697,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025204.1",
+        "length": 30470407,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025205.1",
+        "length": 30051516,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025206.1",
+        "length": 29377369,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025207.1",
+        "length": 34899179,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025208.1",
+        "length": 28617404,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025209.1",
+        "length": 35439739,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025210.1",
+        "length": 34148863,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025211.1",
+        "length": 33665772,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025212.1",
+        "length": 25514024,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "HF677508.1",
+        "length": 169972,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Nicotiana attenuata": {
+    "id": "GCA_001879085.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Nicotianoideae; Nicotianeae; Nicotiana",
+    "sequences": [
+      {
+        "id": "NC_031989.1",
+        "length": 110538649,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031990.1",
+        "length": 96359640,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031991.1",
+        "length": 72893213,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031992.1",
+        "length": 12333206,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031993.1",
+        "length": 57012777,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031994.1",
+        "length": 97571839,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031995.1",
+        "length": 114765206,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031996.1",
+        "length": 47755514,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031997.1",
+        "length": 50975570,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031998.1",
+        "length": 51082206,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031999.1",
+        "length": 61252062,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_032000.1",
+        "length": 53491057,
+        "number": "12",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Oryza barthii": {
+    "id": "GCA_000182155.3",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM002639.1",
+        "length": 36915442,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002643.2",
+        "length": 31686972,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002644.1",
+        "length": 33311619,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002645.1",
+        "length": 27574323,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002646.2",
+        "length": 24206129,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002647.1",
+        "length": 25711811,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002648.1",
+        "length": 24128185,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002649.1",
+        "length": 22678724,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002650.1",
+        "length": 19219615,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002640.2",
+        "length": 19274048,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002641.2",
+        "length": 23014695,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002642.2",
+        "length": 20550741,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027460.1",
+        "length": 134674,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza brachyantha": {
+    "id": "GCA_000231095.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "NC_023163.1",
+        "length": 33916305,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023164.1",
+        "length": 27082872,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023165.1",
+        "length": 29620734,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023166.1",
+        "length": 21479432,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023167.1",
+        "length": 20131956,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023168.1",
+        "length": 21794218,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023169.1",
+        "length": 18603524,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023170.1",
+        "length": 18224760,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023171.1",
+        "length": 14105664,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023172.1",
+        "length": 14643570,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023173.1",
+        "length": 16001410,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023174.1",
+        "length": 15318893,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030596.1",
+        "length": 134604,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza glumipatula": {
+    "id": "GCA_000576495.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM002512.1",
+        "length": 46529941,
+        "number": "chr1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002513.1",
+        "length": 22967634,
+        "number": "chr10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002514.1",
+        "length": 27098305,
+        "number": "chr11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002515.1",
+        "length": 26741765,
+        "number": "chr12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002516.1",
+        "length": 38039368,
+        "number": "chr2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002517.1",
+        "length": 37594838,
+        "number": "chr3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002518.1",
+        "length": 32884216,
+        "number": "chr4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002519.1",
+        "length": 30429317,
+        "number": "chr5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002520.1",
+        "length": 31548187,
+        "number": "chr6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002521.1",
+        "length": 28350858,
+        "number": "chr7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002522.1",
+        "length": 27185770,
+        "number": "chr8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002523.1",
+        "length": 23490084,
+        "number": "chr9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027461.1",
+        "length": 134583,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza longistaminata": {
+    "id": "GCA_001514335.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM003660.1",
+        "length": 43445878,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003661.1",
+        "length": 36083738,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003662.1",
+        "length": 46202548,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003663.1",
+        "length": 32292456,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003664.1",
+        "length": 25164199,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003665.1",
+        "length": 30401905,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003666.1",
+        "length": 26479886,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003667.1",
+        "length": 23026653,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003668.1",
+        "length": 22605696,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003669.1",
+        "length": 17164355,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003670.1",
+        "length": 21200727,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003671.1",
+        "length": 18681871,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027462.1",
+        "length": 134567,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza meridionalis": {
+    "id": "GCA_000338895.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM002524.1",
+        "length": 41795227,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002525.1",
+        "length": 37273066,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002526.1",
+        "length": 38314702,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002527.1",
+        "length": 30391017,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002528.1",
+        "length": 26596109,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002529.1",
+        "length": 31808207,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002530.1",
+        "length": 26849004,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002531.1",
+        "length": 21838022,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002532.1",
+        "length": 18641908,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002533.1",
+        "length": 17741381,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002534.1",
+        "length": 24454635,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002535.1",
+        "length": 19964954,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_016927.1",
+        "length": 134558,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza nivara": {
+    "id": "GCA_000576065.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM002500.1",
+        "length": 42845077,
+        "number": "chr1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002501.1",
+        "length": 21549876,
+        "number": "chr10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002502.1",
+        "length": 24378308,
+        "number": "chr11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002503.1",
+        "length": 20076173,
+        "number": "chr12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002504.1",
+        "length": 35065507,
+        "number": "chr2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002505.1",
+        "length": 36134596,
+        "number": "chr3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002506.1",
+        "length": 28646061,
+        "number": "chr4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002507.1",
+        "length": 28014461,
+        "number": "chr5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002508.1",
+        "length": 29411429,
+        "number": "chr6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002509.1",
+        "length": 24717764,
+        "number": "chr7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002510.1",
+        "length": 26703665,
+        "number": "chr8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002511.1",
+        "length": 20407407,
+        "number": "chr9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_005973.1",
+        "length": 134494,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza punctata": {
+    "id": "GCA_000573905.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CM002488.1",
+        "length": 46096743,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002489.1",
+        "length": 39559433,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002490.1",
+        "length": 38925377,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002491.1",
+        "length": 33711903,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002492.1",
+        "length": 31082981,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002493.1",
+        "length": 34615992,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002494.1",
+        "length": 31244610,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002495.1",
+        "length": 29853973,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002496.1",
+        "length": 26294017,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002497.1",
+        "length": 25992119,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002498.1",
+        "length": 28494620,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002499.1",
+        "length": 27944835,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "KF359908.1",
+        "length": 134582,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Oryza sativa Japonica": {
+    "id": "GCA_001433935.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "NC_029256.1",
+        "length": 43270923,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029257.1",
+        "length": 35937250,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029258.1",
+        "length": 36413819,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029259.1",
+        "length": 35502694,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029260.1",
+        "length": 29958434,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029261.1",
+        "length": 31248787,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029262.1",
+        "length": 29697621,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029263.1",
+        "length": 28443022,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029264.1",
+        "length": 23012720,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029265.1",
+        "length": 23207287,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029266.1",
+        "length": 29021106,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029267.1",
+        "length": 27531856,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_001320.1",
+        "length": 134525,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_011033.1",
+        "length": 490520,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Oryza sativa Indica": {
+    "id": "GCA_002151415.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza",
+    "sequences": [
+      {
+        "id": "CP018157.1",
+        "length": 44361539,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018158.1",
+        "length": 37764328,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018159.1",
+        "length": 39691490,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018160.1",
+        "length": 35849732,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018161.1",
+        "length": 31237231,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018162.1",
+        "length": 32465040,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018163.1",
+        "length": 30277827,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018164.1",
+        "length": 29952003,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018165.1",
+        "length": 24760661,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018166.1",
+        "length": 25582588,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018167.1",
+        "length": 31778392,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018168.1",
+        "length": 26601357,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP018170.1",
+        "length": 134546,
+        "type": "chloroplast"
+      },
+      {
+        "id": "CP018169.1",
+        "length": 527116,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Ostreococcus lucimarinus": {
+    "id": "GCA_000092065.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Bathycoccaceae; Ostreococcus",
+    "sequences": [
+      {
+        "id": "NC_009355.1",
+        "length": 1152508,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009356.1",
+        "length": 895087,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009357.1",
+        "length": 982987,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009358.1",
+        "length": 930724,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009359.1",
+        "length": 847696,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009360.1",
+        "length": 818664,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009361.1",
+        "length": 783246,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009362.1",
+        "length": 701771,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009363.1",
+        "length": 670853,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009364.1",
+        "length": 613585,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009365.1",
+        "length": 593542,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009366.1",
+        "length": 538963,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009367.1",
+        "length": 528469,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009368.1",
+        "length": 708927,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009369.1",
+        "length": 468366,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009370.1",
+        "length": 428333,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009371.1",
+        "length": 366173,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009372.1",
+        "length": 149386,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009373.1",
+        "length": 154676,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009374.1",
+        "length": 549133,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009375.1",
+        "length": 321799,
+        "number": "21",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Ostreococcus tauri": {
+    "id": "GCA_000214015.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Bathycoccaceae; Ostreococcus",
+    "sequences": [
+      {
+        "id": "NC_014426.1",
+        "length": 1076297,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014427.1",
+        "length": 1056933,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014428.1",
+        "length": 975458,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014429.1",
+        "length": 884654,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014430.1",
+        "length": 817477,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014431.1",
+        "length": 789111,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014432.1",
+        "length": 739027,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014433.1",
+        "length": 689208,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014434.1",
+        "length": 683751,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014435.1",
+        "length": 573623,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014436.1",
+        "length": 578475,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014437.1",
+        "length": 521582,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014438.1",
+        "length": 531849,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014439.1",
+        "length": 516206,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014440.1",
+        "length": 486289,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014441.1",
+        "length": 474136,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014442.1",
+        "length": 397082,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014443.1",
+        "length": 323548,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014444.1",
+        "length": 182106,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014445.1",
+        "length": 159539,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_008290.1",
+        "length": 44237,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_008289.1",
+        "length": 71666,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Phaseolus vulgaris": {
+    "id": "GCA_000499845.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Phaseolus",
+    "sequences": [
+      {
+        "id": "NC_023759.1",
+        "length": 52205531,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023758.1",
+        "length": 49040938,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023757.1",
+        "length": 52284309,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023756.1",
+        "length": 45960019,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023755.1",
+        "length": 40819286,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023754.1",
+        "length": 31977256,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023753.1",
+        "length": 51758522,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023752.1",
+        "length": 59662532,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023751.1",
+        "length": 37469608,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023750.1",
+        "length": 43275151,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_023749.1",
+        "length": 50367376,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009259.1",
+        "length": 150285,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Populus trichocarpa": {
+    "id": "GCA_000002775.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae; Populus",
+    "sequences": [
+      {
+        "id": "NC_008467.2",
+        "length": 48367220,
+        "number": "LGI",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008468.2",
+        "length": 23562801,
+        "number": "LGII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008469.2",
+        "length": 20216275,
+        "number": "LGIII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008470.2",
+        "length": 23188140,
+        "number": "LGIV",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008471.2",
+        "length": 25802683,
+        "number": "LGV",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008472.2",
+        "length": 26894541,
+        "number": "LGVI",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008473.2",
+        "length": 15101417,
+        "number": "LGVII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008474.2",
+        "length": 18835763,
+        "number": "LGVIII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008475.2",
+        "length": 12942059,
+        "number": "LGIX",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008476.2",
+        "length": 21538349,
+        "number": "LGX",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008477.2",
+        "length": 18885544,
+        "number": "LGXI",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008478.2",
+        "length": 14929429,
+        "number": "LGXII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008479.2",
+        "length": 15658869,
+        "number": "LGXIII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008480.2",
+        "length": 17716633,
+        "number": "LGXIV",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008481.2",
+        "length": 15134944,
+        "number": "LGXV",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008482.2",
+        "length": 14134809,
+        "number": "LGXVI",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008483.2",
+        "length": 14661173,
+        "number": "LGXVII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008484.2",
+        "length": 14966190,
+        "number": "LGXVIII",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_008485.2",
+        "length": 16008726,
+        "number": "LGXIX",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_009143.1",
+        "length": 157033,
+        "type": "chloroplast"
+      },
+      {
+        "id": "KM091932.1",
+        "length": 230907,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Prunus mume": {
+    "id": "GCA_000346735.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Maloideae; Amygdaleae; Prunus",
+    "sequences": [
+      {
+        "id": "NC_024126.1",
+        "length": 26753024,
+        "number": "LG1",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024127.1",
+        "length": 42086771,
+        "number": "LG2",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024128.1",
+        "length": 24358521,
+        "number": "LG3",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024129.1",
+        "length": 23934096,
+        "number": "LG4",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024130.1",
+        "length": 26133890,
+        "number": "LG5",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024131.1",
+        "length": 21292200,
+        "number": "LG6",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024132.1",
+        "length": 17044513,
+        "number": "LG7",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_024133.1",
+        "length": 17249391,
+        "number": "LG8",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_023798.1",
+        "length": 157712,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Prunus persica": {
+    "id": "GCA_000346465.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rosaceae; Maloideae; Amygdaleae; Prunus",
+    "sequences": [
+      {
+        "id": "NC_034009.1",
+        "length": 47851208,
+        "number": "G1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034010.1",
+        "length": 30405870,
+        "number": "G2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034011.1",
+        "length": 27368013,
+        "number": "G3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034012.1",
+        "length": 25843236,
+        "number": "G4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034013.1",
+        "length": 18496696,
+        "number": "G5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034014.1",
+        "length": 30767194,
+        "number": "G6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034015.1",
+        "length": 22388614,
+        "number": "G7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_034016.1",
+        "length": 22573980,
+        "number": "G8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014697.1",
+        "length": 157790,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Schrenkiella parvula": {
+    "id": "GCA_000218505.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Brassicaceae incertae sedis; Schrenkiella",
+    "sequences": [
+      {
+        "id": "CM001187.1",
+        "length": 19836964,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001188.1",
+        "length": 13294645,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001189.1",
+        "length": 15215380,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001190.1",
+        "length": 14320061,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001191.1",
+        "length": 16150104,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001192.1",
+        "length": 18523719,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM001193.1",
+        "length": 17055980,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028726.1",
+        "length": 153979,
+        "type": "chloroplast"
+      },
+      {
+        "id": "KT988071.2",
+        "length": 255773,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Sesamum indicum": {
+    "id": "GCA_000512975.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Lamiales; Pedaliaceae; Sesamum",
+    "sequences": [
+      {
+        "id": "NC_026145.1",
+        "length": 18577331,
+        "number": "LG1",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026146.1",
+        "length": 18500646,
+        "number": "LG2",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026147.1",
+        "length": 24928530,
+        "number": "LG3",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026148.1",
+        "length": 17356267,
+        "number": "LG4",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026149.1",
+        "length": 18898134,
+        "number": "LG5",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026150.1",
+        "length": 25289714,
+        "number": "LG6",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026151.1",
+        "length": 11725536,
+        "number": "LG7",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026152.1",
+        "length": 21523998,
+        "number": "LG8",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026153.1",
+        "length": 12411895,
+        "number": "LG9",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026154.1",
+        "length": 17245970,
+        "number": "LG10",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026155.1",
+        "length": 15446199,
+        "number": "LG11",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026156.1",
+        "length": 6373461,
+        "number": "LG12",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026157.1",
+        "length": 5050363,
+        "number": "LG13",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026158.1",
+        "length": 4882680,
+        "number": "LG14",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026159.1",
+        "length": 10047770,
+        "number": "LG15",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_026160.1",
+        "length": 4963887,
+        "number": "LG16",
+        "type": "linkage group"
+      },
+      {
+        "id": "NC_016433.2",
+        "length": 153324,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Setaria italica": {
+    "id": "GCA_000263155.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACMAD clade; Panicoideae; Panicodae; Paniceae; Cenchrinae; Setaria",
+    "sequences": [
+      {
+        "id": "NC_028450.1",
+        "length": 42145699,
+        "number": "I",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028451.1",
+        "length": 49199997,
+        "number": "II",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028452.1",
+        "length": 50651951,
+        "number": "III",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028453.1",
+        "length": 40407879,
+        "number": "IV",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028454.1",
+        "length": 47252588,
+        "number": "V",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028455.1",
+        "length": 36014550,
+        "number": "VI",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028456.1",
+        "length": 35964315,
+        "number": "VII",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028457.1",
+        "length": 40689132,
+        "number": "VIII",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028458.1",
+        "length": 58970307,
+        "number": "IX",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_022850.1",
+        "length": 135516,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Solanum lycopersicum": {
+    "id": "GCA_000188115.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum; Lycopersicon",
+    "sequences": [
+      {
+        "id": "NC_015438.2",
+        "length": 98543444,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015439.2",
+        "length": 55340444,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015440.2",
+        "length": 70787664,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015441.2",
+        "length": 66470942,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015442.2",
+        "length": 65875088,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015443.2",
+        "length": 49751636,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015444.2",
+        "length": 68045021,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015445.2",
+        "length": 65866657,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015446.2",
+        "length": 72482091,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015447.2",
+        "length": 65527505,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015448.2",
+        "length": 56302525,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015449.2",
+        "length": 67145203,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007898.3",
+        "length": 155461,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Solanum pennellii": {
+    "id": "GCA_001406875.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Solanoideae; Solaneae; Solanum; Lycopersicon",
+    "sequences": [
+      {
+        "id": "NC_028637.1",
+        "length": 109333515,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028638.1",
+        "length": 59803892,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028639.1",
+        "length": 75414019,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028640.1",
+        "length": 77197300,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028641.1",
+        "length": 77991103,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028642.1",
+        "length": 60730942,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028643.1",
+        "length": 79292169,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028644.1",
+        "length": 70546659,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028645.1",
+        "length": 84057508,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028646.1",
+        "length": 82529941,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028647.1",
+        "length": 66223686,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028648.1",
+        "length": 83305730,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "HG975452.1",
+        "length": 155381,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Sorghum bicolor": {
+    "id": "GCA_000003195.3",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACMAD clade; Panicoideae; Andropogonodae; Andropogoneae; Sorghinae; Sorghum",
+    "sequences": [
+      {
+        "id": "NC_012870.2",
+        "length": 80884392,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012871.2",
+        "length": 77742459,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012872.2",
+        "length": 74386277,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012873.2",
+        "length": 68658214,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012874.2",
+        "length": 71854669,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012875.2",
+        "length": 61277060,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012876.2",
+        "length": 65505356,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012877.2",
+        "length": 62686529,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012878.2",
+        "length": 59416394,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012879.2",
+        "length": 61233695,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_008360.1",
+        "length": 468628,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_008602.1",
+        "length": 140754,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Spirodela polyrhiza": {
+    "id": "GCA_001981405.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Araceae; Lemnoideae; Spirodela",
+    "sequences": [
+      {
+        "id": "CP019103.1",
+        "length": 5849386,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019104.1",
+        "length": 5901629,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019105.1",
+        "length": 5795864,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019106.1",
+        "length": 5602277,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019107.1",
+        "length": 5171376,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019108.1",
+        "length": 4450370,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019109.1",
+        "length": 4297296,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019110.1",
+        "length": 4131207,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019111.1",
+        "length": 3929835,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019112.1",
+        "length": 2390803,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019093.1",
+        "length": 14772968,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019094.1",
+        "length": 11374105,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019095.1",
+        "length": 8976907,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019096.1",
+        "length": 8682450,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019097.1",
+        "length": 8147712,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019098.1",
+        "length": 8045491,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019099.1",
+        "length": 7914316,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019100.1",
+        "length": 7641483,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019101.1",
+        "length": 6991192,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CP019102.1",
+        "length": 6603776,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015891.1",
+        "length": 168788,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_017840.1",
+        "length": 228493,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Theobroma cacao": {
+    "id": "GCA_000208745.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Byttnerioideae; Theobroma",
+    "sequences": [
+      {
+        "id": "NC_030850.1",
+        "length": 37323695,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030851.1",
+        "length": 41236440,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030852.1",
+        "length": 36364294,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030853.1",
+        "length": 31929104,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030854.1",
+        "length": 39371879,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030855.1",
+        "length": 26303135,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030856.1",
+        "length": 21614486,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030857.1",
+        "length": 19593398,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030858.1",
+        "length": 38630433,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030859.1",
+        "length": 21822658,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_014676.2",
+        "length": 160619,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Trifolium pratense": {
+    "id": "GCA_900079335.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Trifolieae; Trifolium",
+    "sequences": [
+      {
+        "id": "LT555306.1",
+        "length": 28142018,
+        "number": "LG1",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555307.1",
+        "length": 32560536,
+        "number": "LG2",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555308.1",
+        "length": 31061273,
+        "number": "LG3",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555309.1",
+        "length": 28907061,
+        "number": "LG4",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555310.1",
+        "length": 15272566,
+        "number": "LG5",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555311.1",
+        "length": 22682783,
+        "number": "LG6",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT555312.1",
+        "length": 30551617,
+        "number": "LG7",
+        "type": "chromosome"
+      },
+      {
+        "id": "KJ788290.1",
+        "length": 121178,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Triticum dicoccoides": {
+    "id": "GCA_002162155.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum",
+    "sequences": [
+      {
+        "id": "CM007921.1",
+        "length": 593586810,
+        "number": "1A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007922.1",
+        "length": 690537804,
+        "number": "1B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007923.1",
+        "length": 775183943,
+        "number": "2A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007924.1",
+        "length": 803365466,
+        "number": "2B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007925.1",
+        "length": 754274518,
+        "number": "3A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007926.1",
+        "length": 841096276,
+        "number": "3B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007927.1",
+        "length": 726427787,
+        "number": "4A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007928.1",
+        "length": 673896466,
+        "number": "4B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007929.1",
+        "length": 700855599,
+        "number": "5A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007930.1",
+        "length": 712180895,
+        "number": "5B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007931.1",
+        "length": 621432051,
+        "number": "6A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007932.1",
+        "length": 703217322,
+        "number": "6B",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007933.1",
+        "length": 727576108,
+        "number": "7A",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007934.1",
+        "length": 755408349,
+        "number": "7B",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Utricularia gibba": {
+    "id": "GCA_002189035.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Lamiales; Lentibulariaceae; Utricularia",
+    "sequences": [
+      {
+        "id": "CM007989.1",
+        "length": 8502017,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007990.1",
+        "length": 6193689,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007991.1",
+        "length": 5347415,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007992.1",
+        "length": 3848081,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021449.1",
+        "length": 152113,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Vigna angularis": {
+    "id": "GCA_001190045.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Vigna",
+    "sequences": [
+      {
+        "id": "NC_030637.1",
+        "length": 42234885,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030638.1",
+        "length": 35625406,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030639.1",
+        "length": 41204908,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030640.1",
+        "length": 34671004,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030641.1",
+        "length": 30687117,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030642.1",
+        "length": 19356003,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030643.1",
+        "length": 39404547,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030644.1",
+        "length": 30791815,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030645.1",
+        "length": 31747250,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030646.1",
+        "length": 40424437,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030647.1",
+        "length": 26588826,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_021091.1",
+        "length": 151683,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_021092.1",
+        "length": 404466,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Vigna radiata": {
+    "id": "GCA_000741045.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Vigna",
+    "sequences": [
+      {
+        "id": "NC_028351.1",
+        "length": 36501346,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028352.1",
+        "length": 25360630,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028353.1",
+        "length": 12950713,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028354.1",
+        "length": 20812224,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028355.1",
+        "length": 37180910,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028356.1",
+        "length": 37436759,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028357.1",
+        "length": 55601358,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028358.1",
+        "length": 45727239,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028359.1",
+        "length": 21008463,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028360.1",
+        "length": 20996616,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_028361.1",
+        "length": 19732206,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_015121.1",
+        "length": 401262,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_013843.1",
+        "length": 151271,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Vitis vinifera": {
+    "id": "GCA_000003745.2",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; Vitales; Vitaceae; Vitis",
+    "sequences": [
+      {
+        "id": "NC_012007.3",
+        "length": 23037639,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012008.3",
+        "length": 18779844,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012009.3",
+        "length": 19341862,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012010.3",
+        "length": 23867706,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012011.3",
+        "length": 25021643,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012012.3",
+        "length": 21508407,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012013.3",
+        "length": 21026613,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012014.3",
+        "length": 22385789,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012015.3",
+        "length": 23006712,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012016.3",
+        "length": 18140952,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012017.3",
+        "length": 19818926,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012018.3",
+        "length": 22702307,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012019.3",
+        "length": 24396255,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012020.3",
+        "length": 30274277,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012021.3",
+        "length": 20304914,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012022.3",
+        "length": 22053297,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012023.3",
+        "length": 17126926,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012024.3",
+        "length": 29360087,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012025.3",
+        "length": 24021853,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_012119.1",
+        "length": 773279,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_007957.1",
+        "length": 160928,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Zea mays": {
+    "id": "GCA_000005005.6",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACMAD clade; Panicoideae; Andropogonodae; Andropogoneae; Tripsacinae; Zea",
+    "sequences": [
+      {
+        "id": "NC_024459.2",
+        "length": 307041717,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024460.2",
+        "length": 244442276,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024461.2",
+        "length": 235667834,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024462.2",
+        "length": 246994605,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024463.2",
+        "length": 223902240,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024464.2",
+        "length": 174033170,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024465.2",
+        "length": 182381542,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024466.2",
+        "length": 181122637,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024467.2",
+        "length": 159769782,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_024468.2",
+        "length": 150982314,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007982.1",
+        "length": 569630,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_001666.2",
+        "length": 140384,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Ziziphus jujuba": {
+    "id": "GCA_000826755.1",
+    "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; fabids; Rosales; Rhamnaceae; Paliureae; Ziziphus",
+    "sequences": [
+      {
+        "id": "NC_029679.1",
+        "length": 42390363,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029680.1",
+        "length": 27986743,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029681.1",
+        "length": 26737297,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029682.1",
+        "length": 30445767,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029683.1",
+        "length": 31365312,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029684.1",
+        "length": 25259912,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029685.1",
+        "length": 27644224,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029686.1",
+        "length": 23350829,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029687.1",
+        "length": 25348792,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029688.1",
+        "length": 20983256,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029689.1",
+        "length": 20703932,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_029690.1",
+        "length": 19346091,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030299.1",
+        "length": 161466,
+        "type": "chloroplast"
+      },
+      {
+        "id": "NC_029809.1",
+        "length": 365190,
+        "type": "mitochondrion"
+      }
+    ]
+  }
+}

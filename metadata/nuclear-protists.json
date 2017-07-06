@@ -1,0 +1,4442 @@
+{
+  "Babesia bigemina": {
+    "id": "GCA_000981445.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Babesiidae; Babesia",
+    "sequences": [
+      {
+        "id": "NC_027216.1",
+        "length": 2541256,
+        "number": "I",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027217.1",
+        "length": 2823968,
+        "number": "II",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027218.1",
+        "length": 3518759,
+        "number": "III",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027219.1",
+        "length": 893602,
+        "number": "IV",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_027220.1",
+        "length": 493739,
+        "number": "V",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Crithidia fasciculata": {
+    "id": "GCA_000331325.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Crithidia",
+    "sequences": [
+      {
+        "id": "CM003408.1",
+        "length": 518673,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003409.1",
+        "length": 531523,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003410.1",
+        "length": 580702,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003411.1",
+        "length": 589253,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003412.1",
+        "length": 613868,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003413.1",
+        "length": 620258,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003414.1",
+        "length": 632656,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003415.1",
+        "length": 647389,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003416.1",
+        "length": 661897,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003417.1",
+        "length": 668263,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003418.1",
+        "length": 725815,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003419.1",
+        "length": 741884,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003420.1",
+        "length": 761260,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003421.1",
+        "length": 788344,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003422.1",
+        "length": 814463,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003423.1",
+        "length": 819052,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003424.1",
+        "length": 823452,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003425.1",
+        "length": 920654,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003426.1",
+        "length": 1085412,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003427.1",
+        "length": 1141260,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003428.1",
+        "length": 1309914,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003429.1",
+        "length": 1318848,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003430.1",
+        "length": 1411685,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003431.1",
+        "length": 1449266,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003432.1",
+        "length": 1454827,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003433.1",
+        "length": 1629678,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003434.1",
+        "length": 1996037,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003435.1",
+        "length": 2191012,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003436.1",
+        "length": 2193588,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003407.1",
+        "length": 2960390,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM003437.1",
+        "length": 29717,
+        "type": "kinetoplast"
+      }
+    ]
+  },
+  "Cryptosporidium parvum": {
+    "id": "GCA_000165345.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Cryptosporidiidae; Cryptosporidium",
+    "sequences": [
+      {
+        "id": "NC_006980.1",
+        "length": 875659,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006981.1",
+        "length": 985969,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006982.1",
+        "length": 1099352,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006983.1",
+        "length": 1104417,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006984.1",
+        "length": 1080900,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006985.1",
+        "length": 1332857,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006986.1",
+        "length": 1278458,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_006987.1",
+        "length": 1344712,
+        "number": "8",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Dictyostelium discoideum": {
+    "id": "GCA_000004695.1",
+    "taxonomy": "Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium",
+    "sequences": [
+      {
+        "id": "NC_007087.3",
+        "length": 4923596,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007088.5",
+        "length": 8484197,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007089.4",
+        "length": 6357299,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007090.3",
+        "length": 5450249,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007091.3",
+        "length": 5125352,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007092.3",
+        "length": 3602379,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_000895.1",
+        "length": 55564,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Endotrypanum monterogeii": {
+    "id": "GCA_000333855.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Endotrypanum",
+    "sequences": [
+      {
+        "id": "CM007321.1",
+        "length": 256413,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007330.1",
+        "length": 314454,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007331.1",
+        "length": 549492,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007332.1",
+        "length": 501096,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007333.1",
+        "length": 609083,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007334.1",
+        "length": 594492,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007335.1",
+        "length": 597660,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007336.1",
+        "length": 650793,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007337.1",
+        "length": 634315,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007338.1",
+        "length": 720917,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007339.1",
+        "length": 622540,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007322.1",
+        "length": 199968,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007340.1",
+        "length": 701201,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007341.1",
+        "length": 740323,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007342.1",
+        "length": 659801,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007343.1",
+        "length": 800739,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007344.1",
+        "length": 713351,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007345.1",
+        "length": 885495,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007346.1",
+        "length": 1043608,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007347.1",
+        "length": 978369,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007348.1",
+        "length": 1031504,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007349.1",
+        "length": 133212,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007323.1",
+        "length": 366249,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007314.1",
+        "length": 1438961,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007315.1",
+        "length": 1382006,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007316.1",
+        "length": 1532114,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007317.1",
+        "length": 1382582,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007318.1",
+        "length": 1567521,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007319.1",
+        "length": 2108204,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007320.1",
+        "length": 3727717,
+        "number": "36",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007324.1",
+        "length": 453298,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007325.1",
+        "length": 429183,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007326.1",
+        "length": 510537,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007327.1",
+        "length": 566505,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007328.1",
+        "length": 323873,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007329.1",
+        "length": 555156,
+        "number": "9",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania sp. MAR": {
+    "id": "GCA_000409445.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae",
+    "sequences": [
+      {
+        "id": "CM004312.1",
+        "length": 244601,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004313.1",
+        "length": 268255,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004314.1",
+        "length": 374685,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004315.1",
+        "length": 431987,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004316.1",
+        "length": 433152,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004317.1",
+        "length": 495072,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004318.1",
+        "length": 571795,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004319.1",
+        "length": 446446,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004320.1",
+        "length": 571143,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004321.1",
+        "length": 502565,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004322.1",
+        "length": 542777,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004323.1",
+        "length": 470409,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004324.1",
+        "length": 622171,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004325.1",
+        "length": 584683,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004326.1",
+        "length": 570908,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004327.1",
+        "length": 637797,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004328.1",
+        "length": 615405,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004329.1",
+        "length": 689136,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004330.1",
+        "length": 638234,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004331.1",
+        "length": 712016,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004332.1",
+        "length": 721524,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004333.1",
+        "length": 633148,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004334.1",
+        "length": 759779,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004335.1",
+        "length": 824354,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004336.1",
+        "length": 873628,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004337.1",
+        "length": 967504,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004338.1",
+        "length": 1026784,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004339.1",
+        "length": 1158465,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004340.1",
+        "length": 1161258,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004341.1",
+        "length": 1341420,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004342.1",
+        "length": 625104,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004343.1",
+        "length": 1533849,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004344.1",
+        "length": 1421109,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004345.1",
+        "length": 1609142,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004346.1",
+        "length": 1946801,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004347.1",
+        "length": 2618838,
+        "number": "36",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania aethiopica": {
+    "id": "GCA_000444285.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania aethiopica species complex",
+    "sequences": [
+      {
+        "id": "CM007214.1",
+        "length": 278194,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007223.1",
+        "length": 523456,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007224.1",
+        "length": 559223,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007225.1",
+        "length": 507865,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007226.1",
+        "length": 637847,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007227.1",
+        "length": 635518,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007228.1",
+        "length": 578644,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007229.1",
+        "length": 647981,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007230.1",
+        "length": 644997,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007231.1",
+        "length": 708324,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007232.1",
+        "length": 670995,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007215.1",
+        "length": 314752,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007233.1",
+        "length": 737812,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007234.1",
+        "length": 765912,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007235.1",
+        "length": 607974,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007236.1",
+        "length": 777175,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007237.1",
+        "length": 839498,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007238.1",
+        "length": 908702,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007239.1",
+        "length": 1044277,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007240.1",
+        "length": 1001864,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007241.1",
+        "length": 1136995,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007242.1",
+        "length": 1223085,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007216.1",
+        "length": 382467,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007207.1",
+        "length": 1355153,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007208.1",
+        "length": 1286249,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007209.1",
+        "length": 1545324,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007210.1",
+        "length": 1431815,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007211.1",
+        "length": 1646406,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007212.1",
+        "length": 1993159,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007213.1",
+        "length": 2678989,
+        "number": "36",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007217.1",
+        "length": 461064,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007218.1",
+        "length": 493452,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007219.1",
+        "length": 512194,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007220.1",
+        "length": 593687,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007221.1",
+        "length": 447583,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007222.1",
+        "length": 562241,
+        "number": "9",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania arabica": {
+    "id": "GCA_000410695.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; unclassified Leishmania",
+    "sequences": [
+      {
+        "id": "CM004642.1",
+        "length": 264453,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004651.1",
+        "length": 522747,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004652.1",
+        "length": 539022,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004653.1",
+        "length": 507824,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004654.1",
+        "length": 629443,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004655.1",
+        "length": 580985,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004656.1",
+        "length": 595534,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004657.1",
+        "length": 685498,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004658.1",
+        "length": 637313,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004659.1",
+        "length": 715545,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004660.1",
+        "length": 645359,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004643.1",
+        "length": 286625,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004661.1",
+        "length": 722582,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004662.1",
+        "length": 762675,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004663.1",
+        "length": 568429,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004664.1",
+        "length": 772477,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004665.1",
+        "length": 844406,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004666.1",
+        "length": 888445,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004667.1",
+        "length": 1061209,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004668.1",
+        "length": 1057807,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004669.1",
+        "length": 1141120,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004670.1",
+        "length": 1206216,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004644.1",
+        "length": 391143,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004635.1",
+        "length": 1340958,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004636.1",
+        "length": 1266032,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004637.1",
+        "length": 1540313,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004638.1",
+        "length": 1326913,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004639.1",
+        "length": 1490950,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004640.1",
+        "length": 1976196,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004641.1",
+        "length": 2652413,
+        "number": "36",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004645.1",
+        "length": 458921,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004646.1",
+        "length": 439901,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004647.1",
+        "length": 500272,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004648.1",
+        "length": 573617,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004649.1",
+        "length": 416307,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM004650.1",
+        "length": 564529,
+        "number": "9",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania braziliensis": {
+    "id": "GCA_000002845.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania braziliensis species complex",
+    "sequences": [
+      {
+        "id": "NC_009327.2",
+        "length": 2686643,
+        "number": "36",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009294.2",
+        "length": 231164,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009295.2",
+        "length": 290514,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009296.2",
+        "length": 362421,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009297.2",
+        "length": 444124,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009298.2",
+        "length": 451537,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009276.2",
+        "length": 512965,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009299.2",
+        "length": 563954,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009300.2",
+        "length": 386780,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009301.2",
+        "length": 556679,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009302.2",
+        "length": 564221,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009303.2",
+        "length": 558541,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009304.2",
+        "length": 456321,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009305.2",
+        "length": 616006,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009306.2",
+        "length": 648278,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009307.2",
+        "length": 606906,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009308.2",
+        "length": 688705,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009309.2",
+        "length": 694698,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009310.2",
+        "length": 675783,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009311.2",
+        "length": 733564,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009313.2",
+        "length": 687743,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009314.2",
+        "length": 641930,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009315.2",
+        "length": 797329,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009316.2",
+        "length": 829282,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009317.2",
+        "length": 712314,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009318.2",
+        "length": 992961,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009319.2",
+        "length": 1157752,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009320.2",
+        "length": 1159459,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009321.2",
+        "length": 1175128,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009322.2",
+        "length": 1327198,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009323.2",
+        "length": 1550184,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009324.2",
+        "length": 1573228,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009325.2",
+        "length": 1504364,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009326.2",
+        "length": 2012582,
+        "number": "35",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania donovani": {
+    "id": "GCA_000227135.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania donovani species complex",
+    "sequences": [
+      {
+        "id": "NC_018228.1",
+        "length": 283432,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018229.1",
+        "length": 334314,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018230.1",
+        "length": 389946,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018231.1",
+        "length": 479467,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018232.1",
+        "length": 452426,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018233.1",
+        "length": 529559,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018234.1",
+        "length": 604754,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018235.1",
+        "length": 505720,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018236.1",
+        "length": 588727,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018237.1",
+        "length": 558170,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018238.1",
+        "length": 580223,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018239.1",
+        "length": 569561,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018240.1",
+        "length": 649814,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018241.1",
+        "length": 645099,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018242.1",
+        "length": 618357,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018243.1",
+        "length": 698406,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018244.1",
+        "length": 671483,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018245.1",
+        "length": 735610,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018246.1",
+        "length": 757180,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018247.1",
+        "length": 752621,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018248.1",
+        "length": 767234,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018249.1",
+        "length": 704761,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018250.1",
+        "length": 783272,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018251.1",
+        "length": 877124,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018252.1",
+        "length": 897883,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018253.1",
+        "length": 1058259,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018254.1",
+        "length": 1024085,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018255.1",
+        "length": 1171725,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018256.1",
+        "length": 1258350,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018257.1",
+        "length": 1374157,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018258.1",
+        "length": 1531288,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018259.1",
+        "length": 1559911,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018260.1",
+        "length": 1453978,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018261.1",
+        "length": 1750858,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018262.1",
+        "length": 2113966,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018263.1",
+        "length": 2713248,
+        "number": "36",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania enriettii": {
+    "id": "GCA_000410755.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania mexicana species complex",
+    "sequences": [
+      {
+        "id": "CM007250.1",
+        "length": 257560,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007259.1",
+        "length": 507213,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007260.1",
+        "length": 578231,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007261.1",
+        "length": 505211,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007262.1",
+        "length": 583554,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007263.1",
+        "length": 575686,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007264.1",
+        "length": 600638,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007265.1",
+        "length": 645524,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007266.1",
+        "length": 599418,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007267.1",
+        "length": 701483,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007268.1",
+        "length": 600147,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007251.1",
+        "length": 254006,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007269.1",
+        "length": 729228,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007270.1",
+        "length": 731007,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007271.1",
+        "length": 633270,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007272.1",
+        "length": 742178,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007273.1",
+        "length": 806429,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007274.1",
+        "length": 868233,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007275.1",
+        "length": 1032596,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007276.1",
+        "length": 1014881,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007277.1",
+        "length": 1153175,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007278.1",
+        "length": 1128482,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007252.1",
+        "length": 380839,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007243.1",
+        "length": 1324515,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007244.1",
+        "length": 437616,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007245.1",
+        "length": 1498068,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007246.1",
+        "length": 1394890,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007247.1",
+        "length": 1520177,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007248.1",
+        "length": 1951112,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007249.1",
+        "length": 2596710,
+        "number": "36",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007253.1",
+        "length": 445619,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007254.1",
+        "length": 436548,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007255.1",
+        "length": 501070,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007256.1",
+        "length": 577615,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007257.1",
+        "length": 424964,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM007258.1",
+        "length": 558049,
+        "number": "9",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania infantum": {
+    "id": "GCA_000002875.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania donovani species complex",
+    "sequences": [
+      {
+        "id": "NC_009386.2",
+        "length": 277951,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009387.2",
+        "length": 334113,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009388.2",
+        "length": 382367,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009389.2",
+        "length": 475338,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009390.2",
+        "length": 449024,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009277.2",
+        "length": 523352,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009391.2",
+        "length": 592381,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009392.2",
+        "length": 495393,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009393.2",
+        "length": 572115,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009394.2",
+        "length": 547235,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009395.2",
+        "length": 575792,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009396.2",
+        "length": 568476,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009397.2",
+        "length": 645761,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009398.2",
+        "length": 639279,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009399.2",
+        "length": 617636,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009400.2",
+        "length": 698903,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009401.2",
+        "length": 667340,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009402.2",
+        "length": 720194,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009403.2",
+        "length": 742501,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009404.2",
+        "length": 732590,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009405.2",
+        "length": 759899,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009406.2",
+        "length": 659512,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009407.2",
+        "length": 774004,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009408.2",
+        "length": 867075,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009409.2",
+        "length": 886912,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009410.2",
+        "length": 1050165,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009411.2",
+        "length": 1043848,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009412.2",
+        "length": 1163438,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009413.2",
+        "length": 1221905,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009414.2",
+        "length": 1365115,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009415.2",
+        "length": 1468864,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009416.2",
+        "length": 1547509,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009417.2",
+        "length": 1448148,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009418.2",
+        "length": 1668239,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009419.2",
+        "length": 2068523,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009420.2",
+        "length": 2673956,
+        "number": "36",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania sp. Friedlin": {
+    "id": "GCA_000002725.2",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania major species complex",
+    "sequences": [
+      {
+        "id": "NC_001905.3",
+        "length": 268986,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007244.2",
+        "length": 355712,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004916.2",
+        "length": 384502,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007245.2",
+        "length": 472852,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007246.2",
+        "length": 465823,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007247.2",
+        "length": 516869,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007248.2",
+        "length": 596352,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007249.2",
+        "length": 574960,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007250.2",
+        "length": 573434,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007251.2",
+        "length": 570865,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007252.2",
+        "length": 582573,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007253.2",
+        "length": 675346,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007254.2",
+        "length": 654595,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007255.2",
+        "length": 622644,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007256.2",
+        "length": 629517,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007257.2",
+        "length": 714651,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007258.2",
+        "length": 684829,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007259.2",
+        "length": 739748,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007260.2",
+        "length": 702208,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007261.2",
+        "length": 742537,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007262.2",
+        "length": 772972,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007263.2",
+        "length": 716602,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007264.2",
+        "length": 772565,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007265.2",
+        "length": 840950,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007266.2",
+        "length": 912845,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007267.2",
+        "length": 1091540,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007268.2",
+        "length": 1130424,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007269.2",
+        "length": 1160104,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007270.2",
+        "length": 1212663,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007271.2",
+        "length": 1403434,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007272.2",
+        "length": 1484324,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007273.2",
+        "length": 1604637,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007285.2",
+        "length": 1583653,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007286.2",
+        "length": 1866748,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007284.2",
+        "length": 2090474,
+        "number": "35",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007287.2",
+        "length": 2682151,
+        "number": "36",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania mexicana": {
+    "id": "GCA_000234665.4",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania; Leishmania mexicana species complex",
+    "sequences": [
+      {
+        "id": "NC_018305.1",
+        "length": 273291,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018306.1",
+        "length": 298030,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018307.1",
+        "length": 375930,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018308.1",
+        "length": 438817,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018309.1",
+        "length": 451064,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018310.1",
+        "length": 479586,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018311.1",
+        "length": 568535,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018312.1",
+        "length": 1671993,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018313.1",
+        "length": 543865,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018314.1",
+        "length": 516955,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018315.1",
+        "length": 558295,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018316.1",
+        "length": 507359,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018317.1",
+        "length": 613217,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018318.1",
+        "length": 610423,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018319.1",
+        "length": 574822,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018320.1",
+        "length": 688984,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018321.1",
+        "length": 665230,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018322.1",
+        "length": 693749,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018323.1",
+        "length": 655046,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018324.1",
+        "length": 3343498,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018325.1",
+        "length": 736625,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018326.1",
+        "length": 683778,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018327.1",
+        "length": 744475,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018328.1",
+        "length": 838989,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018329.1",
+        "length": 883937,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018330.1",
+        "length": 1028550,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018331.1",
+        "length": 1044075,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018332.1",
+        "length": 1137555,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018333.1",
+        "length": 1322285,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018334.1",
+        "length": 1439542,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018335.1",
+        "length": 1524016,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018336.1",
+        "length": 1407111,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018337.1",
+        "length": 1649823,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018338.1",
+        "length": 1968239,
+        "number": "34",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania panamensis": {
+    "id": "GCA_000755165.1",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania guyanensis species complex",
+    "sequences": [
+      {
+        "id": "NC_025854.1",
+        "length": 268611,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025865.1",
+        "length": 263713,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025876.1",
+        "length": 387599,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025883.1",
+        "length": 431108,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025884.1",
+        "length": 449155,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025885.1",
+        "length": 511626,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025886.1",
+        "length": 551246,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025887.1",
+        "length": 436873,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025888.1",
+        "length": 561584,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025855.1",
+        "length": 512284,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025856.1",
+        "length": 586833,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025857.1",
+        "length": 491201,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025858.1",
+        "length": 618782,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025859.1",
+        "length": 584527,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025860.1",
+        "length": 606998,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025861.1",
+        "length": 681774,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025862.1",
+        "length": 623274,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025863.1",
+        "length": 678718,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025864.1",
+        "length": 641449,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025866.1",
+        "length": 2419226,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025867.1",
+        "length": 744060,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025868.1",
+        "length": 644210,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025869.1",
+        "length": 746973,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025870.1",
+        "length": 832421,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025871.1",
+        "length": 886799,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025872.1",
+        "length": 1024527,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025873.1",
+        "length": 1043456,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025874.1",
+        "length": 1152636,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025875.1",
+        "length": 1167641,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025877.1",
+        "length": 1309976,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025878.1",
+        "length": 1340778,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025879.1",
+        "length": 1527382,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025880.1",
+        "length": 1414953,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025881.1",
+        "length": 1936232,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025882.1",
+        "length": 2610169,
+        "number": "35",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Leishmania peruviana": {
+    "id": "GCA_001403675.1",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Leishmaniinae; Leishmania; Leishmania braziliensis species complex",
+    "sequences": [
+      {
+        "id": "LN609266.1",
+        "length": 881593,
+        "number": "0",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609262.1",
+        "length": 237411,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609258.1",
+        "length": 299678,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609264.1",
+        "length": 365830,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609234.1",
+        "length": 454880,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609254.1",
+        "length": 466181,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609253.1",
+        "length": 527293,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609246.1",
+        "length": 580124,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609243.1",
+        "length": 395183,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609252.1",
+        "length": 568218,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609240.1",
+        "length": 586771,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609249.1",
+        "length": 574668,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609242.1",
+        "length": 464672,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609259.1",
+        "length": 636858,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609237.1",
+        "length": 662997,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609238.1",
+        "length": 622354,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609244.1",
+        "length": 705808,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609255.1",
+        "length": 706853,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609260.1",
+        "length": 690966,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609245.1",
+        "length": 762273,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609251.1",
+        "length": 1709996,
+        "number": "20.1",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609236.1",
+        "length": 742421,
+        "number": "20.2",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609257.1",
+        "length": 705926,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609239.1",
+        "length": 659812,
+        "number": "22",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609265.1",
+        "length": 807598,
+        "number": "23",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609231.1",
+        "length": 848869,
+        "number": "24",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609235.1",
+        "length": 729079,
+        "number": "25",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609250.1",
+        "length": 1015393,
+        "number": "26",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609256.1",
+        "length": 1192232,
+        "number": "27",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609241.1",
+        "length": 1180511,
+        "number": "28",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609247.1",
+        "length": 1203449,
+        "number": "29",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609263.1",
+        "length": 1365762,
+        "number": "30",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609232.1",
+        "length": 1625307,
+        "number": "31",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609248.1",
+        "length": 1594157,
+        "number": "32",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609230.1",
+        "length": 1536785,
+        "number": "33",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609261.1",
+        "length": 2053367,
+        "number": "34",
+        "type": "chromosome"
+      },
+      {
+        "id": "LN609233.1",
+        "length": 2746506,
+        "number": "35",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Nannochloropsis gaditana": {
+    "id": "GCA_000569095.1",
+    "taxonomy": "Eukaryota; Stramenopiles; Eustigmatophyceae; Eustigmatales; Monodopsidaceae; Nannochloropsis",
+    "sequences": [
+      {
+        "id": "CM002455.1",
+        "length": 1546440,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002456.1",
+        "length": 1443245,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002457.1",
+        "length": 1384164,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002458.1",
+        "length": 1364975,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002459.1",
+        "length": 1358244,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002460.1",
+        "length": 1241202,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002461.1",
+        "length": 1193805,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002462.1",
+        "length": 1168894,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002463.1",
+        "length": 1164708,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002464.1",
+        "length": 1083023,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002465.1",
+        "length": 1065987,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002466.1",
+        "length": 1046732,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002467.1",
+        "length": 890907,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002468.1",
+        "length": 869639,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002469.1",
+        "length": 787877,
+        "number": "15",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002470.1",
+        "length": 710462,
+        "number": "16",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002471.1",
+        "length": 665804,
+        "number": "17",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002472.1",
+        "length": 517648,
+        "number": "18",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002473.1",
+        "length": 435979,
+        "number": "19",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002474.1",
+        "length": 152354,
+        "number": "20",
+        "type": "chromosome"
+      },
+      {
+        "id": "CM002475.1",
+        "length": 63419,
+        "number": "21",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020015.1",
+        "length": 42213,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_020014.1",
+        "length": 114989,
+        "type": "chloroplast"
+      }
+    ]
+  },
+  "Neospora caninum": {
+    "id": "GCA_000208865.2",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Sarcocystidae; Neospora",
+    "sequences": [
+      {
+        "id": "NC_018385.1",
+        "length": 2288409,
+        "number": "Ia",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018386.1",
+        "length": 1908326,
+        "number": "Ib",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018387.1",
+        "length": 2170133,
+        "number": "II",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018388.1",
+        "length": 2139717,
+        "number": "III",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018389.1",
+        "length": 2317323,
+        "number": "IV",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018391.1",
+        "length": 2735753,
+        "number": "V",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018392.1",
+        "length": 3360651,
+        "number": "VI",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018393.1",
+        "length": 3947736,
+        "number": "VIIa",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018394.1",
+        "length": 4923984,
+        "number": "VIIb",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018395.1",
+        "length": 6723156,
+        "number": "VIII",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018390.1",
+        "length": 5490906,
+        "number": "IX",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018396.1",
+        "length": 6985512,
+        "number": "X",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018397.1",
+        "length": 6081843,
+        "number": "XI",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_018398.1",
+        "length": 6473971,
+        "number": "XII",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Plasmodium berghei": {
+    "id": "GCA_900002375.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Vinckeia)",
+    "sequences": [
+      {
+        "id": "LK023116.1",
+        "length": 482058,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023117.1",
+        "length": 643862,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023118.1",
+        "length": 599881,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023119.1",
+        "length": 725231,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023120.1",
+        "length": 923367,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023121.1",
+        "length": 940531,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023122.1",
+        "length": 820822,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023123.1",
+        "length": 1359540,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023124.1",
+        "length": 1639640,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023125.1",
+        "length": 1581900,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023126.1",
+        "length": 1731070,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023127.1",
+        "length": 1774386,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023128.1",
+        "length": 2504534,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023129.1",
+        "length": 2458164,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "LK023130.1",
+        "length": 30302,
+        "type": "apicoplast"
+      },
+      {
+        "id": "LK023131.1",
+        "length": 5957,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Plasmodium chabaudi chabaudi": {
+    "id": "GCA_900002335.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Vinckeia)",
+    "sequences": [
+      {
+        "id": "NC_030101.1",
+        "length": 581723,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030102.1",
+        "length": 498758,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030103.1",
+        "length": 624158,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030104.1",
+        "length": 794008,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030105.1",
+        "length": 935796,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030106.1",
+        "length": 916956,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030107.1",
+        "length": 1169068,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030108.1",
+        "length": 1360204,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030109.1",
+        "length": 1345096,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030110.1",
+        "length": 1634725,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030111.1",
+        "length": 1720574,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030112.1",
+        "length": 1682238,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030113.1",
+        "length": 2616835,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_030114.1",
+        "length": 2514833,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NW_015971901.1",
+        "length": 5949,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_023293.1",
+        "length": 29623,
+        "type": "apicoplast"
+      }
+    ]
+  },
+  "Plasmodium coatneyi": {
+    "id": "GCA_001680005.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium",
+    "sequences": [
+      {
+        "id": "NC_033556.1",
+        "length": 1146425,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033557.1",
+        "length": 937520,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033558.1",
+        "length": 1147333,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033559.1",
+        "length": 1862670,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033560.1",
+        "length": 1520521,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033561.1",
+        "length": 1293593,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033562.1",
+        "length": 1883611,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033563.1",
+        "length": 2003671,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033564.1",
+        "length": 2583428,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033565.1",
+        "length": 1763958,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033566.1",
+        "length": 2627280,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033567.1",
+        "length": 4930710,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033568.1",
+        "length": 1997354,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033569.1",
+        "length": 1987456,
+        "number": "14",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Plasmodium cynomolgi": {
+    "id": "GCA_000321355.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Plasmodium)",
+    "sequences": [
+      {
+        "id": "NC_020396.1",
+        "length": 828170,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020395.1",
+        "length": 725503,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020397.1",
+        "length": 1037329,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020408.1",
+        "length": 801051,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020398.1",
+        "length": 1296396,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020399.1",
+        "length": 1030703,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020400.1",
+        "length": 1492599,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020401.1",
+        "length": 1717921,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020402.1",
+        "length": 1985783,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020403.1",
+        "length": 1459515,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020404.1",
+        "length": 2076872,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020405.1",
+        "length": 3118530,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020406.1",
+        "length": 2094899,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_020407.1",
+        "length": 3063064,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "LT841393.1",
+        "length": 6017,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Plasmodium falciparum": {
+    "id": "GCA_000002765.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Laverania)",
+    "sequences": [
+      {
+        "id": "NC_004325.1",
+        "length": 643292,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_000910.2",
+        "length": 947102,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_000521.3",
+        "length": 1060087,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004318.1",
+        "length": 1204112,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004326.1",
+        "length": 1343552,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004327.2",
+        "length": 1418244,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004328.2",
+        "length": 1501717,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004329.2",
+        "length": 1419563,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004330.1",
+        "length": 1541723,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004314.2",
+        "length": 1687655,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004315.2",
+        "length": 2038337,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004316.3",
+        "length": 2271478,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004331.2",
+        "length": 2895605,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_004317.2",
+        "length": 3291871,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "AJ276844.1",
+        "length": 5967,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_017928.1",
+        "length": 29529,
+        "type": "apicoplast"
+      }
+    ]
+  },
+  "Plasmodium gaboni": {
+    "id": "GCA_001602025.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Laverania)",
+    "sequences": [
+      {
+        "id": "NC_031481.1",
+        "length": 404612,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031490.1",
+        "length": 1372096,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031491.1",
+        "length": 1707701,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031492.1",
+        "length": 1854454,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031493.1",
+        "length": 2479031,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031494.1",
+        "length": 2947581,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031482.1",
+        "length": 694560,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031483.1",
+        "length": 842317,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031484.1",
+        "length": 776283,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031485.1",
+        "length": 1171446,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031486.1",
+        "length": 1153970,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031487.1",
+        "length": 1108057,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031488.1",
+        "length": 1110535,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031489.1",
+        "length": 1256115,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NW_017385168.1",
+        "length": 29387,
+        "type": "apicoplast"
+      },
+      {
+        "id": "JX893151.1",
+        "length": 5866,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Plasmodium knowlesi": {
+    "id": "GCA_000006355.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Plasmodium)",
+    "sequences": [
+      {
+        "id": "NC_011902.1",
+        "length": 838594,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011903.1",
+        "length": 726886,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011904.1",
+        "length": 973297,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011905.1",
+        "length": 785142,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011906.1",
+        "length": 1324984,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011907.1",
+        "length": 1053090,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011908.1",
+        "length": 1496036,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011909.1",
+        "length": 1770351,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011910.1",
+        "length": 2147124,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011911.1",
+        "length": 1486039,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011912.1",
+        "length": 2372884,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011913.1",
+        "length": 3128370,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011914.1",
+        "length": 2200295,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011915.1",
+        "length": 3159095,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007232.1",
+        "length": 5957,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Plasmodium reichenowi": {
+    "id": "GCA_001601855.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Laverania)",
+    "sequences": [
+      {
+        "id": "NC_033646.1",
+        "length": 340135,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033655.1",
+        "length": 1366679,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033656.1",
+        "length": 1843035,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033657.1",
+        "length": 1968205,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033658.1",
+        "length": 2641308,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033659.1",
+        "length": 3179732,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033647.1",
+        "length": 700602,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033648.1",
+        "length": 883952,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033649.1",
+        "length": 827030,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033650.1",
+        "length": 1076571,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033651.1",
+        "length": 1212149,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033652.1",
+        "length": 1150678,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033653.1",
+        "length": 1076939,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_033654.1",
+        "length": 1412118,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NW_017962150.1",
+        "length": 24235,
+        "type": "apicoplast"
+      },
+      {
+        "id": "NC_002235.1",
+        "length": 5966,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Plasmodium vivax": {
+    "id": "GCA_000002415.2",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Plasmodium)",
+    "sequences": [
+      {
+        "id": "NC_009906.1",
+        "length": 830022,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009907.1",
+        "length": 755035,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009908.2",
+        "length": 1011127,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009909.1",
+        "length": 876622,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009910.1",
+        "length": 1370936,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009911.1",
+        "length": 1033388,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009912.1",
+        "length": 1497819,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009913.1",
+        "length": 1678596,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009914.1",
+        "length": 1923364,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009915.1",
+        "length": 1419739,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009916.1",
+        "length": 2067354,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009917.1",
+        "length": 3004884,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009918.1",
+        "length": 2031768,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_009919.1",
+        "length": 3120417,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007243.1",
+        "length": 5990,
+        "type": "mitochondrion"
+      },
+      {
+        "id": "NC_032007.1",
+        "length": 29582,
+        "type": "apicoplast"
+      }
+    ]
+  },
+  "Plasmodium yoelii": {
+    "id": "GCA_900002385.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Vinckeia)",
+    "sequences": [
+      {
+        "id": "LM993655.1",
+        "length": 703413,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993656.1",
+        "length": 710674,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993657.1",
+        "length": 706722,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993658.1",
+        "length": 861284,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993659.1",
+        "length": 1051162,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993660.1",
+        "length": 1061054,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993661.1",
+        "length": 891477,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993662.1",
+        "length": 1528798,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993663.1",
+        "length": 1824586,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993664.1",
+        "length": 1757347,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993665.1",
+        "length": 1857262,
+        "number": "11",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993666.1",
+        "length": 1978248,
+        "number": "12",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993667.1",
+        "length": 2795668,
+        "number": "13",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993668.1",
+        "length": 2590618,
+        "number": "14",
+        "type": "chromosome"
+      },
+      {
+        "id": "LM993669.1",
+        "length": 29401,
+        "type": "apicoplast"
+      },
+      {
+        "id": "LM993670.1",
+        "length": 5957,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Theileria annulata": {
+    "id": "GCA_000003225.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Theileriidae; Theileria",
+    "sequences": [
+      {
+        "id": "NW_001091929.1",
+        "length": 2592520,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011099.1",
+        "length": 1979170,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011100.1",
+        "length": 1898942,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_011098.1",
+        "length": 1842271,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NT_167255.1",
+        "length": 5905,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Theileria orientalis": {
+    "id": "GCA_000740895.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Theileriidae; Theileria",
+    "sequences": [
+      {
+        "id": "NC_025260.1",
+        "length": 2746313,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025261.1",
+        "length": 2216979,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025262.1",
+        "length": 2000793,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_025263.1",
+        "length": 2019511,
+        "number": "4",
+        "type": "chromosome"
+      }
+    ]
+  },
+  "Theileria parva": {
+    "id": "GCA_000165365.1",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Theileriidae; Theileria",
+    "sequences": [
+      {
+        "id": "NC_007344.1",
+        "length": 2540030,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007345.1",
+        "length": 1971884,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_007758.1",
+        "length": 39579,
+        "type": "apicoplast"
+      },
+      {
+        "id": "NC_011005.1",
+        "length": 5895,
+        "type": "mitochondrion"
+      }
+    ]
+  },
+  "Toxoplasma gondii": {
+    "id": "GCA_000006565.2",
+    "taxonomy": "Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Sarcocystidae; Toxoplasma",
+    "sequences": [
+      {
+        "id": "NC_031467.1",
+        "length": 1859933,
+        "number": "Ia",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031468.1",
+        "length": 1955354,
+        "number": "Ib",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031469.1",
+        "length": 2347032,
+        "number": "II",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031470.1",
+        "length": 2532871,
+        "number": "III",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031471.1",
+        "length": 2686605,
+        "number": "IV",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031472.1",
+        "length": 3331915,
+        "number": "V",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031473.1",
+        "length": 3646983,
+        "number": "VI",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031474.1",
+        "length": 4541629,
+        "number": "VIIa",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031475.1",
+        "length": 5069724,
+        "number": "VIIb",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031476.1",
+        "length": 6970285,
+        "number": "VIII",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031477.1",
+        "length": 6327655,
+        "number": "IX",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031478.1",
+        "length": 7486190,
+        "number": "X",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031479.1",
+        "length": 6623461,
+        "number": "XI",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_031480.1",
+        "length": 7094428,
+        "number": "XII",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_001799.1",
+        "length": 34996,
+        "type": "apicoplast"
+      }
+    ]
+  },
+  "Trypanosoma brucei": {
+    "id": "GCA_000210295.1",
+    "taxonomy": "Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma; Trypanozoon",
+    "sequences": [
+      {
+        "id": "NC_026734.1",
+        "length": 739879,
+        "number": "1",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026735.1",
+        "length": 895117,
+        "number": "2",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026736.1",
+        "length": 1469848,
+        "number": "3",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026737.1",
+        "length": 1432056,
+        "number": "4",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026738.1",
+        "length": 1385737,
+        "number": "5",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026739.1",
+        "length": 1184041,
+        "number": "6",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026740.1",
+        "length": 2224448,
+        "number": "7",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026741.1",
+        "length": 2225824,
+        "number": "8",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026742.1",
+        "length": 2160261,
+        "number": "9",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026743.1",
+        "length": 3899268,
+        "number": "10",
+        "type": "chromosome"
+      },
+      {
+        "id": "NC_026744.1",
+        "length": 4531609,
+        "number": "11",
+        "type": "chromosome"
+      }
+    ]
+  }
+}

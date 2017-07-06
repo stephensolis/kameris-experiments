@@ -1,0 +1,5469 @@
+{
+  "Aspergillus fumigatus": {
+    "id": "GCA_000002655.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_007194.1",
+        "length": 4918979,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007195.1",
+        "length": 4844472,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007196.1",
+        "length": 4079167,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007197.1",
+        "length": 3923705,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007198.1",
+        "length": 3948441,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007199.1",
+        "length": 3778736,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007200.1",
+        "length": 2058334,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_007201.1",
+        "length": 1833124,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_017016.1",
+        "length": 30696
+      }
+    ]
+  },
+  "Aspergillus nidulans": {
+    "id": "GCA_000011425.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "BN001301.1",
+        "length": 3704807,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001302.1",
+        "length": 4011161,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001303.1",
+        "length": 3412996,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001304.1",
+        "length": 2831538,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001305.1",
+        "length": 3145033,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001306.1",
+        "length": 3354444,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001307.1",
+        "length": 4492219,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "BN001308.1",
+        "length": 4876093,
+        "number": "VIII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_017896.1",
+        "length": 33227
+      }
+    ]
+  },
+  "Botrytis cinerea": {
+    "id": "GCA_000832945.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Sclerotiniaceae; Botrytis",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP009821.1",
+        "length": 247158,
+        "number": "17"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009822.1",
+        "length": 208766,
+        "number": "18"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009805.1",
+        "length": 4109373,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009806.1",
+        "length": 3341473,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009807.1",
+        "length": 3226611,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009808.1",
+        "length": 2468882,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009809.1",
+        "length": 2959378,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009810.1",
+        "length": 2725906,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009811.1",
+        "length": 2652353,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009812.1",
+        "length": 2617329,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009813.1",
+        "length": 2547566,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009814.1",
+        "length": 2419276,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009815.1",
+        "length": 2359939,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009816.1",
+        "length": 2352958,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009817.1",
+        "length": 2257609,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009818.1",
+        "length": 2138025,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009819.1",
+        "length": 2027721,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009820.1",
+        "length": 1969743,
+        "number": "16"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "KC832409.1",
+        "length": 82212
+      }
+    ]
+  },
+  "Candida albicans": {
+    "id": "GCA_000182965.3",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Candida/Lodderomyces clade; Candida",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_032089.1",
+        "length": 3188341,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032090.1",
+        "length": 2231883,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032091.1",
+        "length": 1799298,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032092.1",
+        "length": 1603259,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032093.1",
+        "length": 1190845,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032094.1",
+        "length": 1033292,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032095.1",
+        "length": 949511,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_032096.1",
+        "length": 2286237,
+        "number": "R"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_018046.1",
+        "length": 33928
+      }
+    ]
+  },
+  "Candida dubliniensis": {
+    "id": "GCA_000026945.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Candida/Lodderomyces clade; Candida",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012867.1",
+        "length": 2267510,
+        "number": "R"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012860.1",
+        "length": 3214061,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012861.1",
+        "length": 2289089,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012862.1",
+        "length": 1863824,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012863.1",
+        "length": 1641709,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012864.1",
+        "length": 1245899,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012865.1",
+        "length": 1073895,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012866.1",
+        "length": 1022435,
+        "number": "7"
+      }
+    ]
+  },
+  "Candida orthopsilosis": {
+    "id": "GCA_000315875.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Candida/Lodderomyces clade; Candida",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018292.1",
+        "length": 2936865,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018295.1",
+        "length": 2433673,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018296.1",
+        "length": 1644167,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018297.1",
+        "length": 1591921,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018298.1",
+        "length": 1474802,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018300.1",
+        "length": 1027593,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018301.1",
+        "length": 937312,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018302.1",
+        "length": 613068,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_006972.1",
+        "length": 22528
+      }
+    ]
+  },
+  "Colletotrichum higginsianum": {
+    "id": "GCA_001672515.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Glomerellales; Glomerellaceae; Colletotrichum",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_030954.1",
+        "length": 6042495,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030955.1",
+        "length": 6014962,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030956.1",
+        "length": 5992392,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030957.1",
+        "length": 5325643,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030958.1",
+        "length": 5201688,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030959.1",
+        "length": 4523820,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030960.1",
+        "length": 4422509,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030961.1",
+        "length": 4092876,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030962.1",
+        "length": 3084912,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030963.1",
+        "length": 646208,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030964.1",
+        "length": 597935,
+        "number": "12"
+      }
+    ]
+  },
+  "Cryptococcus gattii": {
+    "id": "GCA_000185945.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Cryptococcaceae; Cryptococcus; Cryptococcus gattii species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014938.1",
+        "length": 1984823,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014939.1",
+        "length": 2187695,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014940.1",
+        "length": 1961512,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014941.1",
+        "length": 2233618,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014942.1",
+        "length": 1333124,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014943.1",
+        "length": 1325755,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014944.1",
+        "length": 1324677,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014945.1",
+        "length": 1265488,
+        "number": "H"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014946.1",
+        "length": 989306,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014947.1",
+        "length": 522727,
+        "number": "J"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014948.1",
+        "length": 1040760,
+        "number": "K"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014949.1",
+        "length": 820445,
+        "number": "L"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014950.1",
+        "length": 705823,
+        "number": "M"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014951.1",
+        "length": 679007,
+        "number": "N"
+      }
+    ]
+  },
+  "Cryptococcus neoformans": {
+    "id": "GCA_000091045.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Cryptococcaceae; Cryptococcus; Cryptococcus neoformans species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006670.1",
+        "length": 2300533,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006684.1",
+        "length": 1632307,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006685.1",
+        "length": 2105742,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006686.1",
+        "length": 1783081,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006687.1",
+        "length": 1507550,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006691.1",
+        "length": 1438950,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006692.1",
+        "length": 1347793,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006693.1",
+        "length": 1194300,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006694.1",
+        "length": 1178688,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006679.1",
+        "length": 1085720,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006680.1",
+        "length": 1019846,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006681.1",
+        "length": 906719,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006682.1",
+        "length": 787999,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006683.1",
+        "length": 762694,
+        "number": "14"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_018792.1",
+        "length": 24919
+      }
+    ]
+  },
+  "Cyberlindnera jadinii": {
+    "id": "GCA_000328385.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Cyberlindnera",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "DG000065.1",
+        "length": 2424339,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000066.1",
+        "length": 2187608,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000067.1",
+        "length": 2080258,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000068.1",
+        "length": 1897657,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000069.1",
+        "length": 1506698,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000070.1",
+        "length": 1238152,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000071.1",
+        "length": 742268,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000072.1",
+        "length": 505722,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000073.1",
+        "length": 88353,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000074.1",
+        "length": 45014,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000075.1",
+        "length": 46058,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000076.1",
+        "length": 45035,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "DG000077.1",
+        "length": 41160,
+        "number": "13"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_022163.1",
+        "length": 41644
+      }
+    ]
+  },
+  "Debaryomyces hansenii": {
+    "id": "GCA_000006445.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Debaryomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006043.2",
+        "length": 1249940,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006044.2",
+        "length": 1344482,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006045.2",
+        "length": 1587442,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006046.2",
+        "length": 1606296,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006047.2",
+        "length": 2007515,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006048.2",
+        "length": 2305761,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006049.2",
+        "length": 2051050,
+        "number": "G"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_010166.1",
+        "length": 29462
+      }
+    ]
+  },
+  "Drechmeria coniospora": {
+    "id": "GCA_001625195.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Ophiocordycipitaceae; Drechmeria",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM004174.1",
+        "length": 12542233,
+        "number": "01"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004175.1",
+        "length": 10204147,
+        "number": "02"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004176.1",
+        "length": 9751215,
+        "number": "03"
+      }
+    ]
+  },
+  "Encephalitozoon cuniculi": {
+    "id": "GCA_000091225.1",
+    "taxonomy": "Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003242.2",
+        "length": 209982,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003229.1",
+        "length": 197426,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003230.1",
+        "length": 194439,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003231.1",
+        "length": 218329,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003232.1",
+        "length": 211018,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003233.1",
+        "length": 220294,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003234.1",
+        "length": 226576,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003235.1",
+        "length": 238147,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003238.2",
+        "length": 251002,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003236.1",
+        "length": 262797,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003237.1",
+        "length": 267509,
+        "number": "XI"
+      }
+    ]
+  },
+  "Encephalitozoon hellem": {
+    "id": "GCA_000277815.3",
+    "taxonomy": "Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018468.1",
+        "length": 161584,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018469.1",
+        "length": 179949,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018470.1",
+        "length": 182562,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018471.1",
+        "length": 196397,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018472.1",
+        "length": 201478,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018473.1",
+        "length": 200132,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018474.1",
+        "length": 213233,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018475.1",
+        "length": 203699,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018479.1",
+        "length": 240865,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018480.1",
+        "length": 237616,
+        "number": "XI"
+      }
+    ]
+  },
+  "Encephalitozoon intestinalis": {
+    "id": "GCA_000146465.1",
+    "taxonomy": "Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_014415.1",
+        "length": 160332,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014416.1",
+        "length": 175776,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014417.1",
+        "length": 176815,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014418.1",
+        "length": 193740,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014419.1",
+        "length": 196642,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014420.1",
+        "length": 198217,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014421.1",
+        "length": 205935,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014422.1",
+        "length": 204910,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014423.1",
+        "length": 233397,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014424.1",
+        "length": 234890,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_014425.1",
+        "length": 236244,
+        "number": "XI"
+      }
+    ]
+  },
+  "Encephalitozoon romaleae": {
+    "id": "GCA_000280035.2",
+    "taxonomy": "Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_024896.1",
+        "length": 146158,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024897.1",
+        "length": 173763,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024898.1",
+        "length": 179400,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024899.1",
+        "length": 197308,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024900.1",
+        "length": 191809,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024901.1",
+        "length": 194799,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024902.1",
+        "length": 204533,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024903.1",
+        "length": 207682,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024904.1",
+        "length": 230122,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_024905.1",
+        "length": 231554,
+        "number": "XI"
+      }
+    ]
+  },
+  "Eremothecium cymbalariae": {
+    "id": "GCA_000235365.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Eremothecium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016449.1",
+        "length": 1110245,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016450.1",
+        "length": 1601921,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016451.1",
+        "length": 1193613,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016452.1",
+        "length": 1540972,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016453.1",
+        "length": 1385851,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016454.1",
+        "length": 959278,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016455.1",
+        "length": 980088,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016456.1",
+        "length": 897456,
+        "number": "8"
+      }
+    ]
+  },
+  "Eremothecium gossypii": {
+    "id": "GCA_000091025.4",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Eremothecium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_005782.2",
+        "length": 693414,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005783.5",
+        "length": 870771,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005784.3",
+        "length": 907494,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005785.6",
+        "length": 1467287,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005786.2",
+        "length": 1519140,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005787.5",
+        "length": 1836693,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005788.4",
+        "length": 1800949,
+        "number": "VII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_005789.1",
+        "length": 23564
+      }
+    ]
+  },
+  "Flammulina velutipes": {
+    "id": "GCA_000633125.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricomycetidae; Agaricales; Physalacriaceae; Flammulina",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM002695.1",
+        "length": 1543237,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002696.1",
+        "length": 1704096,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002697.1",
+        "length": 2195887,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002698.1",
+        "length": 2452449,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002699.1",
+        "length": 2616717,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002700.1",
+        "length": 3053742,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002701.1",
+        "length": 3555525,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002702.1",
+        "length": 3897418,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002703.1",
+        "length": 4336796,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002704.1",
+        "length": 4751402,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002705.1",
+        "length": 5535272,
+        "number": "11"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_021373.1",
+        "length": 88508
+      }
+    ]
+  },
+  "Fusarium circinatum": {
+    "id": "GCA_000497325.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium fujikuroi species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM004511.1",
+        "length": 6191809,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004512.1",
+        "length": 4774899,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004513.1",
+        "length": 4758267,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004514.1",
+        "length": 4141359,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004515.1",
+        "length": 4400171,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004516.1",
+        "length": 4055048,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004517.1",
+        "length": 3473953,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004518.1",
+        "length": 3085006,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004519.1",
+        "length": 2773753,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004520.1",
+        "length": 2372785,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM004521.1",
+        "length": 2064197,
+        "number": "11"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_022681.1",
+        "length": 67109
+      }
+    ]
+  },
+  "Fusarium fujikuroi": {
+    "id": "GCA_900079805.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium fujikuroi species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "HF679023.1",
+        "length": 6564208,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679024.1",
+        "length": 5039041,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679025.1",
+        "length": 5039164,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679026.1",
+        "length": 3301440,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679027.1",
+        "length": 4489497,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679028.1",
+        "length": 4234805,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679029.1",
+        "length": 3307243,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679030.1",
+        "length": 3269239,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679031.1",
+        "length": 2984819,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679032.1",
+        "length": 2553298,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679033.1",
+        "length": 2356638,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "HF679034.1",
+        "length": 692922,
+        "number": "XII"
+      }
+    ]
+  },
+  "Fusarium graminearum": {
+    "id": "GCA_000240135.3",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium sambucinum species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_026474.1",
+        "length": 11697295,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026475.1",
+        "length": 8914601,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026476.1",
+        "length": 7713129,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026477.1",
+        "length": 8033942,
+        "number": "4"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_009493.1",
+        "length": 95676
+      }
+    ]
+  },
+  "Fusarium oxysporum": {
+    "id": "GCA_000149955.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium oxysporum species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_030986.1",
+        "length": 6854980,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030987.1",
+        "length": 5577357,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030988.1",
+        "length": 5634991,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030989.1",
+        "length": 5212762,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030990.1",
+        "length": 4914260,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030991.1",
+        "length": 4589937,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030992.1",
+        "length": 4347182,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030993.1",
+        "length": 3984410,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030994.1",
+        "length": 3304701,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030995.1",
+        "length": 2896840,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030996.1",
+        "length": 2337134,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030997.1",
+        "length": 2233407,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030998.1",
+        "length": 1751499,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030999.1",
+        "length": 1838362,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031000.1",
+        "length": 2434640,
+        "number": "15"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_017930.1",
+        "length": 34477
+      }
+    ]
+  },
+  "Fusarium pseudograminearum": {
+    "id": "GCA_000303195.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium sambucinum species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_031951.1",
+        "length": 11688822,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031952.1",
+        "length": 8840934,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031953.1",
+        "length": 7724594,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031954.1",
+        "length": 8075896,
+        "number": "4"
+      }
+    ]
+  },
+  "Fusarium verticillioides": {
+    "id": "GCA_000149555.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae; Fusarium; Fusarium fujikuroi species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_031675.1",
+        "length": 6219215,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031676.1",
+        "length": 4690091,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031677.1",
+        "length": 4643527,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031678.1",
+        "length": 4236349,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031679.1",
+        "length": 4246266,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031680.1",
+        "length": 3901718,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031681.1",
+        "length": 3246334,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031682.1",
+        "length": 2860106,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031683.1",
+        "length": 2757828,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031684.1",
+        "length": 2262009,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031685.1",
+        "length": 2040847,
+        "number": "11"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_016687.1",
+        "length": 53753
+      }
+    ]
+  },
+  "Kazachstania africana": {
+    "id": "GCA_000304475.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Kazachstania",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018940.1",
+        "length": 1757399,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018941.1",
+        "length": 1485491,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018942.1",
+        "length": 1340033,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018943.1",
+        "length": 1026673,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018944.1",
+        "length": 925516,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018945.1",
+        "length": 888590,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018946.1",
+        "length": 812636,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018947.1",
+        "length": 738805,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018948.1",
+        "length": 607727,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018949.1",
+        "length": 578118,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018950.1",
+        "length": 547686,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018951.1",
+        "length": 421466,
+        "number": "12"
+      }
+    ]
+  },
+  "Kazachstania naganishii": {
+    "id": "GCA_000348985.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Kazachstania",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "HE978314.1",
+        "length": 1290777,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978315.1",
+        "length": 1410756,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978316.1",
+        "length": 1310278,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978317.1",
+        "length": 993246,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978318.1",
+        "length": 856010,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978319.1",
+        "length": 770551,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978320.1",
+        "length": 780220,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978321.1",
+        "length": 724298,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978322.1",
+        "length": 628580,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978323.1",
+        "length": 586734,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978324.1",
+        "length": 538562,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978325.1",
+        "length": 450952,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "HE978326.1",
+        "length": 504857,
+        "number": "13"
+      }
+    ]
+  },
+  "Kluyveromyces lactis": {
+    "id": "GCA_000002515.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Kluyveromyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006037.1",
+        "length": 1062590,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006038.1",
+        "length": 1320834,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006039.1",
+        "length": 1753957,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006040.1",
+        "length": 1715506,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006041.1",
+        "length": 2234072,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006042.1",
+        "length": 2602197,
+        "number": "F"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_006077.1",
+        "length": 40291
+      }
+    ]
+  },
+  "Kluyveromyces marxianus": {
+    "id": "GCA_001417885.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Kluyveromyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "AP012213.1",
+        "length": 1745387,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012214.1",
+        "length": 1711476,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012215.1",
+        "length": 1588169,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012216.1",
+        "length": 1421472,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012217.1",
+        "length": 1353011,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012218.1",
+        "length": 1197921,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012219.1",
+        "length": 963005,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "AP012220.1",
+        "length": 939718,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "AP012221.1",
+        "length": 46308
+      }
+    ]
+  },
+  "Komagataella pastoris": {
+    "id": "GCA_001708105.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Komagataella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP014584.1",
+        "length": 3325186,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP014585.1",
+        "length": 2687137,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP014586.1",
+        "length": 1828518,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP014587.1",
+        "length": 1577441,
+        "number": "4"
+      }
+    ]
+  },
+  "Komagataella phaffii": {
+    "id": "GCA_000027005.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Komagataella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012963.1",
+        "length": 2798491,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012964.1",
+        "length": 2394163,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012965.1",
+        "length": 2245428,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012966.1",
+        "length": 1778296,
+        "number": "4"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_015384.1",
+        "length": 35683
+      }
+    ]
+  },
+  "Lachancea dasiensis": {
+    "id": "GCA_900074725.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598460.1",
+        "length": 834748,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598456.1",
+        "length": 1066887,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598459.1",
+        "length": 1188101,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598454.1",
+        "length": 1247865,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598455.1",
+        "length": 1410526,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598458.1",
+        "length": 1544839,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598457.1",
+        "length": 1582009,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598461.1",
+        "length": 1826642,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "HE983611.1",
+        "length": 26326
+      }
+    ]
+  },
+  "Lachancea fermentati": {
+    "id": "GCA_900074765.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598487.1",
+        "length": 762788,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598489.1",
+        "length": 1086951,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598485.1",
+        "length": 1180369,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598492.1",
+        "length": 1192607,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598488.1",
+        "length": 1346284,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598490.1",
+        "length": 1504611,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598486.1",
+        "length": 1626734,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598491.1",
+        "length": 1564113,
+        "number": "H"
+      }
+    ]
+  },
+  "Lachancea kluyveri": {
+    "id": "GCA_000149225.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM000687.1",
+        "length": 951467,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000688.1",
+        "length": 1119477,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000689.1",
+        "length": 1252455,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000690.1",
+        "length": 1289280,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000691.1",
+        "length": 1295560,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000692.1",
+        "length": 1385275,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000693.1",
+        "length": 1737261,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM000694.1",
+        "length": 2314951,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_018056.1",
+        "length": 51679
+      }
+    ]
+  },
+  "Lachancea meyersii": {
+    "id": "GCA_900074715.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598483.1",
+        "length": 796910,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598478.1",
+        "length": 819460,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598479.1",
+        "length": 982781,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598482.1",
+        "length": 1173473,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598481.1",
+        "length": 1373993,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598477.1",
+        "length": 2013154,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598484.1",
+        "length": 2048899,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598480.1",
+        "length": 2053149,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "HE983614.1",
+        "length": 35864
+      }
+    ]
+  },
+  "Lachancea mirantina": {
+    "id": "GCA_900074745.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598462.1",
+        "length": 824037,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598464.1",
+        "length": 809466,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598466.1",
+        "length": 1032804,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598463.1",
+        "length": 1207720,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598465.1",
+        "length": 1414338,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598467.1",
+        "length": 1501435,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598469.1",
+        "length": 1548775,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598468.1",
+        "length": 1778692,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "HE983613.1",
+        "length": 30232
+      }
+    ]
+  },
+  "Lachancea nothofagi": {
+    "id": "GCA_900074755.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598449.1",
+        "length": 739721,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598450.1",
+        "length": 895690,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598446.1",
+        "length": 1027700,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598448.1",
+        "length": 1101740,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598451.1",
+        "length": 1651574,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598452.1",
+        "length": 1763880,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598453.1",
+        "length": 1782745,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598447.1",
+        "length": 2350748,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "HE983612.1",
+        "length": 24077
+      }
+    ]
+  },
+  "Lachancea sp. CBS 6924": {
+    "id": "GCA_900074735.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT598474.1",
+        "length": 779442,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598473.1",
+        "length": 839867,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598475.1",
+        "length": 1079238,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598471.1",
+        "length": 1718511,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598472.1",
+        "length": 2184418,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598470.1",
+        "length": 2298723,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT598476.1",
+        "length": 2436460,
+        "number": "G"
+      }
+    ]
+  },
+  "Lachancea thermotolerans": {
+    "id": "GCA_000142805.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Lachancea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_013077.1",
+        "length": 687718,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013078.1",
+        "length": 893706,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013079.1",
+        "length": 999246,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013080.1",
+        "length": 1513537,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013081.1",
+        "length": 1521774,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013082.1",
+        "length": 1632914,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013083.1",
+        "length": 1720065,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_013084.1",
+        "length": 1423902,
+        "number": "H"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "LK392296.1",
+        "length": 23611
+      }
+    ]
+  },
+  "Magnaporthe oryzae": {
+    "id": "GCA_000002495.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Magnaporthales; Magnaporthaceae; Magnaporthe",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_017844.1",
+        "length": 7978604,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017850.1",
+        "length": 8319966,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017849.1",
+        "length": 6606598,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017851.1",
+        "length": 5546968,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017852.1",
+        "length": 4490059,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017853.1",
+        "length": 4133993,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_017854.1",
+        "length": 3415785,
+        "number": "7"
+      }
+    ]
+  },
+  "Malassezia sympodialis": {
+    "id": "GCA_900149135.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT671813.1",
+        "length": 1507387,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671814.1",
+        "length": 1381661,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671815.1",
+        "length": 1355867,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671816.1",
+        "length": 1203127,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671817.1",
+        "length": 687504,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671818.1",
+        "length": 634475,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671819.1",
+        "length": 519384,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT671820.1",
+        "length": 443015,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "HF558646.1",
+        "length": 38622
+      }
+    ]
+  },
+  "Millerozyma farinosa": {
+    "id": "GCA_000315895.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Millerozyma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "FO082059.1",
+        "length": 1055225,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082058.1",
+        "length": 1063002,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082057.1",
+        "length": 1095816,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082056.1",
+        "length": 1102865,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082055.1",
+        "length": 1307235,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082054.1",
+        "length": 1407903,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082053.1",
+        "length": 1423303,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082052.1",
+        "length": 1423303,
+        "number": "H"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082051.1",
+        "length": 1666063,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082050.1",
+        "length": 1803284,
+        "number": "J"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082049.1",
+        "length": 1933849,
+        "number": "K"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082048.1",
+        "length": 1933849,
+        "number": "L"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082047.1",
+        "length": 2121241,
+        "number": "M"
+      },
+      {
+        "type": "chromosome",
+        "id": "FO082046.1",
+        "length": 2122704,
+        "number": "N"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "FN870377.1",
+        "length": 32065
+      }
+    ]
+  },
+  "Naumovozyma castellii": {
+    "id": "GCA_000237345.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Naumovozyma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016491.1",
+        "length": 3019861,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016492.1",
+        "length": 1756361,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016493.1",
+        "length": 1245273,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016494.1",
+        "length": 958728,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016495.1",
+        "length": 835708,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016496.1",
+        "length": 828437,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016497.1",
+        "length": 804126,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016498.1",
+        "length": 699326,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016499.1",
+        "length": 603245,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016500.1",
+        "length": 468474,
+        "number": "10"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_003920.1",
+        "length": 25753
+      }
+    ]
+  },
+  "Naumovozyma dairenensis": {
+    "id": "GCA_000227115.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Naumovozyma",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016479.1",
+        "length": 2054635,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016480.1",
+        "length": 1549475,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016481.1",
+        "length": 1536206,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016482.1",
+        "length": 1230053,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016483.1",
+        "length": 1184459,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016484.1",
+        "length": 1138463,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016485.2",
+        "length": 1565278,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016486.1",
+        "length": 1004037,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016487.1",
+        "length": 786484,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016488.1",
+        "length": 782356,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016489.1",
+        "length": 696134,
+        "number": "11"
+      }
+    ]
+  },
+  "Neurospora crassa": {
+    "id": "GCA_000182925.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Sordariales; Sordariaceae; Neurospora",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_026501.1",
+        "length": 9798893,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026502.1",
+        "length": 4478683,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026503.1",
+        "length": 5274802,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026504.1",
+        "length": 6000761,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026505.1",
+        "length": 6436246,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026506.1",
+        "length": 4218384,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026507.1",
+        "length": 4255303,
+        "number": "VII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_026614.1",
+        "length": 64840
+      }
+    ]
+  },
+  "Ogataea parapolymorpha": {
+    "id": "GCA_000187245.3",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Pichiaceae; Ogataea",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_027866.1",
+        "length": 955766,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027865.1",
+        "length": 990963,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027864.1",
+        "length": 1273462,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027863.1",
+        "length": 1293628,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027862.1",
+        "length": 1330267,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027861.1",
+        "length": 1514933,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_027860.1",
+        "length": 1515570,
+        "number": "VII"
+      }
+    ]
+  },
+  "Penicillium chrysogenum": {
+    "id": "GCA_000710275.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium; Penicillium chrysogenum species complex",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM002798.1",
+        "length": 13597520,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002799.1",
+        "length": 10455807,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002800.1",
+        "length": 5401029,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM002801.1",
+        "length": 3044168,
+        "number": "IV"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CM002802.1",
+        "length": 27017
+      }
+    ]
+  },
+  "Saccharomyces arboricola": {
+    "id": "GCA_000292725.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM001563.1",
+        "length": 194368,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001564.1",
+        "length": 782499,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001565.1",
+        "length": 298424,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001566.1",
+        "length": 1141293,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001567.1",
+        "length": 531626,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001568.1",
+        "length": 272605,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001569.1",
+        "length": 1053431,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001570.1",
+        "length": 527949,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001571.1",
+        "length": 407361,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001572.1",
+        "length": 721635,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001573.1",
+        "length": 650640,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001574.1",
+        "length": 984206,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001575.1",
+        "length": 1246548,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001576.1",
+        "length": 771513,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001577.1",
+        "length": 1023324,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM001578.1",
+        "length": 879294,
+        "number": "XVI"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CM001579.1",
+        "length": 72147
+      }
+    ]
+  },
+  "Saccharomyces cerevisiae": {
+    "id": "GCA_000146045.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_001133.9",
+        "length": 230218,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001134.8",
+        "length": 813184,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001135.5",
+        "length": 316620,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001136.10",
+        "length": 1531933,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001137.3",
+        "length": 576874,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001138.5",
+        "length": 270161,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001139.9",
+        "length": 1090940,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001140.6",
+        "length": 562643,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001141.2",
+        "length": 439888,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001142.9",
+        "length": 745751,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001143.9",
+        "length": 666816,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001144.5",
+        "length": 1078177,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001145.3",
+        "length": 924431,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001146.8",
+        "length": 784333,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001147.6",
+        "length": 1091291,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_001148.4",
+        "length": 948066,
+        "number": "XVI"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_001224.1",
+        "length": 85779
+      }
+    ]
+  },
+  "Saccharomyces eubayanus": {
+    "id": "GCA_001298625.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_030976.1",
+        "length": 175444,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030977.1",
+        "length": 1274804,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030978.1",
+        "length": 305615,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030979.1",
+        "length": 982538,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030984.1",
+        "length": 401362,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030980.1",
+        "length": 588913,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030981.1",
+        "length": 264757,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030982.1",
+        "length": 1051730,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030983.1",
+        "length": 813827,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030985.1",
+        "length": 747934,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030970.1",
+        "length": 632881,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030971.1",
+        "length": 1033978,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030972.1",
+        "length": 953685,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030973.1",
+        "length": 768019,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030974.1",
+        "length": 741893,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_030975.1",
+        "length": 896107,
+        "number": "XVI"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NW_017264706.1",
+        "length": 63999
+      }
+    ]
+  },
+  "Saccharomyces paradoxus": {
+    "id": "GCA_002079145.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP020293.1",
+        "length": 220177,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020294.1",
+        "length": 731301,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020295.1",
+        "length": 308064,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020296.1",
+        "length": 1391618,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020297.1",
+        "length": 577572,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020298.1",
+        "length": 282957,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020299.1",
+        "length": 1105967,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020300.1",
+        "length": 546662,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020301.1",
+        "length": 374625,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020302.1",
+        "length": 751133,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020303.1",
+        "length": 805821,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020304.1",
+        "length": 1068413,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020305.1",
+        "length": 869764,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020306.1",
+        "length": 872155,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020307.1",
+        "length": 1201643,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP020308.1",
+        "length": 1029411,
+        "number": "XVI"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CP020309.1",
+        "length": 77386
+      }
+    ]
+  },
+  "Saccharomyces sp. boulardii": {
+    "id": "GCA_001413975.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM003553.1",
+        "length": 298833,
+        "number": "IXa"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003554.1",
+        "length": 131860,
+        "number": "IXb"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003555.1",
+        "length": 492282,
+        "number": "Va"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003556.1",
+        "length": 97456,
+        "number": "Vb"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003557.1",
+        "length": 210358,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003558.1",
+        "length": 792985,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003559.1",
+        "length": 308660,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003560.1",
+        "length": 1522271,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003561.1",
+        "length": 244449,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003562.1",
+        "length": 1051554,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003563.1",
+        "length": 522781,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003564.1",
+        "length": 729926,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003565.1",
+        "length": 668021,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003566.1",
+        "length": 1042097,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003567.1",
+        "length": 909172,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003568.1",
+        "length": 781142,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003569.1",
+        "length": 1054538,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003570.1",
+        "length": 936779,
+        "number": "XVI"
+      }
+    ]
+  },
+  "Saccharomycetaceae sp. Ashbya aceri": {
+    "id": "GCA_000412225.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; unclassified Saccharomycetaceae",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP006020.1",
+        "length": 809179,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006021.1",
+        "length": 1019532,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006022.1",
+        "length": 1493473,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006023.1",
+        "length": 1099572,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006024.1",
+        "length": 1513917,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006025.1",
+        "length": 1334226,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP006026.1",
+        "length": 1597628,
+        "number": "VII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CP006258.1",
+        "length": 26996
+      }
+    ]
+  },
+  "Saccharomycopsis fibuligera": {
+    "id": "GCA_001936275.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycopsidaceae; Saccharomycopsis",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP015978.1",
+        "length": 4909981,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015979.1",
+        "length": 4155432,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015980.1",
+        "length": 2682731,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015981.1",
+        "length": 2685930,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015982.1",
+        "length": 2406875,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015983.1",
+        "length": 1400908,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP015984.1",
+        "length": 1411284,
+        "number": "7"
+      }
+    ]
+  },
+  "Scheffersomyces stipitis": {
+    "id": "GCA_000209165.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Scheffersomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_009068.1",
+        "length": 3510247,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009042.1",
+        "length": 2740984,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009043.1",
+        "length": 1841851,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009044.1",
+        "length": 1803401,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009045.1",
+        "length": 1725948,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009046.1",
+        "length": 1724953,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009047.1",
+        "length": 1114415,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_009048.1",
+        "length": 979380,
+        "number": "8"
+      }
+    ]
+  },
+  "Schizosaccharomyces pombe": {
+    "id": "GCA_000002945.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina; Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae; Schizosaccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_003424.3",
+        "length": 5579133,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003423.3",
+        "length": 4539804,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_003421.2",
+        "length": 2452883,
+        "number": "III"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_001326.1",
+        "length": 19431
+      }
+    ]
+  },
+  "Sclerotinia sclerotiorum": {
+    "id": "GCA_001857865.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Sclerotiniaceae; Sclerotinia",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP017814.1",
+        "length": 3951982,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017815.1",
+        "length": 3683506,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017816.1",
+        "length": 3351453,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017817.1",
+        "length": 2873318,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017818.1",
+        "length": 2822964,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017819.1",
+        "length": 2483831,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017820.1",
+        "length": 2434682,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017821.1",
+        "length": 2299506,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017822.1",
+        "length": 2122865,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017823.1",
+        "length": 2105496,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017824.1",
+        "length": 2052242,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017825.1",
+        "length": 1878461,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017826.1",
+        "length": 1845946,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017827.1",
+        "length": 1815632,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017828.1",
+        "length": 1765292,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP017829.1",
+        "length": 1419421,
+        "number": "16"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "KT283062.1",
+        "length": 128852
+      }
+    ]
+  },
+  "Sporisorium reilianum": {
+    "id": "GCA_000230245.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Sporisorium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "FQ311430.1",
+        "length": 2448206,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311441.1",
+        "length": 1791267,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311452.1",
+        "length": 1534569,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311463.1",
+        "length": 772363,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311470.1",
+        "length": 730625,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311471.1",
+        "length": 976264,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311472.1",
+        "length": 880029,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311473.1",
+        "length": 760034,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311474.1",
+        "length": 670125,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311431.1",
+        "length": 642761,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311432.1",
+        "length": 636629,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311433.1",
+        "length": 565009,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311434.1",
+        "length": 555666,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311435.1",
+        "length": 562274,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311436.1",
+        "length": 562189,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311437.1",
+        "length": 478111,
+        "number": "16"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311438.1",
+        "length": 534508,
+        "number": "17"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311439.1",
+        "length": 518890,
+        "number": "18"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311440.1",
+        "length": 521053,
+        "number": "19"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311442.1",
+        "length": 1115737,
+        "number": "20"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311443.1",
+        "length": 429375,
+        "number": "21"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311444.1",
+        "length": 385084,
+        "number": "22"
+      },
+      {
+        "type": "chromosome",
+        "id": "FQ311445.1",
+        "length": 263978,
+        "number": "23"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "FQ311469.1",
+        "length": 90496
+      }
+    ]
+  },
+  "Sporisorium scitamineum": {
+    "id": "GCA_001010845.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Sporisorium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP010913.1",
+        "length": 2009762,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010914.1",
+        "length": 1671606,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010915.1",
+        "length": 1566833,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010916.1",
+        "length": 1271980,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010917.1",
+        "length": 1055339,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010918.1",
+        "length": 1032954,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010919.1",
+        "length": 938453,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010920.1",
+        "length": 837966,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010921.1",
+        "length": 808176,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010922.1",
+        "length": 875830,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010923.1",
+        "length": 790822,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010924.1",
+        "length": 716888,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010925.1",
+        "length": 681008,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010926.1",
+        "length": 652314,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010927.1",
+        "length": 634981,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010928.1",
+        "length": 653278,
+        "number": "16"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010929.1",
+        "length": 605135,
+        "number": "17"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010930.1",
+        "length": 598089,
+        "number": "18"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010931.1",
+        "length": 580969,
+        "number": "19"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010932.1",
+        "length": 573042,
+        "number": "20"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010933.1",
+        "length": 539152,
+        "number": "21"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010934.1",
+        "length": 475902,
+        "number": "22"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010935.1",
+        "length": 140422,
+        "number": "23"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010936.1",
+        "length": 87293,
+        "number": "24"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010937.1",
+        "length": 82225,
+        "number": "25"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP010938.1",
+        "length": 99152,
+        "number": "26"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CP010939.1",
+        "length": 88018
+      }
+    ]
+  },
+  "Sugiyamaella lignohabitans": {
+    "id": "GCA_001640025.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Trichomonascaceae; Sugiyamaella",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_031672.1",
+        "length": 5930846,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031674.1",
+        "length": 4956242,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031671.1",
+        "length": 2773601,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_031673.1",
+        "length": 2277569,
+        "number": "D"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CP014499.1",
+        "length": 43869
+      }
+    ]
+  },
+  "Tetrapisispora blattae": {
+    "id": "GCA_000315915.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Tetrapisispora",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_020185.1",
+        "length": 2697332,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020186.1",
+        "length": 2450908,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020187.1",
+        "length": 1779678,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020188.1",
+        "length": 1449145,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020189.1",
+        "length": 1324051,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020190.1",
+        "length": 1053862,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020191.1",
+        "length": 986391,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020192.1",
+        "length": 956377,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020193.1",
+        "length": 857919,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_020194.1",
+        "length": 492930,
+        "number": "10"
+      }
+    ]
+  },
+  "Tetrapisispora phaffii": {
+    "id": "GCA_000236905.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Tetrapisispora",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016520.1",
+        "length": 1377933,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016521.1",
+        "length": 1164785,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016522.1",
+        "length": 1096211,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016523.1",
+        "length": 1042069,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016524.1",
+        "length": 854350,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016525.1",
+        "length": 815984,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016526.1",
+        "length": 808783,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016527.1",
+        "length": 752451,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016528.1",
+        "length": 740259,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016529.1",
+        "length": 713392,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016530.1",
+        "length": 536385,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016531.1",
+        "length": 504740,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016532.1",
+        "length": 452480,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016533.1",
+        "length": 432466,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016534.1",
+        "length": 413379,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016535.1",
+        "length": 394523,
+        "number": "16"
+      }
+    ]
+  },
+  "Thermothelomyces thermophila": {
+    "id": "GCA_000226095.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae; Thermothelomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016472.1",
+        "length": 10931058,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016473.1",
+        "length": 5454242,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016474.1",
+        "length": 5062665,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016475.1",
+        "length": 4710208,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016476.1",
+        "length": 4342007,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016477.1",
+        "length": 4127677,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016478.1",
+        "length": 4116359,
+        "number": "7"
+      }
+    ]
+  },
+  "Thielavia terrestris": {
+    "id": "GCA_000226115.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae; Thielavia",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016457.1",
+        "length": 10101509,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016458.1",
+        "length": 9477512,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016459.1",
+        "length": 4786945,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016460.1",
+        "length": 4578922,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016461.1",
+        "length": 4396881,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016462.1",
+        "length": 3570487,
+        "number": "6"
+      }
+    ]
+  },
+  "Torulaspora delbrueckii": {
+    "id": "GCA_000243375.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Torulaspora",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_016501.1",
+        "length": 1418021,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016502.1",
+        "length": 1354397,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016503.1",
+        "length": 1292049,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016504.1",
+        "length": 1218070,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016505.1",
+        "length": 1086982,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016506.1",
+        "length": 1070623,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016507.1",
+        "length": 946563,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_016508.1",
+        "length": 833973,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_027433.1",
+        "length": 28793
+      }
+    ]
+  },
+  "Trametes hirsuta": {
+    "id": "GCA_001302255.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Trametes",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP019371.1",
+        "length": 4437623,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019370.1",
+        "length": 2280792,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019372.1",
+        "length": 2042872,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019373.1",
+        "length": 1949064,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019374.1",
+        "length": 1948569,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019375.1",
+        "length": 3889359,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019376.1",
+        "length": 3674663,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019377.1",
+        "length": 3112363,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019378.1",
+        "length": 3088601,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019379.1",
+        "length": 3045029,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019380.1",
+        "length": 2738869,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019381.1",
+        "length": 2614590,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019382.1",
+        "length": 2611572,
+        "number": "9"
+      }
+    ]
+  },
+  "Ustilago bromivora": {
+    "id": "GCA_900080155.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Ustilago",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT558117.1",
+        "length": 1921480,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558118.1",
+        "length": 2105630,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558119.1",
+        "length": 2001889,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558120.1",
+        "length": 1714877,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558125.1",
+        "length": 755036,
+        "number": "IX"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558121.1",
+        "length": 838397,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558122.1",
+        "length": 1035314,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558123.1",
+        "length": 1004580,
+        "number": "VII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558124.1",
+        "length": 877262,
+        "number": "VIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558126.1",
+        "length": 723576,
+        "number": "X"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558127.1",
+        "length": 671998,
+        "number": "XI"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558128.1",
+        "length": 654828,
+        "number": "XII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558129.1",
+        "length": 613501,
+        "number": "XIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558130.1",
+        "length": 672989,
+        "number": "XIV"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558135.1",
+        "length": 595867,
+        "number": "XIX"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558131.1",
+        "length": 687706,
+        "number": "XV"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558132.1",
+        "length": 579555,
+        "number": "XVI"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558133.1",
+        "length": 592313,
+        "number": "XVII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558134.1",
+        "length": 575089,
+        "number": "XVIII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558136.1",
+        "length": 656372,
+        "number": "XX"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558137.1",
+        "length": 479373,
+        "number": "XXI"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558138.1",
+        "length": 406465,
+        "number": "XXII"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT558139.1",
+        "length": 283388,
+        "number": "XXIII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "LT558140.1",
+        "length": 177540
+      }
+    ]
+  },
+  "Ustilago maydis": {
+    "id": "GCA_000328475.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Ustilago",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_026478.1",
+        "length": 2476501,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026479.1",
+        "length": 1879391,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026480.1",
+        "length": 1642070,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026481.1",
+        "length": 884984,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026482.1",
+        "length": 1393419,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026483.1",
+        "length": 1031380,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026484.1",
+        "length": 957188,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026485.1",
+        "length": 813247,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026486.1",
+        "length": 733962,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026487.1",
+        "length": 692354,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026488.1",
+        "length": 690620,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026489.1",
+        "length": 650984,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026490.1",
+        "length": 606072,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026491.1",
+        "length": 611467,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026492.1",
+        "length": 575418,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026493.1",
+        "length": 552767,
+        "number": "16"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026494.1",
+        "length": 576628,
+        "number": "17"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026495.1",
+        "length": 560724,
+        "number": "18"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026496.1",
+        "length": 571809,
+        "number": "19"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026497.1",
+        "length": 523884,
+        "number": "20"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026498.1",
+        "length": 470505,
+        "number": "21"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026499.1",
+        "length": 403590,
+        "number": "22"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_026500.1",
+        "length": 344927,
+        "number": "23"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_008368.1",
+        "length": 56814
+      }
+    ]
+  },
+  "Valsa mali": {
+    "id": "GCA_000818155.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Diaporthales; Valsaceae; Valsa",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CM003098.1",
+        "length": 5395810,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003099.1",
+        "length": 4895233,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003100.1",
+        "length": 3828249,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003101.1",
+        "length": 3484069,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003102.1",
+        "length": 3440085,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003103.1",
+        "length": 3351076,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003104.1",
+        "length": 2986693,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003105.1",
+        "length": 2839550,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003106.1",
+        "length": 2099392,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003107.1",
+        "length": 1984115,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003108.1",
+        "length": 1897611,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003109.1",
+        "length": 1424102,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CM003110.1",
+        "length": 550205,
+        "number": "13"
+      }
+    ]
+  },
+  "Verticillium dahliae": {
+    "id": "GCA_000400815.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Glomerellales; Plectosphaerellaceae; Verticillium",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP009075.1",
+        "length": 9275483,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009079.1",
+        "length": 4277765,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009077.1",
+        "length": 4168633,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009080.1",
+        "length": 4086908,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009078.1",
+        "length": 4171808,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009076.1",
+        "length": 3530890,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009082.1",
+        "length": 3277570,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP009081.1",
+        "length": 3361230,
+        "number": "8"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_008248.1",
+        "length": 27184
+      }
+    ]
+  },
+  "Yarrowia lipolytica": {
+    "id": "GCA_000002525.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Dipodascaceae; Yarrowia",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_006067.1",
+        "length": 2303261,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006068.1",
+        "length": 3066374,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006069.1",
+        "length": 3272609,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006070.1",
+        "length": 3633272,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006071.1",
+        "length": 4224103,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006072.1",
+        "length": 4003362,
+        "number": "F"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_002659.1",
+        "length": 47916
+      }
+    ]
+  },
+  "Zygosaccharomyces parabailii": {
+    "id": "GCA_001984395.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Zygosaccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "CP019490.1",
+        "length": 2110500,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019499.1",
+        "length": 1189704,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019500.1",
+        "length": 1115933,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019501.1",
+        "length": 1091360,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019502.1",
+        "length": 1077716,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019503.1",
+        "length": 1007293,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019504.1",
+        "length": 858772,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019505.1",
+        "length": 571967,
+        "number": "16"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019491.1",
+        "length": 2005801,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019492.1",
+        "length": 1751495,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019493.1",
+        "length": 1516135,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019494.1",
+        "length": 1443312,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019495.1",
+        "length": 1315104,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019496.1",
+        "length": 1283838,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019497.1",
+        "length": 1249162,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "CP019498.1",
+        "length": 1240939,
+        "number": "9"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "CP019506.1",
+        "length": 29945
+      }
+    ]
+  },
+  "Zygosaccharomyces rouxii": {
+    "id": "GCA_000026365.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Zygosaccharomyces",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_012990.1",
+        "length": 1114666,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012991.1",
+        "length": 1388208,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012992.1",
+        "length": 1464093,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012993.1",
+        "length": 1496342,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012994.1",
+        "length": 881646,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012995.1",
+        "length": 1554288,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_012996.1",
+        "length": 1865392,
+        "number": "G"
+      }
+    ]
+  },
+  "Zymoseptoria tritici": {
+    "id": "GCA_000219625.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetidae; Capnodiales; Mycosphaerellaceae; Zymoseptoria",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_018218.1",
+        "length": 6088797,
+        "number": "1"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018217.1",
+        "length": 3860111,
+        "number": "2"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018216.1",
+        "length": 3505381,
+        "number": "3"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018215.1",
+        "length": 2880011,
+        "number": "4"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018214.1",
+        "length": 2861803,
+        "number": "5"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018213.1",
+        "length": 2674951,
+        "number": "6"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018212.1",
+        "length": 2665280,
+        "number": "7"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018211.1",
+        "length": 2443572,
+        "number": "8"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018210.1",
+        "length": 2142475,
+        "number": "9"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018209.1",
+        "length": 1682575,
+        "number": "10"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018208.1",
+        "length": 1624292,
+        "number": "11"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018207.1",
+        "length": 1462624,
+        "number": "12"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018206.1",
+        "length": 1185774,
+        "number": "13"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018205.1",
+        "length": 773098,
+        "number": "14"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018204.1",
+        "length": 639501,
+        "number": "15"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018203.1",
+        "length": 607044,
+        "number": "16"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018202.1",
+        "length": 584099,
+        "number": "17"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018201.1",
+        "length": 573698,
+        "number": "18"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018200.1",
+        "length": 549847,
+        "number": "19"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018199.1",
+        "length": 472105,
+        "number": "20"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_018198.1",
+        "length": 409213,
+        "number": "21"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_010222.1",
+        "length": 43964
+      }
+    ]
+  },
+  "Candida glabrata": {
+    "id": "GCA_000002545.2",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Nakaseomyces; Nakaseomyces/Candida clade",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "NC_005967.2",
+        "length": 491328,
+        "number": "A"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_005968.1",
+        "length": 502101,
+        "number": "B"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006026.1",
+        "length": 558804,
+        "number": "C"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006027.1",
+        "length": 651701,
+        "number": "D"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006028.2",
+        "length": 687738,
+        "number": "E"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006029.1",
+        "length": 927101,
+        "number": "F"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006030.1",
+        "length": 992211,
+        "number": "G"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006031.1",
+        "length": 1050361,
+        "number": "H"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006032.2",
+        "length": 1100349,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006033.2",
+        "length": 1195132,
+        "number": "J"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006034.2",
+        "length": 1302831,
+        "number": "K"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006035.2",
+        "length": 1455689,
+        "number": "L"
+      },
+      {
+        "type": "chromosome",
+        "id": "NC_006036.2",
+        "length": 1402899,
+        "number": "M"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "NC_004691.1",
+        "length": 20063
+      }
+    ]
+  },
+  "Candida intermedia": {
+    "id": "GCA_900106115.1",
+    "taxonomy": "Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Metschnikowiaceae; Clavispora; Clavispora/Candida clade",
+    "sequences": [
+      {
+        "type": "chromosome",
+        "id": "LT635756.1",
+        "length": 2919042,
+        "number": "I"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635757.1",
+        "length": 2369172,
+        "number": "II"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635758.1",
+        "length": 2067625,
+        "number": "III"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635759.1",
+        "length": 2031256,
+        "number": "IV"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635760.1",
+        "length": 1965937,
+        "number": "V"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635761.1",
+        "length": 1276505,
+        "number": "VI"
+      },
+      {
+        "type": "chromosome",
+        "id": "LT635762.1",
+        "length": 510700,
+        "number": "VII"
+      },
+      {
+        "type": "mitochondrion",
+        "id": "LT635763.1",
+        "length": 21871
+      }
+    ]
+  }
+}
