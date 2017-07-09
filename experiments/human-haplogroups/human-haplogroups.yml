@@ -1,0 +1,83 @@
+name: human-haplogroups
+
+experiments:
+  haplogroup-whole: &exp_options
+    expand_options:
+      k: 1..11
+      min_group_pts:
+        - 50 # 113 groups
+        - 100 # 66 groups
+        - 200 # 27 groups
+    dataset:
+      archive: mtdna-all
+      archive_folder: all
+      metadata: mtdna-human-haplogroups
+    groups: |
+      lambda:
+        import collections, json, os
+        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
+          metadata = json.load(f)
+        counts = collections.Counter(x['haplogroup'] for x in metadata)
+        return {{h: {{'haplogroup': h + '$'}} for h in counts if h and counts[h] >= {min_group_pts}}}
+
+  haplogroup-firstletter:
+    <<: *exp_options
+    expand_options:
+      k: 1..11
+      min_group_pts:
+        - 100 # 23 groups
+        - 500 # 13 groups
+        - 1000 # 9 groups
+    groups: |
+      lambda:
+        import collections, json, os
+        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
+          metadata = json.load(f)
+        counts = collections.Counter(x['haplogroup'][0] for x in metadata)
+        return {{h: {{'haplogroup': h}} for h in counts if h and counts[h] >= {min_group_pts}}}
+
+steps:
+  - type: select
+    pick_group: |
+      lambda metadata, group_options:
+        import re
+        return [x for x in metadata if re.match(group_options['haplogroup'], x['haplogroup'])]
+
+  - type: command
+    command: '"{client_dir}/generation_manhat_info" 16 {k} "{fasta_output_dir}" "{output_dir}"'
+    save_files: ['manhat.matr', 'info.matr']
+
+  - type: mds
+    dists_file: info.matr
+    dimensions: 10
+    output_file: mds10-info.json
+
+  - type: mds
+    dists_file: manhat.matr
+    dimensions: 10
+    output_file: mds10-manhat.json
+
+  - &classify_options
+    type: classify
+    features_type: mmg-dists
+    features_file: info.matr
+    output_file: classification-info.json
+    validation_count: 10
+    classifiers:
+      - 10-nearest-neighbors
+      - linear-svm
+      - quadratic-svm
+      #- rbf-svm # not very accurate
+      - gaussian-naive-bayes
+      - decision-tree
+      - random-forest
+      - logistic-regression
+      - nearest-centroid-mean
+      #- neural-network # not very accurate
+      - nearest-centroid-median
+
+  - type: classify
+    features_type: mmg-dists
+    features_file: manhat.matr
+    output_file: classification-manhat.json
+    <<: *classify_options
