@@ -1,34 +1,34 @@
 name: dna-types-mtdna-vs-pdna
 
-experiments:
-  refseq: &exp_options
-    expand_options:
-      k: 1..11
-    groups:
-      mtdna:
-        dataset:
-          archive: mtdna-refseq
-          archive_folder: refseq
-          metadata: mtdna-refseq
-      pdna:
-        dataset:
-          archive: pdna-refseq
-          archive_folder: refseq
-          metadata: pdna-refseq
+experiments: !!omap
+  - refseq: &exp_options
+      expand_options:
+        k: 1..11
+      groups:
+        mtdna:
+          dataset:
+            archive: mtdna-refseq
+            archive_folder: refseq
+            metadata: mtdna-refseq
+        pdna:
+          dataset:
+            archive: pdna-refseq
+            archive_folder: refseq
+            metadata: pdna-refseq
 
-  all:
-    <<: *exp_options
-    groups:
-      mtdna:
-        dataset:
-          archive: mtdna-all
-          archive_folder: all
-          metadata: mtdna-all
-      cpdna:
-        dataset:
-          archive: pdna-cp-all
-          archive_folder: cp-all
-          metadata: pdna-cp-all
+  - all:
+      <<: *exp_options
+      groups:
+        mtdna:
+          dataset:
+            archive: mtdna-all
+            archive_folder: all
+            metadata: mtdna-all
+        cpdna:
+          dataset:
+            archive: pdna-cp-all
+            archive_folder: cp-all
+            metadata: pdna-cp-all
 
 steps:
   - type: select

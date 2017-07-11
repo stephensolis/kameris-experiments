@@ -49,7 +49,7 @@ steps:
                         and not any(n in x['name'] for n in group_options['name_not_contains'])]
 
   - type: command
-    command: '"{client_dir}/generation_manhat_info" 16 {k} "{fasta_output_dir}" "{output_dir}"'
+    command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'
     save_files: ['manhat.matr', 'info.matr']
 
   - type: mds
