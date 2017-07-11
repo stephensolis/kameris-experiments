@@ -4,7 +4,7 @@ experiments:
   cds: &exp_options
     expand_options:
       k: 1..11
-      sample_len: [.inf, 150000, 50000, 10000, 5000]
+      sample_len: ['all', 150000, 50000, 10000, 5000]
     dataset:
       archive: mmetsp
       archive_folder: cds
@@ -33,14 +33,17 @@ steps:
     postprocess: |
       lambda metadata_entry, entry_sequences:
         import numpy as np
-        seq = ''
-        choices = []
-        random_indexes = np.random.permutation(len(entry_sequences)).tolist()
-        while len(seq) < {sample_len} and len(random_indexes) > 0:
-          idx = random_indexes.pop()
-          choices.append(idx)
-          seq += entry_sequences[idx]
-        return [(dict(metadata_entry, sample_indexes=choices), [seq])]
+        if {sample_len} == 'all':
+          return [(metadata_entry, [''.join(entry_sequences)])]
+        else:
+          seq = ''
+          choices = []
+          random_indexes = np.random.permutation(len(entry_sequences)).tolist()
+          while len(seq) < {sample_len} and len(random_indexes) > 0:
+            idx = random_indexes.pop()
+            choices.append(idx)
+            seq += entry_sequences[idx]
+          return [(dict(metadata_entry, sample_indexes=choices), [seq])]
 
   - type: command
     command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'
