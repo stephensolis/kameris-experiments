@@ -35,8 +35,7 @@ steps:
           'taxonomy': metadata[species]['taxonomy'],
           'filenames': [species + '/nuclear/' + x['id'] + '.fasta' for x in metadata[species]['sequences']
                                                                    if x['type'] == 'chromosome' or x['type'] == 'linkage group']
-        }} for species in metadata
-           if any(tax_str in metadata[species]['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
+        }} for species in metadata]
     postprocess: |
       lambda metadata_entry, entry_sequences:
         seq = ''.join(seqs[0] for seqs in entry_sequences)

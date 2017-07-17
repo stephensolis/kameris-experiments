@@ -9,10 +9,16 @@ experiments:
       archive_folder: refseq
       metadata: pdna-refseq
     groups:
-      Eudicots:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons;']
-      Liliopsida:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida;']
+      Chlorophyta:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Chlorophyta;']
+      Rosids:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids;']
+      Asterids:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids;']
+      Poales:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales;']
+      Asparagales:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales;']
 
   all:
     <<: *exp_options

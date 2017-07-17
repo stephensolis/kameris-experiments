@@ -30,8 +30,8 @@ steps:
   - type: select
     pick_group: |
       lambda metadata, group_options:
-        # these ids are in nt but not in cds, we omit them entirely
-        omit_ids = {{'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925'}}
+        # these ids are in either nt or cds but not both, we omit them entirely
+        omit_ids = {{'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719'}}
         return [x for x in metadata if group_options['highlevel_group'] in x['highlevel_group'] and x['id'] not in omit_ids]
     postprocess: |
       lambda metadata_entry, entry_sequences:

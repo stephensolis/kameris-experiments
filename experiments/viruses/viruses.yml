@@ -80,7 +80,7 @@ experiments: !!omap
         Rhabdoviridae:
           taxonomy_contains: ['Viruses; ssRNA viruses; ssRNA negative-strand viruses; Mononegavirales; Rhabdoviridae;']
 
-  - root: &exp_options
+  - root:
       <<: *exp_options
       expand_options:
         k: 1..10
