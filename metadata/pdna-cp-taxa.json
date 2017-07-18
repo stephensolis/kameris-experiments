@@ -4,9 +4,7 @@
     "description": "daisies",
     "type": "family",
     "interesting_groups": [
-      "Cynara",
-      "Taraxacum",
-      "Cynara cardunculus"
+      "Cynara"
     ],
     "sequences": [
       {
@@ -2206,268 +2204,6 @@
       }
     ]
   },
-  "Malvaceae": {
-    "id": "txid3629",
-    "description": "mallows (okra, cotton, cacao, etc.)",
-    "type": "family",
-    "interesting_groups": [
-      "Gossypium"
-    ],
-    "sequences": [
-      {
-        "name": "Theobroma cacao chloroplast, complete genome",
-        "id": "HQ336404.2",
-        "length": 160604,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Byttnerioideae; Theobroma"
-      },
-      {
-        "name": "Gossypium hirsutum chloroplast, complete genome",
-        "id": "HQ901196.1",
-        "length": 160256,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium hirsutum cultivar Hainansijimian chloroplast, complete genome",
-        "id": "HQ901197.1",
-        "length": 160265,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium barbadense cultivar Yuanmou chloroplast, complete genome",
-        "id": "HQ901198.1",
-        "length": 160291,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium barbadense cultivar Zhonghai7 chloroplast, complete genome",
-        "id": "HQ901199.1",
-        "length": 160302,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium barbadense cultivar Kaiyuan chloroplast, complete genome",
-        "id": "HQ901200.1",
-        "length": 160290,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Hibiscus syriacus voucher 121038-1 from South Korea chloroplast, complete genome",
-        "id": "KM103366.1",
-        "length": 161022,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Hibiscus"
-      },
-      {
-        "name": "Hibiscus syriacus chloroplast, complete genome",
-        "id": "KR259989.1",
-        "length": 161022,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Hibiscus"
-      },
-      {
-        "name": "Gossypium hirsutum chloroplast, complete genome",
-        "id": "NC_007944.1",
-        "length": 160301,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium barbadense chloroplast, complete genome",
-        "id": "NC_008641.1",
-        "length": 160317,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Theobroma cacao chloroplast, complete genome",
-        "id": "NC_014676.2",
-        "length": 160619,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Byttnerioideae; Theobroma"
-      },
-      {
-        "name": "Gossypium thurberi chloroplast, complete genome",
-        "id": "NC_015204.1",
-        "length": 160264,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium raimondii chloroplast, complete genome",
-        "id": "NC_016668.1",
-        "length": 160161,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium darwinii chloroplast, complete genome",
-        "id": "NC_016670.1",
-        "length": 160378,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium tomentosum chloroplast, complete genome",
-        "id": "NC_016690.1",
-        "length": 160433,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium herbaceum subsp. africanum chloroplast, complete genome",
-        "id": "NC_016692.1",
-        "length": 160315,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium mustelinum chloroplast, complete genome",
-        "id": "NC_016711.1",
-        "length": 160313,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium arboreum chloroplast, complete genome",
-        "id": "NC_016712.1",
-        "length": 160230,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium gossypioides chloroplast, complete genome",
-        "id": "NC_017894.1",
-        "length": 159959,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium incanum chloroplast, complete genome",
-        "id": "NC_018109.1",
-        "length": 159205,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium somalense chloroplast, complete genome",
-        "id": "NC_018110.1",
-        "length": 159539,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium capitis-viridis chloroplast, complete genome",
-        "id": "NC_018111.1",
-        "length": 159467,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium areysianum chloroplast, complete genome",
-        "id": "NC_018112.1",
-        "length": 159572,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium robinsonii chloroplast, complete genome",
-        "id": "NC_018113.1",
-        "length": 159849,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium anomalum chloroplast, complete genome",
-        "id": "NC_023213.1",
-        "length": 159507,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium bickii chloroplast, complete genome",
-        "id": "NC_023214.1",
-        "length": 159422,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium herbaceum chloroplast, complete genome",
-        "id": "NC_023215.1",
-        "length": 160140,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium longicalyx chloroplast, complete genome",
-        "id": "NC_023216.1",
-        "length": 160241,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium stocksii chloroplast, complete genome",
-        "id": "NC_023217.1",
-        "length": 159039,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium sturtianum chloroplast, complete genome",
-        "id": "NC_023218.1",
-        "length": 159627,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium turneri chloroplast, complete genome",
-        "id": "NC_026835.1",
-        "length": 159927,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Hibiscus syriacus chloroplast, complete genome",
-        "id": "NC_026909.1",
-        "length": 161019,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Hibiscus"
-      },
-      {
-        "name": "Talipariti hamabo chloroplast, complete genome",
-        "id": "NC_030195.1",
-        "length": 161729,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Talipariti"
-      },
-      {
-        "name": "Gossypium harknessii chloroplast, complete genome",
-        "id": "NC_033333.1",
-        "length": 160129,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium klotzschianum chloroplast, complete genome",
-        "id": "NC_033394.1",
-        "length": 160097,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium davidsonii chloroplast, complete genome",
-        "id": "NC_033395.1",
-        "length": 160072,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium aridum chloroplast, complete genome",
-        "id": "NC_033396.1",
-        "length": 160257,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium trilobum chloroplast, complete genome",
-        "id": "NC_033397.1",
-        "length": 160109,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium populifolium chloroplast, complete genome",
-        "id": "NC_033398.1",
-        "length": 159444,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium nelsonii chloroplast, complete genome",
-        "id": "NC_033399.1",
-        "length": 162316,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium armourianum chloroplast, complete genome",
-        "id": "NC_033400.1",
-        "length": 160068,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      },
-      {
-        "name": "Gossypium australe chloroplast, complete genome",
-        "id": "NC_033401.1",
-        "length": 159578,
-        "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Malvales; Malvaceae; Malvoideae; Gossypium"
-      }
-    ]
-  },
   "Myrtaceae": {
     "id": "txid3931",
     "description": "myrtles",
@@ -2790,8 +2526,7 @@
     "description": "orchids",
     "type": "family",
     "interesting_groups": [
-      "Cymbidium",
-      "Dendrobium"
+      "Cymbidium"
     ],
     "sequences": [
       {
@@ -3195,8 +2930,7 @@
       "Aegilops",
       "Triticum",
       "Alloteropsis",
-      "Oryza sativa",
-      "Alloteropsis semialata"
+      "Oryza sativa"
     ],
     "sequences": [
       {
