@@ -1,0 +1,87 @@
+name: dna-types-mtdna-vs-plastid-vs-plasmid
+
+experiments: !!omap
+  - refseq: &exp_options
+      expand_options:
+        k: 1..11
+      groups:
+        mtdna:
+          dataset:
+            archive: mtdna-refseq
+            archive_folder: refseq
+            metadata: mtdna-refseq
+        plastid:
+          dataset:
+            archive: plastid-refseq
+            archive_folder: refseq
+            metadata: plastid-refseq
+        plasmid:
+          dataset:
+            archive: plasmid-refseq
+            archive_folder: refseq
+            metadata: plasmid-refseq
+
+  - all:
+      <<: *exp_options
+      groups:
+        mtdna:
+          dataset:
+            archive: mtdna-all
+            archive_folder: all
+            metadata: mtdna-all
+        cpdna:
+          dataset:
+            archive: plastid-cp-all
+            archive_folder: cp-all
+            metadata: plastid-cp-all
+        plasmid:
+          dataset:
+            archive: plasmid-all
+            archive_folder: all
+            metadata: plasmid-all
+
+steps:
+  - type: select
+    pick_group: |
+      lambda metadata, group_options:
+        return [x for x in metadata if ('Homo sapiens' not in x['name'] or x['id'] in {{'NC_012920.1', 'NC_011137.1'}})
+                                    and 'cds' not in x['name'] and 'CDS' not in x['name']]
+
+  - type: command
+    command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'
+    save_files: ['manhat.matr', 'info.matr']
+
+  - type: mds
+    dists_file: info.matr
+    dimensions: 10
+    output_file: mds10-info.json
+
+  - type: mds
+    dists_file: manhat.matr
+    dimensions: 10
+    output_file: mds10-manhat.json
+
+  - &classify_options
+    type: classify
+    features_type: mmg-dists
+    features_file: info.matr
+    output_file: classification-info.json
+    validation_count: 10
+    classifiers:
+      - 10-nearest-neighbors
+      - linear-svm
+      - quadratic-svm
+      #- rbf-svm # not very accurate
+      - gaussian-naive-bayes
+      - decision-tree
+      - random-forest
+      - logistic-regression
+      - nearest-centroid-mean
+      #- neural-network # not very accurate
+      - nearest-centroid-median
+
+  - type: classify
+    features_type: mmg-dists
+    features_file: manhat.matr
+    output_file: classification-manhat.json
+    <<: *classify_options

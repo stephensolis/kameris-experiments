@@ -39,6 +39,12 @@ files:
   nuclear-protists.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-protists.json
     md5: 124ec173d35ae1179623c92e3bc0f764
+  plasmid-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-all.json
+    md5: 5d23fe58049e38e006d0decbde6e9a9c
+  plasmid-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-refseq.json
+    md5: 7a2ad1219cee81bb0658fd8bda11a120
   plastid-cp-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-cp-all.json
     md5: 5859bea44fc788c98f93523620ec84da
@@ -89,6 +95,12 @@ files:
   mtdna-refseq.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=035d6710f03644dfea60bb12c2208be30&authkey=AVJPvc53T0oh6_9bikpIX2Q
     md5: a8864301a991caeca3f996812d7b5e27
+  plasmid-all.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=03bb6b7ea8d2f4b41a3dd44d3aed248fa&authkey=AQ1sqqj9qtqzrR9NqiE1JIQ
+    md5: bf475f8941bd590e248554f29a675a64
+  plasmid-refseq.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=08e806e66738843b3a303ea5276f83b92&authkey=AautsidDR4IR6qefoD71T4c
+    md5: cc17dd37d21a592030fcaf72297625fc
   plastid-cp-all.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f9a3570e2ead40d3a44aef779ead8e53&authkey=AT3MLzpkTPaF_-O4yETqanI
     md5: f1ccb7e0abf6bd63f2ec48eb365d68e3
