@@ -39,14 +39,14 @@ files:
   nuclear-protists.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-protists.json
     md5: 124ec173d35ae1179623c92e3bc0f764
-  pdna-cp-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-cp-all.json
+  plastid-cp-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-cp-all.json
     md5: 5859bea44fc788c98f93523620ec84da
-  pdna-cp-taxa.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-cp-taxa.json
+  plastid-cp-taxa.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-cp-taxa.json
     md5: b8733adebbd92fd2cfd377a750f7ddea
-  pdna-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/pdna-refseq.json
+  plastid-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-refseq.json
     md5: 77e813be2f7457f342f8c8ef64e135ae
   viruses.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses.json
@@ -89,10 +89,10 @@ files:
   mtdna-refseq.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=035d6710f03644dfea60bb12c2208be30&authkey=AVJPvc53T0oh6_9bikpIX2Q
     md5: a8864301a991caeca3f996812d7b5e27
-  pdna-cp-all.zip:
+  plastid-cp-all.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f9a3570e2ead40d3a44aef779ead8e53&authkey=AT3MLzpkTPaF_-O4yETqanI
     md5: f1ccb7e0abf6bd63f2ec48eb365d68e3
-  pdna-refseq.zip:
+  plastid-refseq.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b3e945dc27434883a42cab0acca8ea92&authkey=AeYDhRo8iQ_80AUwZakNs9k
     md5: 793f746d540a8839ebecc44b71fe5003
   viruses.zip:

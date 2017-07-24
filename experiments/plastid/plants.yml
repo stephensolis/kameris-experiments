@@ -1,13 +1,13 @@
-name: pdna-plants
+name: plastid-plants
 
 experiments:
   refseq: &exp_options
     expand_options:
       k: 1..11
     dataset:
-      archive: pdna-refseq
+      archive: plastid-refseq
       archive_folder: refseq
-      metadata: pdna-refseq
+      metadata: plastid-refseq
     groups:
       Chlorophyta:
         taxonomy_contains: ['Eukaryota; Viridiplantae; Chlorophyta;']
@@ -23,9 +23,9 @@ experiments:
   all:
     <<: *exp_options
     dataset:
-      archive: pdna-cp-all
+      archive: plastid-cp-all
       archive_folder: cp-all
-      metadata: pdna-cp-all
+      metadata: plastid-cp-all
 
 steps:
   - type: select

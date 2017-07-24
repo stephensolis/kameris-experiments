@@ -1,4 +1,4 @@
-name: dna-types-mtdna-vs-pdna
+name: dna-types-mtdna-vs-plastid
 
 experiments: !!omap
   - refseq: &exp_options
@@ -10,11 +10,11 @@ experiments: !!omap
             archive: mtdna-refseq
             archive_folder: refseq
             metadata: mtdna-refseq
-        pdna:
+        plastid:
           dataset:
-            archive: pdna-refseq
+            archive: plastid-refseq
             archive_folder: refseq
-            metadata: pdna-refseq
+            metadata: plastid-refseq
 
   - all:
       <<: *exp_options
@@ -26,9 +26,9 @@ experiments: !!omap
             metadata: mtdna-all
         cpdna:
           dataset:
-            archive: pdna-cp-all
+            archive: plastid-cp-all
             archive_folder: cp-all
-            metadata: pdna-cp-all
+            metadata: plastid-cp-all
 
 steps:
   - type: select
