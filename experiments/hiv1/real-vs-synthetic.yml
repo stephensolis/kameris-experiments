@@ -72,10 +72,3 @@ steps:
     features_file: manhat.matr
     output_file: classification-manhat.json
     <<: *classify_options
-
-  - type: plots
-    mds_file: mds10-manhat.json
-    output_file: plots_logistic-regression.nb
-    accuracy_type: top1
-    classification_file: classification-manhat.json
-    classifier_name: logistic-regression
