@@ -3,7 +3,7 @@ name: human-haplogroups
 experiments:
   haplogroup-whole: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..9
       min_group_pts:
         - 50 # 113 groups
         - 100 # 66 groups
@@ -23,7 +23,7 @@ experiments:
   haplogroup-firstletter:
     <<: *exp_options
     expand_options:
-      k: 1..11
+      k: 1..9
       min_group_pts:
         - 100 # 23 groups
         - 500 # 13 groups

@@ -1,9 +1,9 @@
 name: nuclear-archaea
 
 experiments:
-  root: &exp_options
+  all: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..15
     dataset:
       archive: genomes-archaea
       metadata: nuclear-archaea

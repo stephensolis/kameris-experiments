@@ -1,10 +1,9 @@
 name: hiv1-real-vs-synthetic
 
 experiments:
-  whole: &exp_options
-    cut_seqs: false
+  cut: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..10
     groups:
       real:
         dataset:
@@ -17,10 +16,6 @@ experiments:
           archive_folder: art
           metadata: hiv1-art
 
-  cut:
-    <<: *exp_options
-    cut_seqs: true
-
 steps:
   - type: select
     pick_group: |
@@ -28,7 +23,7 @@ steps:
         return metadata
     postprocess: |
       lambda metadata_entry, entry_sequences:
-        if {cut_seqs} and metadata_entry['group'] == 'real':
+        if metadata_entry['group'] == 'real':
           seq = entry_sequences[0]
           return [(metadata_entry, [seq[2000:5000]])]
         else:

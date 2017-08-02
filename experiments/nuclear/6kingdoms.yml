@@ -1,9 +1,9 @@
 name: nuclear-6kingdoms
 
 experiments:
-  root: &exp_options
+  all: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..12
     groups:
       animals:
         dataset:

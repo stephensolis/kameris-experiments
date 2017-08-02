@@ -20,6 +20,8 @@ experiments:
 
   all:
     <<: *exp_options
+    expand_options:
+      k: 1..10
     dataset:
       archive: mtdna-all
       archive_folder: all

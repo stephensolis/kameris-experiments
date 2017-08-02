@@ -1,9 +1,9 @@
 name: nuclear-bacteria
 
 experiments:
-  root: &exp_options
+  bacteria: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..12
     dataset:
       archive: genomes-bacteria
       metadata: nuclear-bacteria

@@ -1,9 +1,9 @@
-name: nuclear-animals
+name: nuclear-vertebrates
 
 experiments:
-  vertebrates: &exp_options
+  all: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..15
     dataset:
       archive: genomes-animals
       metadata: nuclear-animals
