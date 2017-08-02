@@ -54,9 +54,12 @@ files:
   plastid-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-refseq.json
     md5: 77e813be2f7457f342f8c8ef64e135ae
-  viruses.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses.json
+  viruses-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-all.json
     md5: 2403d459486acc912420d09a8d081ab0
+  viruses-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-refseq.json
+    md5: a02016b9f21de629e3a321502a21a545
 
   # archives
   genomes-animals-a_g.zip:
@@ -107,6 +110,9 @@ files:
   plastid-refseq.zip:
     url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b3e945dc27434883a42cab0acca8ea92&authkey=AeYDhRo8iQ_80AUwZakNs9k
     md5: 793f746d540a8839ebecc44b71fe5003
-  viruses.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0eda248f8c7e245fe9a8b3f50cd1ddc62&authkey=AeAqEq_GRZUA15LFQsQ0Nrk
-    md5: cf2d81dcf2c4449452be1a42d9ad6be6
+  viruses-all.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0e8c81928878740f6aec260e9b64707d8&authkey=ATUVXXA3pvJ7RBW4DBfphYk
+    md5: 7218e312f5734580b41750d77bc772d4
+  viruses-refseq.zip:
+    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b5077a21b98b43d89c59ba88d0943618&authkey=AWTxy_SlD2H-IvoUjAFxyV8
+    md5: dc502eccd7ab1820406b4735b39a55ef
