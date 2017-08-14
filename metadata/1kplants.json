@@ -1,0 +1,6572 @@
+[
+  {
+    "id": "URDJ",
+    "tissue": "leaves",
+    "taxonomy": "Basalmost angiosperms; Amborellales; Amborellaceae; Amborella trichopoda"
+  },
+  {
+    "id": "WTKZ",
+    "tissue": "young leaves",
+    "taxonomy": "Basalmost angiosperms; Nymphaeales; Nymphaeaceae; Nuphar advena"
+  },
+  {
+    "id": "PZRT",
+    "tissue": "young leaves",
+    "taxonomy": "Basalmost angiosperms; Nymphaeales; Nymphaeaceae; Nymphaea sp."
+  },
+  {
+    "id": "ROAP",
+    "tissue": "leaves",
+    "taxonomy": "Basalmost angiosperms; Austrobaileyales; Schisandraceae (incl. Illiciac.); Illicium parviflorum"
+  },
+  {
+    "id": "VZCI",
+    "tissue": "young leaves",
+    "taxonomy": "Basalmost angiosperms; Austrobaileyales; Schisandraceae (incl. Illiciac.); Illicium floridanum"
+  },
+  {
+    "id": "NWMY",
+    "tissue": "leaves",
+    "taxonomy": "Basalmost angiosperms; Austrobaileyales; Schisandraceae (incl. Illiciac.); Kadsura heteroclita"
+  },
+  {
+    "id": "FZJL",
+    "tissue": "young shoot",
+    "taxonomy": "Basalmost angiosperms; Austrobaileyales; Austrobaileyaceae; Austrobaileya scandens"
+  },
+  {
+    "id": "NPND",
+    "tissue": "leaves",
+    "taxonomy": "Basalmost angiosperms; Ceratophyllales; Ceratophyllaceae; Ceratophyllum demersum"
+  },
+  {
+    "id": "DDEV",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Canellales; Canellaceae; Canella winterana"
+  },
+  {
+    "id": "IFCJ",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Canellales; Canellaceae; Canella winterana"
+  },
+  {
+    "id": "WKSU",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Canellales; Winteraceae; Drimys winteri"
+  },
+  {
+    "id": "WAIL",
+    "tissue": "",
+    "taxonomy": "Magnoliids; Laurales; Atherospermataceae; Laurelia sempervirens"
+  },
+  {
+    "id": "FALI",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Laurales; Calycanthaceae; Calycanthus floridus"
+  },
+  {
+    "id": "WPHN",
+    "tissue": "young shoot",
+    "taxonomy": "Magnoliids; Laurales; Calycanthaceae; Idiospermum australiense"
+  },
+  {
+    "id": "MAQO",
+    "tissue": "",
+    "taxonomy": "Magnoliids; Laurales; Gomortegaceae; Gomortega keule"
+  },
+  {
+    "id": "BSVG",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Laurales; Hernandiaceae; Gyrocarpus americanus"
+  },
+  {
+    "id": "BCGB",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Laurales; Lauraceae; Cinnamomum camphora"
+  },
+  {
+    "id": "ABSS",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Laurales; Lauraceae; Sassafras albidum"
+  },
+  {
+    "id": "KAYP",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Laurales; Lauraceae; Lindera benzoin"
+  },
+  {
+    "id": "VYLQ",
+    "tissue": "",
+    "taxonomy": "Magnoliids; Laurales; Lauraceae; Cassytha filiformis"
+  },
+  {
+    "id": "WIGA",
+    "tissue": "young leaves and shoots",
+    "taxonomy": "Magnoliids; Laurales; Lauraceae; Persea borbonia"
+  },
+  {
+    "id": "KRJP",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Laurales; Monimiaceae; Peumus boldus"
+  },
+  {
+    "id": "YZRI",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Annonaceae; Annona muricata"
+  },
+  {
+    "id": "PSJT",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Annonaceae; Uvaria microcarpa"
+  },
+  {
+    "id": "DHPO",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Eupomatiaceae; Eupomatia bennettii"
+  },
+  {
+    "id": "XQWC",
+    "tissue": "young leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Magnoliaceae; Michelia maudiae"
+  },
+  {
+    "id": "WBOD",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Magnoliaceae; Magnolia grandiflora"
+  },
+  {
+    "id": "OBPL",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Magnoliales; Myristicaceae; Myristica fragrans"
+  },
+  {
+    "id": "PAWA",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Piperales; Aristolochiaceae; Aristolochia elegans"
+  },
+  {
+    "id": "QDVW",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Piperales; Aristolochiaceae; Saruma henryi"
+  },
+  {
+    "id": "MUNP",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Piperales; Piperaceae; Piper auritum"
+  },
+  {
+    "id": "XSZI",
+    "tissue": "flowers, stem, leaves",
+    "taxonomy": "Magnoliids; Piperales; Piperaceae; Peperomia fraseri"
+  },
+  {
+    "id": "OPDF",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Piperales; Saururaceae; Saururus cernuus"
+  },
+  {
+    "id": "CSSK",
+    "tissue": "leaves",
+    "taxonomy": "Magnoliids; Piperales; Saururaceae; Houttuynia cordata"
+  },
+  {
+    "id": "WPYJ",
+    "tissue": "",
+    "taxonomy": "Magnoliids; Violales; Frankeniaceae; Frankenia laevis"
+  },
+  {
+    "id": "OSHQ",
+    "tissue": "leaves",
+    "taxonomy": "Chloranthales; Chloranthales; Chloranthaceae; Sarcandra glabra"
+  },
+  {
+    "id": "WZFE",
+    "tissue": "",
+    "taxonomy": "Chloranthales; Chloranthales; Chloranthaceae; Ascarina rubricaulis"
+  },
+  {
+    "id": "IWMW",
+    "tissue": "green branch with attached leaves",
+    "taxonomy": "Basal Eudicots; Buxales; Buxaceae; Buxus sempervirens"
+  },
+  {
+    "id": "AALA",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Sabiales; Sabiaceae; Meliosma cuneifolia"
+  },
+  {
+    "id": "SWOH",
+    "tissue": "young leaves and flowers",
+    "taxonomy": "Basal Eudicots; Trochodendrales; Trochodendraceae; Trochodendron aralioides"
+  },
+  {
+    "id": "FAKD",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Proteales; Nelumbonaceae; Nelumbo sp."
+  },
+  {
+    "id": "GRRW",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Proteales; Proteaceae; Grevillea robusta"
+  },
+  {
+    "id": "REOF",
+    "tissue": "young roots",
+    "taxonomy": "Basal Eudicots; Proteales; Proteaceae; Hakea prostrata"
+  },
+  {
+    "id": "OBOJ",
+    "tissue": "young leaves",
+    "taxonomy": "Basal Eudicots; Proteales; Proteaceae; Hakea prostrata"
+  },
+  {
+    "id": "SIIK",
+    "tissue": "young shoot",
+    "taxonomy": "Basal Eudicots; Proteales; Proteaceae; Hakea drupacea"
+  },
+  {
+    "id": "VQFW",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Proteales; Platanaceae; Platanus occidentalis"
+  },
+  {
+    "id": "WFBF",
+    "tissue": "leaves and root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Berberidaceae; Podophyllum peltatum"
+  },
+  {
+    "id": "YHFG",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Basal Eudicots; Ranunculales; Berberidaceae; Nandina domestica"
+  },
+  {
+    "id": "QTJY",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Ranunculales; Eupteleaceae; Euptelea pleiosperma"
+  },
+  {
+    "id": "CCID",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Ranunculales; Lardizabalaceae; Akebia trifoliata"
+  },
+  {
+    "id": "LVNW",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Ranunculales; Menispermaceae; Cocculus laurifolius"
+  },
+  {
+    "id": "NMGG",
+    "tissue": "",
+    "taxonomy": "Basal Eudicots; Ranunculales; Fumariaceae; Hypecoum procumbens"
+  },
+  {
+    "id": "AUGV",
+    "tissue": "",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Capnoides sempervirens"
+  },
+  {
+    "id": "UDHA",
+    "tissue": "",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Ceratocapnos vesicaria"
+  },
+  {
+    "id": "XHKT",
+    "tissue": "young shoot and flower buds",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Sanguinaria canadensis"
+  },
+  {
+    "id": "YDEH",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Argemone mexicana"
+  },
+  {
+    "id": "GOQJ",
+    "tissue": "stem",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Argemone mexicana"
+  },
+  {
+    "id": "SMZF",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Argemone mexicana"
+  },
+  {
+    "id": "CCHG",
+    "tissue": "flower bud",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Argemone mexicana"
+  },
+  {
+    "id": "BFMT",
+    "tissue": "developing fruit",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Argemone mexicana"
+  },
+  {
+    "id": "UNPT",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Eschscholzia californica"
+  },
+  {
+    "id": "NJKC",
+    "tissue": "stem",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Eschscholzia californica"
+  },
+  {
+    "id": "RKGT",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Eschscholzia californica"
+  },
+  {
+    "id": "TUHA",
+    "tissue": "flower bud",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Eschscholzia californica"
+  },
+  {
+    "id": "RRID",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver bracteatum"
+  },
+  {
+    "id": "TMWO",
+    "tissue": "bulb",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver bracteatum"
+  },
+  {
+    "id": "ZSNV",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver bracteatum"
+  },
+  {
+    "id": "ACYX",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver rhoeas"
+  },
+  {
+    "id": "GMAM",
+    "tissue": "stem",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver rhoeas"
+  },
+  {
+    "id": "QZBA",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver rhoeas"
+  },
+  {
+    "id": "IORZ",
+    "tissue": "flower bud",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver rhoeas"
+  },
+  {
+    "id": "MVTX",
+    "tissue": "developing fruit",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver rhoeas"
+  },
+  {
+    "id": "FNXH",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver setigerum"
+  },
+  {
+    "id": "MLPX",
+    "tissue": "stem",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver setigerum"
+  },
+  {
+    "id": "JSVC",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver setigerum"
+  },
+  {
+    "id": "STDO",
+    "tissue": "flower bud",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver setigerum"
+  },
+  {
+    "id": "EPRK",
+    "tissue": "developing fruit",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver setigerum"
+  },
+  {
+    "id": "BMRX",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver somniferum"
+  },
+  {
+    "id": "SUFP",
+    "tissue": "stem",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver somniferum"
+  },
+  {
+    "id": "MIKW",
+    "tissue": "root",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver somniferum"
+  },
+  {
+    "id": "FPYZ",
+    "tissue": "flower bud",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver somniferum"
+  },
+  {
+    "id": "KKCW",
+    "tissue": "developing fruit",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Papaver somniferum"
+  },
+  {
+    "id": "ZGQD",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Corydalis linstowiana"
+  },
+  {
+    "id": "XMVD",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Papaveraceae; Chelidonium majus"
+  },
+  {
+    "id": "VGHH",
+    "tissue": "young shoots and flowers",
+    "taxonomy": "Basal Eudicots; Ranunculales; Ranunculaceae; Hydrastis canadensis"
+  },
+  {
+    "id": "CYVA",
+    "tissue": "root and shoot",
+    "taxonomy": "Basal Eudicots; Ranunculales; Ranunculaceae; Cimicifuga racemosa"
+  },
+  {
+    "id": "ZUHO",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Ranunculaceae; Anemone hupehensis"
+  },
+  {
+    "id": "GBVZ",
+    "tissue": "floral buds",
+    "taxonomy": "Basal Eudicots; Ranunculales; Ranunculaceae; Thalictrum thalictroides"
+  },
+  {
+    "id": "UPOG",
+    "tissue": "leaf",
+    "taxonomy": "Basal Eudicots; Ranunculales; Ranunculaceae; Anemone pulsatilla"
+  },
+  {
+    "id": "XMQO",
+    "tissue": "young leaves",
+    "taxonomy": "Basal Eudicots; Gunnerales; Gunneraceae; Gunnera manicata"
+  },
+  {
+    "id": "QUTB",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Berberidopsidales; Aextoxicaceae; Aextoxicon punctatum"
+  },
+  {
+    "id": "HAEU",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Berberidopsidales; Berberidopsidaceae; Berberidopsis beckleri"
+  },
+  {
+    "id": "EHNF",
+    "tissue": "leaves",
+    "taxonomy": "Basal Eudicots; Dilleniales; Dilleniaceae; Dillenia indica"
+  },
+  {
+    "id": "OKEF",
+    "tissue": "",
+    "taxonomy": "Basal Eudicots; Dilleniales; Dilleniaceae; Hibbertia grossulariifolia"
+  },
+  {
+    "id": "BJKT",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Delosperma echinatum"
+  },
+  {
+    "id": "GJNX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Cypselea humifusa"
+  },
+  {
+    "id": "HZTS",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Sesuvium portulacastrum"
+  },
+  {
+    "id": "OPZX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Sesuvium verrucosum"
+  },
+  {
+    "id": "ZJDK",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Sesuvium verrucosum"
+  },
+  {
+    "id": "QNIK",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Trianthema portulacastrum"
+  },
+  {
+    "id": "TNVE",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Trianthema portulacastrum"
+  },
+  {
+    "id": "BERS",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Aizoaceae; Zaleya pentandra"
+  },
+  {
+    "id": "VKOE",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Aerva lanata"
+  },
+  {
+    "id": "EMIG",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Aerva lanata"
+  },
+  {
+    "id": "MEAH",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Aerva persica"
+  },
+  {
+    "id": "GBCQ",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Aerva persica"
+  },
+  {
+    "id": "JBGU",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Amaranthus palmeri"
+  },
+  {
+    "id": "XSSD",
+    "tissue": "young leaves, stem, and flowers",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Amaranthus tricolor"
+  },
+  {
+    "id": "WMLW",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Amaranthus retroflexus"
+  },
+  {
+    "id": "CUTE",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Blutaparon vermiculare"
+  },
+  {
+    "id": "WGET",
+    "tissue": "stem and leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Kochia scoparia"
+  },
+  {
+    "id": "BDIW",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Chenopodiaceae; Atriplex hortensis"
+  },
+  {
+    "id": "AKTA",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Chenopodiaceae; Atriplex hortensis"
+  },
+  {
+    "id": "MUCT",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Chenopodiaceae; Atriplex prostrata"
+  },
+  {
+    "id": "PDXY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Chenopodiaceae; Atriplex rosea"
+  },
+  {
+    "id": "LBZM",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Chenopodiaceae; Atriplex rosea"
+  },
+  {
+    "id": "SMMC",
+    "tissue": "leaves and buds",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Chenopodium quinoa"
+  },
+  {
+    "id": "KTQI",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera brasiliana"
+  },
+  {
+    "id": "ENCD",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera brasiliana"
+  },
+  {
+    "id": "WGUG",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera caracasana"
+  },
+  {
+    "id": "LUNL",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera sessilis"
+  },
+  {
+    "id": "OYST",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera sessilis"
+  },
+  {
+    "id": "DEMH",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera tenella"
+  },
+  {
+    "id": "DBCE",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Alternanthera tenella"
+  },
+  {
+    "id": "FVXD",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Amaranthaceae; Beta maritima"
+  },
+  {
+    "id": "HSXO",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Ancistrocladaceae; Ancistrocladus tectorius"
+  },
+  {
+    "id": "CTYH",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Basellaceae; Basella alba"
+  },
+  {
+    "id": "JLOV",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Cactaceae; Pereskia aculeata"
+  },
+  {
+    "id": "CPKP",
+    "tissue": "whole plant (no flower)",
+    "taxonomy": "Core Eudicots; Caryophyllales; Cactaceae; Lophophora williamsii"
+  },
+  {
+    "id": "QAIR",
+    "tissue": "paddle",
+    "taxonomy": "Core Eudicots; Caryophyllales; Cactaceae; Opuntia polyacantha"
+  },
+  {
+    "id": "SKNL",
+    "tissue": "flower, fruit, stem, leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Saponaria officinalis"
+  },
+  {
+    "id": "RXEN",
+    "tissue": "green leaves and shoots",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Polycarpaea repens"
+  },
+  {
+    "id": "TJES",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Spergularia media"
+  },
+  {
+    "id": "OLES",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Schiedea membranacea"
+  },
+  {
+    "id": "SHEZ",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Dianthus caryophyllus"
+  },
+  {
+    "id": "FZQN",
+    "tissue": "flowers, leaves, stem",
+    "taxonomy": "Core Eudicots; Caryophyllales; Caryophyllaceae; Silene latifolia"
+  },
+  {
+    "id": "RNBN",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo cerviana"
+  },
+  {
+    "id": "CUVY",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo nudicaulis"
+  },
+  {
+    "id": "UNSW",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo nudicaulis"
+  },
+  {
+    "id": "HURS",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo pentaphylla"
+  },
+  {
+    "id": "BZMI",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo spp."
+  },
+  {
+    "id": "QASA",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo verticillata"
+  },
+  {
+    "id": "OFWX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Molluginaceae; Mollugo verticillata"
+  },
+  {
+    "id": "WQUF",
+    "tissue": "lower leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nepenthaceae; Nepenthes alata"
+  },
+  {
+    "id": "JAFJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Bougainvillea spectabilis"
+  },
+  {
+    "id": "DVXD",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Allionia incarnata"
+  },
+  {
+    "id": "EGOS",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Allionia incarnata"
+  },
+  {
+    "id": "WHHY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Boerhavia coccinea"
+  },
+  {
+    "id": "MBWM",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Boerhavia coccinea"
+  },
+  {
+    "id": "HUGU",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Boerhavia burbidgeana"
+  },
+  {
+    "id": "GDYP",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Boerhavia burbidgeana"
+  },
+  {
+    "id": "GQAV",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Mirabilis jalapa"
+  },
+  {
+    "id": "DZRA",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Nyctaginaceae; Mirabilis jalapa"
+  },
+  {
+    "id": "RUUB",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Physenaceae; Physena madagascariensis"
+  },
+  {
+    "id": "BKQU",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots; Caryophyllales; Phytolaccaceae; Phytolacca americana"
+  },
+  {
+    "id": "AZBL",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Petiveriaceae; Petiveria alliacea"
+  },
+  {
+    "id": "MRKX",
+    "tissue": "flowers, developing fruits, leaves, stem",
+    "taxonomy": "Core Eudicots; Caryophyllales; Phytolaccaceae; Phytolacca bogotensis"
+  },
+  {
+    "id": "YNFJ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Miroteaceae; Microtea debilis"
+  },
+  {
+    "id": "SFKQ",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots; Caryophyllales; Phytolaccaceae; Hilleria latifolia"
+  },
+  {
+    "id": "CGGO",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Caryophyllales; Plumbaginaceae; Plumbago auriculata"
+  },
+  {
+    "id": "WOBD",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Caryophyllales; Plumbaginaceae; Limonium spectabile"
+  },
+  {
+    "id": "FYSJ",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots; Caryophyllales; Polygonaceae; Polygonum convolvulus"
+  },
+  {
+    "id": "CZJT",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca oleracea"
+  },
+  {
+    "id": "QMUN",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca amilis"
+  },
+  {
+    "id": "LFQH",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca amilis"
+  },
+  {
+    "id": "VPCP",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca cryptopetala"
+  },
+  {
+    "id": "TMMR",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca cryptopetala"
+  },
+  {
+    "id": "CPLT",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca grandiflora"
+  },
+  {
+    "id": "BYNZ",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca umbraticola"
+  },
+  {
+    "id": "UQCB",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca molokiniensis"
+  },
+  {
+    "id": "TRLB",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca oleracea"
+  },
+  {
+    "id": "IWIS",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca pilosa"
+  },
+  {
+    "id": "GCYL",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca suffrutescens"
+  },
+  {
+    "id": "KDCH",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots; Caryophyllales; Portulacaceae; Portulaca umbraticola"
+  },
+  {
+    "id": "LKKX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Talinaceae; Talinum sp."
+  },
+  {
+    "id": "GIWN",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Caryophyllales; Sarcobataceae; Sarcobatus vermiculatus"
+  },
+  {
+    "id": "CVDF",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Caryophyllales; Simmondsiaceae; Simmondsia chinensis"
+  },
+  {
+    "id": "HTDC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Caryophyllales; Tamaricaceae; Tamarix chinensis"
+  },
+  {
+    "id": "STKY",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Santalales; Balanophoraceae; Balanophora fungosa"
+  },
+  {
+    "id": "XKPS",
+    "tissue": "young leaves and shoots",
+    "taxonomy": "Core Eudicots; Santalales; Olacaceae; Ximenia americana"
+  },
+  {
+    "id": "VGVI",
+    "tissue": "seedlings / whole plant",
+    "taxonomy": "Core Eudicots; Santalales; Loranthaceae; Dendropemon caribaeus"
+  },
+  {
+    "id": "RSPO",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Santalales; Santalaceae; Santalum acuminatum"
+  },
+  {
+    "id": "BSEY",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Santalales; Santalaceae; Daenikera sp."
+  },
+  {
+    "id": "XGFU",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Santalales; Santalaceae; Exocarpos cupressiformis"
+  },
+  {
+    "id": "QKMG",
+    "tissue": "leaves, stem, fruit",
+    "taxonomy": "Core Eudicots; Santalales; Viscaceae; Phoradendron serotinum"
+  },
+  {
+    "id": "DMKC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Hamamelidaceae; Hamamelis virginiana"
+  },
+  {
+    "id": "YHXT",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Hamamelidaceae; Hamamelis virginiana"
+  },
+  {
+    "id": "HQRJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Hamamelidaceae; Loropetalum chinense"
+  },
+  {
+    "id": "OMDH",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Hamamelidaceae; Loropetalum chinense"
+  },
+  {
+    "id": "FWBF",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Alangiaceae; Alangium chinense"
+  },
+  {
+    "id": "LMVB",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Altingiaceae; Liquidambar styraciflua"
+  },
+  {
+    "id": "NUZN",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Cercidiphyllaceae; Cercidiphyllum japonicum"
+  },
+  {
+    "id": "ZJUL",
+    "tissue": "flowers, stem, leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Crassulaceae; Rhodiola rosea"
+  },
+  {
+    "id": "KWGC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Crassulaceae; Crassula perforata"
+  },
+  {
+    "id": "DRIL",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Crassulaceae; Kalanchoe crenato-diagremontiana"
+  },
+  {
+    "id": "FYTP",
+    "tissue": "vegetative shoot meristems",
+    "taxonomy": "Core Eudicots; Saxifragales; Daphniphyllaceae; Daphniphyllum macropodum"
+  },
+  {
+    "id": "SYHW",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Grossulariaceae; Ribes aff. giraldii"
+  },
+  {
+    "id": "IUSR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Haloragaceae; Myriophyllum aquaticum"
+  },
+  {
+    "id": "TOKV",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; [Aphanopetalaceae]; Aphanopetalum resinosum"
+  },
+  {
+    "id": "UWFU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Iteaceae; Itea virginica"
+  },
+  {
+    "id": "HTIP",
+    "tissue": "flower buds",
+    "taxonomy": "Core Eudicots; Saxifragales; Paeoniacae; Paeonia lactiflora"
+  },
+  {
+    "id": "FCBJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Saxifraga stolonifera"
+  },
+  {
+    "id": "ERIA",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Heuchera sanguinea"
+  },
+  {
+    "id": "CIAC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Bergenia sp."
+  },
+  {
+    "id": "UHBY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Oresitrophe rupifraga"
+  },
+  {
+    "id": "DAYQ",
+    "tissue": "",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Mitella pentandra"
+  },
+  {
+    "id": "OOVX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Boykinia jamesii"
+  },
+  {
+    "id": "CKKR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Astilbe chinensis"
+  },
+  {
+    "id": "SLOI",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Tiarella polyphylla"
+  },
+  {
+    "id": "YKFU",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Peltoboykinia watanabei"
+  },
+  {
+    "id": "CTSS",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots; Saxifragales; Saxifragaceae; Tellima breviflora"
+  },
+  {
+    "id": "BGZG",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Vitales; Vitaceae; Cissus quadrangularis"
+  },
+  {
+    "id": "SZPD",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Vitales; Vitaceae; Tetrastigma voinierianum"
+  },
+  {
+    "id": "BBBA",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Vitales; Vitaceae; Tetrastigma obtectum"
+  },
+  {
+    "id": "VYGG",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Crossosomatales; Stachyuraceae; Stachyurus praecox"
+  },
+  {
+    "id": "PTLU",
+    "tissue": "vegetative shoots",
+    "taxonomy": "Core Eudicots/Rosids; Crossosomatales; Staphyleaceae; Staphylea trifolia"
+  },
+  {
+    "id": "YGCX",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Geraniales; Geraniaceae; Geranium maculatum"
+  },
+  {
+    "id": "HDWF",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Geraniales; Melianthaceae; Francoa appendiculata"
+  },
+  {
+    "id": "FONV",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Geraniales; Melianthaceae; Greyia sutherlandii"
+  },
+  {
+    "id": "AJJE",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Combretaceae; Terminalia neotaliala"
+  },
+  {
+    "id": "NIJU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Heteropyxidaceae; Heteropyxis natalensis"
+  },
+  {
+    "id": "RJNQ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Lythraceae; Lagerstroemia indica"
+  },
+  {
+    "id": "JROW",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Lythraceae; Punica granatum"
+  },
+  {
+    "id": "QEBC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Lythraceae; Punica granatum"
+  },
+  {
+    "id": "YMUO",
+    "tissue": "developing seeds",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Lythraceae; Punica granatum"
+  },
+  {
+    "id": "VUGF",
+    "tissue": "developing seeds",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Lythraceae; Punica granatum"
+  },
+  {
+    "id": "SWGX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Melastomataceae; Tetrazygia bicolor"
+  },
+  {
+    "id": "WWQZ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Melastomataceae; Medinilla magnifica"
+  },
+  {
+    "id": "FGDU",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Myrtaceae; Syzygium paniculatum"
+  },
+  {
+    "id": "NEBM",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Myrtaceae; Syzygium micranthum"
+  },
+  {
+    "id": "AYMT",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Myrtaceae; Eucalyptus leucoxylon"
+  },
+  {
+    "id": "JLLY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Myrtaceae; Melaleuca quinquenervia"
+  },
+  {
+    "id": "FEDW",
+    "tissue": "leaf, stem, flowers",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Chamerion angustifolium"
+  },
+  {
+    "id": "DSVQ",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera biennis"
+  },
+  {
+    "id": "EXGW",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera biennis"
+  },
+  {
+    "id": "FDBS",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera biennis"
+  },
+  {
+    "id": "MLUJ",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera biennis"
+  },
+  {
+    "id": "REZJ",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandiflora"
+  },
+  {
+    "id": "MJHP",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandiflora"
+  },
+  {
+    "id": "GZUR",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandiflora"
+  },
+  {
+    "id": "EBPG",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandiflora"
+  },
+  {
+    "id": "HOOU",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandiflora"
+  },
+  {
+    "id": "SEMK",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandis"
+  },
+  {
+    "id": "ICUS",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera laciniata"
+  },
+  {
+    "id": "FXJC",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera rosea"
+  },
+  {
+    "id": "NQWS",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera filiformis"
+  },
+  {
+    "id": "TGOP",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera gaura"
+  },
+  {
+    "id": "GVCB",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera affinis"
+  },
+  {
+    "id": "KBRW",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera clelandii"
+  },
+  {
+    "id": "JKNQ",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera suffulta suffulta"
+  },
+  {
+    "id": "ECSL",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera filiformis"
+  },
+  {
+    "id": "LACT",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera gaura"
+  },
+  {
+    "id": "LHDP",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera gaura"
+  },
+  {
+    "id": "IIFB",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera gaura"
+  },
+  {
+    "id": "JYOB",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera filiformis"
+  },
+  {
+    "id": "IDAU",
+    "tissue": "young true leaves from seedlings",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera elata hookeri"
+  },
+  {
+    "id": "XSNO",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera rosea"
+  },
+  {
+    "id": "YHLF",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera rhombipetala"
+  },
+  {
+    "id": "DZLN",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera picensis"
+  },
+  {
+    "id": "CJGZ",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera nana"
+  },
+  {
+    "id": "HPNZ",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera longituba"
+  },
+  {
+    "id": "DIBI",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera laciniata"
+  },
+  {
+    "id": "AQXA",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera laciniata"
+  },
+  {
+    "id": "QBRF",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera laciniata"
+  },
+  {
+    "id": "ONZG",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera laciniata"
+  },
+  {
+    "id": "EWHG",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandis"
+  },
+  {
+    "id": "TAHF",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandis"
+  },
+  {
+    "id": "WPUV",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandis"
+  },
+  {
+    "id": "CHTD",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera grandis"
+  },
+  {
+    "id": "EQYT",
+    "tissue": "expanding young leaf",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera berlandieri"
+  },
+  {
+    "id": "JMJV",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera gaura"
+  },
+  {
+    "id": "YIVZ",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera rosea"
+  },
+  {
+    "id": "KFAL",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera rosea"
+  },
+  {
+    "id": "SJAN",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera serrulata"
+  },
+  {
+    "id": "RLZU",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera speciosa"
+  },
+  {
+    "id": "UASK",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera speciosa"
+  },
+  {
+    "id": "XZPP",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera speciosa"
+  },
+  {
+    "id": "XZAQ",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera speciosa"
+  },
+  {
+    "id": "GBGW",
+    "tissue": "expanding 4th true leaf from seedling",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera speciosa"
+  },
+  {
+    "id": "AJBK",
+    "tissue": "4th true leaf",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera elata"
+  },
+  {
+    "id": "ROLB",
+    "tissue": "pool of multiple tissues",
+    "taxonomy": "Core Eudicots/Rosids; Myrtales; Onagraceae; Oenothera elata"
+  },
+  {
+    "id": "UDUT",
+    "tissue": "woody seedling including leaves and root",
+    "taxonomy": "Core Eudicots/Rosids; Zygophyllales; Zygophyllaceae; Larrea tridentata"
+  },
+  {
+    "id": "KVAY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Rosids; Zygophyllales; Zygophyllaceae; Tribulus eichlerianus"
+  },
+  {
+    "id": "ZHMB",
+    "tissue": "young leaves, flower buds",
+    "taxonomy": "Core Eudicots/Rosids; Zygophyllales; Krameriaceae; Krameria lanceolata"
+  },
+  {
+    "id": "IHCQ",
+    "tissue": "young leaves, a few flowers",
+    "taxonomy": "Core Eudicots/Rosids; Celastrales; Celastraceae; Crossopetalum rhacoma"
+  },
+  {
+    "id": "MFEA",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Celastrales; Celastraceae; Stackhousia spathulata"
+  },
+  {
+    "id": "OCTM",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Cucurbitales; Begoniaceae; Begonia sp."
+  },
+  {
+    "id": "AXAF",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Cucurbitales; Cucurbitaceae; Thladiantha villosula"
+  },
+  {
+    "id": "NNGU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Cucurbitales; Coriariaceae; Coriaria nepalensis"
+  },
+  {
+    "id": "SUAK",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Codariocalyx motorius"
+  },
+  {
+    "id": "RKLL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Copaifera officinalis"
+  },
+  {
+    "id": "RMWJ",
+    "tissue": "flowers, leaves, stems",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Wisteria floribunda"
+  },
+  {
+    "id": "PEZP",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycyrrhiza glabra"
+  },
+  {
+    "id": "RKFX",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Cercis canadensis"
+  },
+  {
+    "id": "GEHT",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Gleditsia triacanthos"
+  },
+  {
+    "id": "QZXQ",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Gymnocladus dioicus"
+  },
+  {
+    "id": "KZED",
+    "tissue": "young leaves and shoot",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Senna hebecarpa"
+  },
+  {
+    "id": "XOOE",
+    "tissue": "young leaves and shoot",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Desmanthus illinoensis"
+  },
+  {
+    "id": "NXOH",
+    "tissue": "young shoot and tuber",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Apios americana"
+  },
+  {
+    "id": "SLYR",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Cladrastis lutea"
+  },
+  {
+    "id": "KNMB",
+    "tissue": "young shoot and tuber",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Lathyrus sativus"
+  },
+  {
+    "id": "CMFF",
+    "tissue": "high alkaloid � leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Lupinus polyphyllus"
+  },
+  {
+    "id": "TTRG",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Lupinus angustifolius"
+  },
+  {
+    "id": "TVSH",
+    "tissue": "leaves and buds",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Bituminaria bituminosa"
+  },
+  {
+    "id": "HJMP",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Astragalus membranaceus"
+  },
+  {
+    "id": "JTQQ",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycyrrhiza lepidota"
+  },
+  {
+    "id": "VLNB",
+    "tissue": "leaves and buds",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Gompholobium polymorphum"
+  },
+  {
+    "id": "ZUQW",
+    "tissue": "root",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "OAQS",
+    "tissue": "root + NaCl",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "LXGM",
+    "tissue": "root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "RIDD",
+    "tissue": "AB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "PFSA",
+    "tissue": "BB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "TJMB",
+    "tissue": "CB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "AKRH",
+    "tissue": "DB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "FPLR",
+    "tissue": "EB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "LQUX",
+    "tissue": "FB root + NaHCO3",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Glycine soja"
+  },
+  {
+    "id": "JETM",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Bauhinia tomentosa"
+  },
+  {
+    "id": "ZSSR",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Xanthocercis zambesiaca"
+  },
+  {
+    "id": "ATQZ",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Acacia pycnantha"
+  },
+  {
+    "id": "MGBF",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Acacia pycnantha"
+  },
+  {
+    "id": "MYMP",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Astragalus propinquus"
+  },
+  {
+    "id": "VHZV",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Gleditsia sinensis"
+  },
+  {
+    "id": "ZCDJ",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Fabaceae; Acacia argyrophylla"
+  },
+  {
+    "id": "OHAE",
+    "tissue": "leaf buds and flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Polygalaceae; Polygala lutea"
+  },
+  {
+    "id": "OQHZ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fabales; Quillajaceae; Quillaja saponaria"
+  },
+  {
+    "id": "CWZU",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Betulaceae; Betula pendula"
+  },
+  {
+    "id": "LWDA",
+    "tissue": "young leaves, young inflorescence",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Betulaceae; Alnus serrulata"
+  },
+  {
+    "id": "LNER",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Casuarinacae; Casuarina equisetifolia"
+  },
+  {
+    "id": "SVVG",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Fagaceae; Fagus sylvatica"
+  },
+  {
+    "id": "HENI",
+    "tissue": "very young leaves, some staminate flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Fagaceae; Quercus shumardii"
+  },
+  {
+    "id": "UZWG",
+    "tissue": "young leaves and flowers",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Fagaceae; Castanea pumila"
+  },
+  {
+    "id": "NHUA",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Fagaceae; Castanea crenata"
+  },
+  {
+    "id": "DXQW",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Juglandaceae; Juglans nigra"
+  },
+  {
+    "id": "VWIP",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Juglandaceae; Carya glabra"
+  },
+  {
+    "id": "INSP",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Myricaceae; Myrica cerifera"
+  },
+  {
+    "id": "TJLC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Fagales; Nothofagaceae; Nothofagus obliqua"
+  },
+  {
+    "id": "NFXV",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Calophyllaceae; Mammea americana"
+  },
+  {
+    "id": "ZBVT",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Chrysobalanaceae; Chrysobalanus icaco"
+  },
+  {
+    "id": "HBUQ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Chrysobalanaceae; Licania michauxii"
+  },
+  {
+    "id": "FWCQ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Clusiaceae; Garcinia oblongifolia"
+  },
+  {
+    "id": "OSIP",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Clusiaceae; Garcinia livingstonei"
+  },
+  {
+    "id": "PAZJ",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Ricinus communis"
+  },
+  {
+    "id": "XNLP",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Manihot grahamii"
+  },
+  {
+    "id": "VVPY",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Croton tiglium"
+  },
+  {
+    "id": "PXYR",
+    "tissue": "leaf, and inflorescence",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Euphorbia pekinensis"
+  },
+  {
+    "id": "VPDX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Euphorbia mesembryanthemifolia"
+  },
+  {
+    "id": "LSLA",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Euphorbiaceae; Euphorbia mesembryanthemifolia"
+  },
+  {
+    "id": "BNDE",
+    "tissue": "shoot (young leaves, floral buds)",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Hypericaceae; Hypericum perforatum"
+  },
+  {
+    "id": "MYVH",
+    "tissue": "buds, stem, leaves, flowers",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum grandiflorum"
+  },
+  {
+    "id": "MJAV",
+    "tissue": "stem apex",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum usitatissimum"
+  },
+  {
+    "id": "OZJZ",
+    "tissue": "stem region 3",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum usitatissimum"
+  },
+  {
+    "id": "OGSY",
+    "tissue": "stem region 4",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum usitatissimum"
+  },
+  {
+    "id": "HNCF",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum hirsutum"
+  },
+  {
+    "id": "BHYC",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum lewisii"
+  },
+  {
+    "id": "AEPI",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum leonii"
+  },
+  {
+    "id": "AXPJ",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum flavum"
+  },
+  {
+    "id": "KCPT",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum macraei"
+  },
+  {
+    "id": "XWMS",
+    "tissue": "stem apex, shoot, leaves, flower buds (in bud)",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum perenne"
+  },
+  {
+    "id": "LFII",
+    "tissue": "stem apex, shoot, leaves (veg.)",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum perenne"
+  },
+  {
+    "id": "OODC",
+    "tissue": "stem apex, shoot, leaves, flowers, developing ca..",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum bienne"
+  },
+  {
+    "id": "VXOD",
+    "tissue": "stem apex, shoot, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum tenuifolium"
+  },
+  {
+    "id": "TXMP",
+    "tissue": "stem apex, shoot, leaves, flowers, developing c...",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Linaceae; Linum strictum"
+  },
+  {
+    "id": "XPBC",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Malpighiaceae; Galphimia gracilis"
+  },
+  {
+    "id": "COAQ",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Malesherbiaceae; Malesherbia fasciculata"
+  },
+  {
+    "id": "TVCU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Ochnaceae; Ochna mossambicensis"
+  },
+  {
+    "id": "CKDK",
+    "tissue": "young shoots and flower buds",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Ochnaceae; Ochna serrulata"
+  },
+  {
+    "id": "EZZT",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Passifloraceae; Passiflora edulis"
+  },
+  {
+    "id": "SIZE",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Passifloraceae; Passiflora caerulea"
+  },
+  {
+    "id": "YGAT",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Phyllanthaceae; Phyllanthus sp."
+  },
+  {
+    "id": "VNMY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Phyllanthaceae; Bischofia javanica"
+  },
+  {
+    "id": "RVGH",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Putranjivaceae; Drypetes deplanchei"
+  },
+  {
+    "id": "ZTLR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Rhizophoraceae; Rhizophora mangle"
+  },
+  {
+    "id": "RPPC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; [Erythroyxlaceae]; Erythroxylum coca"
+  },
+  {
+    "id": "INQX",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix acutifolia"
+  },
+  {
+    "id": "IEPQ",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix dasyclados"
+  },
+  {
+    "id": "GLVK",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix eriocephala"
+  },
+  {
+    "id": "LFOG",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix purpurea"
+  },
+  {
+    "id": "TDTF",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix sachalinensis"
+  },
+  {
+    "id": "KKDQ",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix viminalis"
+  },
+  {
+    "id": "RZTJ",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Salicaceae; Salix fargesii"
+  },
+  {
+    "id": "LPGY",
+    "tissue": "young leaves, some floral buds",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Violaceae; Viola tricolor"
+  },
+  {
+    "id": "NJLF",
+    "tissue": "leaf, stem, flowers, developing fruits",
+    "taxonomy": "Core Eudicots/Rosids; Malpighiales; Violaceae; Viola canadensis"
+  },
+  {
+    "id": "YZVJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Oxalidales; Cephalotaceae; Cephalotus follicularis"
+  },
+  {
+    "id": "TIUZ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Oxalidales; Cunoniaceae; Cunonia capensis"
+  },
+  {
+    "id": "THHD",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Oxalidales; Elaeocarpaceae; Elaeocarpus sylvestris"
+  },
+  {
+    "id": "JHCN",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Oxalidales; Oxalidaceae; Oxalis sp."
+  },
+  {
+    "id": "PDIE",
+    "tissue": "xylem var. C",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Cannabis sativa"
+  },
+  {
+    "id": "PMRP",
+    "tissue": "stem var. A",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Cannabis sativa"
+  },
+  {
+    "id": "DGNP",
+    "tissue": "core var. A",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Cannabis sativa"
+  },
+  {
+    "id": "SFZX",
+    "tissue": "stem peel var. A",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Cannabis sativa"
+  },
+  {
+    "id": "AQGE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Humulus lupulus"
+  },
+  {
+    "id": "KYAD",
+    "tissue": "young leaves and flowers",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Cannabaceae; Celtis occidentalis"
+  },
+  {
+    "id": "RBYC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Elaeagnaceae; Elaeagnus pungens"
+  },
+  {
+    "id": "XVJB",
+    "tissue": "flower, stem, leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Moraceae; Morus nigra"
+  },
+  {
+    "id": "EDHN",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Moraceae; Ficus religiosa"
+  },
+  {
+    "id": "EILE",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rhamnaceae; Rhamnus japonica"
+  },
+  {
+    "id": "WVEF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rhamnaceae; Rhamnus caroliniana"
+  },
+  {
+    "id": "ZHEE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rhamnaceae; Ziziphus jujuba"
+  },
+  {
+    "id": "IANR",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Rosa palustris"
+  },
+  {
+    "id": "QNOC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Sanguisorba minor"
+  },
+  {
+    "id": "DHAW",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Geum quellyon"
+  },
+  {
+    "id": "NCVK",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Prunus prostrata"
+  },
+  {
+    "id": "TJQY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Kerria japonica"
+  },
+  {
+    "id": "VCIN",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Malus baccata var. jackii"
+  },
+  {
+    "id": "BLVL",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Sorbus koehneana"
+  },
+  {
+    "id": "EAVM",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Amelanchier canadensis"
+  },
+  {
+    "id": "QIEH",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Cotoneaster transcaucasicus"
+  },
+  {
+    "id": "SXCE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Physocarpus opulifolius"
+  },
+  {
+    "id": "ZPKK",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Aruncus dioicus"
+  },
+  {
+    "id": "SQCF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Dryas octopetala"
+  },
+  {
+    "id": "XFFT",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Rosaceae; Cercocarpus ledifolius"
+  },
+  {
+    "id": "CQMG",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Ulmaceae; Ulmus alata alata"
+  },
+  {
+    "id": "ACFP",
+    "tissue": "shoot apex including nascent leaves and woody stem",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Urticaceae; Boehmeria nivea"
+  },
+  {
+    "id": "WKCY",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Rosids; Rosales; Urticaceae; Urtica dioica"
+  },
+  {
+    "id": "WWKL",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots/Rosids; Huerteales; Tapisciaceae; Tapiscia sinensis"
+  },
+  {
+    "id": "HYZL",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Akaniaceae; Akania lucens"
+  },
+  {
+    "id": "DZTK",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Bataceae; Batis maritima"
+  },
+  {
+    "id": "IPWB",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Brassica nigra"
+  },
+  {
+    "id": "VMNH",
+    "tissue": "leaves and buds",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Sinapis alba"
+  },
+  {
+    "id": "CSUV",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Cochlearia officinalis"
+  },
+  {
+    "id": "TZWR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Arabis alpina"
+  },
+  {
+    "id": "HABV",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba aizoides"
+  },
+  {
+    "id": "UVQL",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba magellanica"
+  },
+  {
+    "id": "BXBF",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba sachalinensis"
+  },
+  {
+    "id": "GTSV",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba hispida"
+  },
+  {
+    "id": "LAPO",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba oligosperma"
+  },
+  {
+    "id": "LJQF",
+    "tissue": "fresh young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Brassicaceae; Draba ossetica"
+  },
+  {
+    "id": "QSKP",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Polanisia trachysperma"
+  },
+  {
+    "id": "HELY",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Cleome violacea"
+  },
+  {
+    "id": "EZXQ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Cleome violacea"
+  },
+  {
+    "id": "ZLOA",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Cleome gynandra"
+  },
+  {
+    "id": "MBQU",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Cleome gynandra"
+  },
+  {
+    "id": "UPZX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Cleomaceae; Cleome viscosa"
+  },
+  {
+    "id": "UAXP",
+    "tissue": "leaves and fruit",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Gyrostemonaceae; Gyrostemon ramulosus"
+  },
+  {
+    "id": "JOIS",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Koeberliniaceae; Koeberlinia spinosa"
+  },
+  {
+    "id": "CRNC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Limnanthaceae; Limnanthes douglasii"
+  },
+  {
+    "id": "CZPV",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Moringaceae; Moringa oleifera"
+  },
+  {
+    "id": "SWPE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Resedaceae; Reseda odorata"
+  },
+  {
+    "id": "RTTY",
+    "tissue": "leaf shoots",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Salvadoraceae; Salvadora sp."
+  },
+  {
+    "id": "MYZV",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Brassicales; Tropaeolaceae; Tropaeolum peregrinum"
+  },
+  {
+    "id": "KPTE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Bixaceae; Bixa orellana"
+  },
+  {
+    "id": "PKMO",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Cistaceae; Cistus inflatus"
+  },
+  {
+    "id": "OLXF",
+    "tissue": "shoot apex including nascent leaves and woody stem",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Malvaceae; Hibiscus cannabinus"
+  },
+  {
+    "id": "WYIG",
+    "tissue": "leaf and buds/flowers",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Malvaceae; Dombeya burgessiae"
+  },
+  {
+    "id": "ZSAB",
+    "tissue": "leaf and buds/flowers",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Malvaceae; Hoheria angustifolia"
+  },
+  {
+    "id": "ATFX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Muntingiaceae; Muntingia calabura"
+  },
+  {
+    "id": "WMUK",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Sarcolaenaceae; Schizolaena sp."
+  },
+  {
+    "id": "QJXB",
+    "tissue": "young shoots",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Thymelaeaceae; Wikstroemia indica"
+  },
+  {
+    "id": "PUDI",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Thymelaeaceae; Daphne giraldii"
+  },
+  {
+    "id": "AWJM",
+    "tissue": "flower buds",
+    "taxonomy": "Core Eudicots/Rosids; Malvales; Thymelaeaceae; Edgeworthia papyrifera"
+  },
+  {
+    "id": "YUOM",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Anacardiaceae; Rhus radicans"
+  },
+  {
+    "id": "WAXR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Anacardiaceae; Litchi chinensis"
+  },
+  {
+    "id": "JSZD",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Burseraceae; Bursera simaruba"
+  },
+  {
+    "id": "FCCA",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Burseraceae; Boswellia sacra"
+  },
+  {
+    "id": "BCAA",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Kirkiacae; Kirkia wilmsii"
+  },
+  {
+    "id": "UVDC",
+    "tissue": "young leaf shoots/ lvs = flws",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Meliaceae; Azadirachta indica"
+  },
+  {
+    "id": "CAIX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Meliaceae; Melia azedarach"
+  },
+  {
+    "id": "VCCF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Meliaceae; Melia azedarach"
+  },
+  {
+    "id": "OBTI",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Nitrariaceae; Peganum harmala"
+  },
+  {
+    "id": "UHJR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Rutaceae; Citrus x paradisi"
+  },
+  {
+    "id": "PGKL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Rutaceae; Phellodendron amurense"
+  },
+  {
+    "id": "HBHB",
+    "tissue": "very young lvs; possibly some v. young inflorescen",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Sapindaceae; Aesculus pavia"
+  },
+  {
+    "id": "VFFP",
+    "tissue": "young leaves and flowers",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Sapindaceae; Acer negundo"
+  },
+  {
+    "id": "IKFD",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Simaroubaceae; Quassia amara"
+  },
+  {
+    "id": "QICX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Rosids; Sapindales; Simaroubaceae; Ailanthus altissima"
+  },
+  {
+    "id": "BFJL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Cornaceae; Cornus florida"
+  },
+  {
+    "id": "XONJ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; [Nyssaceae]; Camptotheca acuminata"
+  },
+  {
+    "id": "VUSY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; [Nyssaceae]; Nyssa ogeche"
+  },
+  {
+    "id": "UZNH",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Curtisiaceae; Curtisia dentata"
+  },
+  {
+    "id": "QURC",
+    "tissue": "leaf and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Hydrangeaceae; Dichroa febrifuga"
+  },
+  {
+    "id": "ZETY",
+    "tissue": "emerging leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Hydrangeaceae; Hydrangea quercifolia"
+  },
+  {
+    "id": "BTZX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Hydrangeaceae; Philadelphus inodorus"
+  },
+  {
+    "id": "OTAN",
+    "tissue": "young leaves flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Hydrangeaceae; Deutzia scabra"
+  },
+  {
+    "id": "VTLJ",
+    "tissue": "leaves, stem, flower",
+    "taxonomy": "Core Eudicots/Asterids; Cornales; Loasaceae; Caiophora chuquitensis"
+  },
+  {
+    "id": "QAUE",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Actinidiaceae; Actinidia chinensis"
+  },
+  {
+    "id": "JEXA",
+    "tissue": "shoot (flowers, floral buds, stem, leaves)",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Balsaminaceae; Impatiens balsamifera"
+  },
+  {
+    "id": "YZGX",
+    "tissue": "young leaves and young flowers",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Cyrillaceae; Cyrilla racemiflora"
+  },
+  {
+    "id": "ADHK",
+    "tissue": "leaves - diploid",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Diapensiaceae; Galax urceolata"
+  },
+  {
+    "id": "UFHF",
+    "tissue": "leaves - tetraploid",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Diapensiaceae; Galax urceolata"
+  },
+  {
+    "id": "KVFU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ebenaceae; Diospyros malabarica"
+  },
+  {
+    "id": "WXVX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ericaceae; Ledum palustre"
+  },
+  {
+    "id": "AVJK",
+    "tissue": "vegetative shoots and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ericaceae; Cavendishia cuatrecasasii"
+  },
+  {
+    "id": "PPPZ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ericaceae; Rhododendron scopulorum"
+  },
+  {
+    "id": "SERM",
+    "tissue": "above ground / infloresence",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ericaceae; Sarcodes sanguinea"
+  },
+  {
+    "id": "LRTN",
+    "tissue": "above ground tissue mix",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Ericaceae; Monotropa uniflora"
+  },
+  {
+    "id": "YSRZ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Fouquieriaceae; Fouquieria macdougalii"
+  },
+  {
+    "id": "DTOA",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Maesaceae; Maesa lanceolata"
+  },
+  {
+    "id": "BNTL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Marcgraviaceae; Souroubea exauriculata"
+  },
+  {
+    "id": "DAAD",
+    "tissue": "leaves and flowers",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Myrsinaceae; Ardisia revoluta"
+  },
+  {
+    "id": "ODDO",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Myrsinaceae; Ardisia humilis"
+  },
+  {
+    "id": "NGRR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Pentaphylacaceae; Ternstroemia gymnanthera"
+  },
+  {
+    "id": "WVMY",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Polemoniaceae; Phlox drummondii"
+  },
+  {
+    "id": "FNEN",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Polemoniaceae; Phlox sp."
+  },
+  {
+    "id": "OJCW",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Primulaceae; Maesa lanceolata"
+  },
+  {
+    "id": "HUSX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Roridulaceae; Roridula gorgonias"
+  },
+  {
+    "id": "WRPP",
+    "tissue": "vegetative shoots and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Sapotaceae; Synsepalum dulcificum"
+  },
+  {
+    "id": "BEFC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Sapotaceae; Manilkara zapota"
+  },
+  {
+    "id": "OXYP",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Sapotaceae; Sideroxylon reclinatum"
+  },
+  {
+    "id": "AXBO",
+    "tissue": "very young leaves, some flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Styracaceae; Sinojackia xylocarpa"
+  },
+  {
+    "id": "JPDJ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Symplocaceae; Symplocos tinctoria"
+  },
+  {
+    "id": "PTFA",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Ericales; Theophrastaceae; Jacquinia sp."
+  },
+  {
+    "id": "VJSJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium calcicola"
+  },
+  {
+    "id": "NJJO",
+    "tissue": "flower buds",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Apodanthaceae; Pilostyles thurberi"
+  },
+  {
+    "id": "JWEY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium tenuifolium"
+  },
+  {
+    "id": "EIGQ",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium calcicola"
+  },
+  {
+    "id": "RGMN",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium calcicola"
+  },
+  {
+    "id": "OUER",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium convolvulaceum"
+  },
+  {
+    "id": "XKVX",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium filiforme"
+  },
+  {
+    "id": "IPPG",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium filiforme"
+  },
+  {
+    "id": "ABEH",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium greggii"
+  },
+  {
+    "id": "NIGS",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium karwinskyi"
+  },
+  {
+    "id": "MZOB",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium mendocinum"
+  },
+  {
+    "id": "IDGE",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium racemosum"
+  },
+  {
+    "id": "DIHD",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium tenellum"
+  },
+  {
+    "id": "IWJG",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium texanum"
+  },
+  {
+    "id": "CSWE",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Heliotropium texanum"
+  },
+  {
+    "id": "EMAL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Ehretia acuminata"
+  },
+  {
+    "id": "DKFZ",
+    "tissue": "flowers, stems, leaves",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Mertensia paniculata"
+  },
+  {
+    "id": "YQIJ",
+    "tissue": "stem apex, leaves, flowers",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Phacelia campanularia"
+  },
+  {
+    "id": "SMUR",
+    "tissue": "above ground / infloresence",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Lennoa madreporoides"
+  },
+  {
+    "id": "HANM",
+    "tissue": "above ground / infloresence",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Boraginaceae; Pholisma arenarium"
+  },
+  {
+    "id": "QZZU",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; incertae sedis; Icacinaceae; Pyrenacantha malvifolia"
+  },
+  {
+    "id": "SZUO",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Garryales; Eucommiaceae; Eucommia ulmoides"
+  },
+  {
+    "id": "GIPR",
+    "tissue": "young leaves and flowers",
+    "taxonomy": "Core Eudicots/Asterids; Garryales; Garryaceae; Aucuba japonica"
+  },
+  {
+    "id": "PVGM",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Garryales; Oncothecaceae; Oncotheca balansae"
+  },
+  {
+    "id": "MGVU",
+    "tissue": "flower, floral buds, leaves and stem",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Allamanda cathartica"
+  },
+  {
+    "id": "UOYN",
+    "tissue": "flower, floral buds, leaves and stem",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Catharanthus roseus"
+  },
+  {
+    "id": "JCLQ",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Apocynum androsaemifolium"
+  },
+  {
+    "id": "UFQC",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Apocynum androsaemifolium"
+  },
+  {
+    "id": "QEHE",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Rauvolfia tetraphylla"
+  },
+  {
+    "id": "YADI",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Asclepias syriaca"
+  },
+  {
+    "id": "DSUV",
+    "tissue": "flowers, young stem and young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Asclepias curassavica"
+  },
+  {
+    "id": "EDEQ",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Wrightia natalensis"
+  },
+  {
+    "id": "JGYZ",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Apocynaceae; Holarrhena pubescens"
+  },
+  {
+    "id": "HGSM",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Gelsemiaceae; Gelsemium sempervirens"
+  },
+  {
+    "id": "KPUM",
+    "tissue": "flowers, floral buds, stem, leaves",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Gentianaceae; Exacum affine"
+  },
+  {
+    "id": "ECTD",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Gentianaceae; Gentiana acaulis"
+  },
+  {
+    "id": "GGJD",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Loganiaceae; Strychnos spinosa"
+  },
+  {
+    "id": "BQEQ",
+    "tissue": "invitro plantlet",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Psychotria ipecacuanha"
+  },
+  {
+    "id": "JOPH",
+    "tissue": "root culture",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Psychotria ipecacuanha"
+  },
+  {
+    "id": "ULGV",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Morinda citrifolia"
+  },
+  {
+    "id": "WQRD",
+    "tissue": "shoot and roots",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Galium boreale"
+  },
+  {
+    "id": "PCNH",
+    "tissue": "Leaf and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Psychotria marginata"
+  },
+  {
+    "id": "DNQA",
+    "tissue": "seed",
+    "taxonomy": "Core Eudicots/Asterids; Gentianales; Rubiaceae; Psychotria douarrei"
+  },
+  {
+    "id": "WEAC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Acanthaceae; Strobilanthes dyeriana"
+  },
+  {
+    "id": "AYIY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Acanthaceae; Ruellia brittoniana"
+  },
+  {
+    "id": "PCGJ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Acanthaceae; Anisacanthus quadrifidus"
+  },
+  {
+    "id": "NBMW",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Acanthaceae; Sanchezia sp."
+  },
+  {
+    "id": "UTQR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Bignoniaceae; Tabebuia umbellata"
+  },
+  {
+    "id": "TKEK",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Bignoniaceae; Mansoa alliacea"
+  },
+  {
+    "id": "SVQC",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Bignoniaceae; Kigelia africana"
+  },
+  {
+    "id": "QKEI",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Bignoniaceae; Kigelia africana"
+  },
+  {
+    "id": "GDZS",
+    "tissue": "leaves and buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Byblidaceae; Byblis gigantea"
+  },
+  {
+    "id": "DCCI",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Calceolariaceae; Calceolaria pinifolia"
+  },
+  {
+    "id": "DTNC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Gesneriaceae; Sinningia tuberosa"
+  },
+  {
+    "id": "RWKR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Gesneriaceae; Saintpaulia ionantha"
+  },
+  {
+    "id": "FDMM",
+    "tissue": "mature stem and leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Rosmarinus officinalis"
+  },
+  {
+    "id": "PUCW",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Agastache rugosa"
+  },
+  {
+    "id": "ATYL",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Scutellaria montana"
+  },
+  {
+    "id": "SNNC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Leonurus japonicus"
+  },
+  {
+    "id": "DYFF",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Pycnanthemum tenuifolium"
+  },
+  {
+    "id": "FYUH",
+    "tissue": "leaf, stem, flower",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Lavandula angustifolia"
+  },
+  {
+    "id": "BAHE",
+    "tissue": "leaves, stem, flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Solenostemon scutellarioides"
+  },
+  {
+    "id": "DMLT",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Vitex agnus-castus"
+  },
+  {
+    "id": "IYDF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Thymus vulgaris"
+  },
+  {
+    "id": "LRRR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Teucrium chamaedrys"
+  },
+  {
+    "id": "GETL",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Pogostemon sp."
+  },
+  {
+    "id": "WHNV",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Micromeria fruticosa"
+  },
+  {
+    "id": "FUMQ",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Nepeta cataria"
+  },
+  {
+    "id": "UCNM",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Ajuga reptans"
+  },
+  {
+    "id": "EAAA",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Marrubium vulgare"
+  },
+  {
+    "id": "TAGM",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Melissa officinalis"
+  },
+  {
+    "id": "PHCE",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Prunella vulgaris"
+  },
+  {
+    "id": "RTNA",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Oxera pulchella"
+  },
+  {
+    "id": "XMBA",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Poliomintha bustamanta"
+  },
+  {
+    "id": "GNPX",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lamiaceae; Oxera neriifolia"
+  },
+  {
+    "id": "HRUR",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lentibulariaceae; Utricularia sp."
+  },
+  {
+    "id": "MXFG",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lentibulariaceae; Pinguicula agnata"
+  },
+  {
+    "id": "JCMU",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Lentibulariaceae; Pinguicula caudata"
+  },
+  {
+    "id": "TORX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Oleaceae; Olea europaea"
+  },
+  {
+    "id": "KTAR",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Oleaceae; Chionanthus retusus"
+  },
+  {
+    "id": "MZLD",
+    "tissue": "stems and leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Oleaceae; Ligustrum sinense"
+  },
+  {
+    "id": "UEEN",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Oleaceae; Forestiera segregata"
+  },
+  {
+    "id": "FAMO",
+    "tissue": "flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Conopholis americana"
+  },
+  {
+    "id": "WUZV",
+    "tissue": "open flowers and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Lindenbergia philippensis"
+  },
+  {
+    "id": "ZVFS",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Lindenbergia philippensis"
+  },
+  {
+    "id": "PHOQ",
+    "tissue": "stem (vegetative growth)",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Orobanche fasciculata"
+  },
+  {
+    "id": "VTOK",
+    "tissue": "flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Orobanche fasciculata"
+  },
+  {
+    "id": "XMOG",
+    "tissue": "buds",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Epifagus virginiana"
+  },
+  {
+    "id": "URZI",
+    "tissue": "above ground tissues",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Orobanchaceae; Epifagus virginiana"
+  },
+  {
+    "id": "UMUL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Paulowniaceae; Paulownia fargesii"
+  },
+  {
+    "id": "ZRIN",
+    "tissue": "leaves, young flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Pedaliaceae; Uncarina grandidieri"
+  },
+  {
+    "id": "OWAS",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Rehmnniaceae; Rehmannia glutinosa"
+  },
+  {
+    "id": "GNRI",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Digitalis purpurea"
+  },
+  {
+    "id": "DCVZ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Plantago coronopus"
+  },
+  {
+    "id": "YKZB",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Plantago maritima"
+  },
+  {
+    "id": "PTBJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Plantago virginica"
+  },
+  {
+    "id": "TPUT",
+    "tissue": "young leaves (a few flower buds)",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Antirrhinum majus"
+  },
+  {
+    "id": "EBOL",
+    "tissue": "young leaves (a few flower buds)",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Antirrhinum majus"
+  },
+  {
+    "id": "YRHD",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Antirrhinum braun-blanquetii"
+  },
+  {
+    "id": "CLRW",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Plantaginaceae; Bacopa caroliniana"
+  },
+  {
+    "id": "EDXZ",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Schlegeliaceae; Schlegelia violacea"
+  },
+  {
+    "id": "GAKQ",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Schlegeliaceae; Schlegelia parasitica"
+  },
+  {
+    "id": "CWLL",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Schlegeliaceae; Schlegelia parasitica"
+  },
+  {
+    "id": "SIBR",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Scrophulariaceae; Celsia arcturus"
+  },
+  {
+    "id": "XXYA",
+    "tissue": "leaves,stem, flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Scrophulariaceae; Verbascum sp."
+  },
+  {
+    "id": "EJBY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Scrophulariaceae; Anticharis glandulosa"
+  },
+  {
+    "id": "XRLM",
+    "tissue": "leaves and young flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Scrophulariaceae; Buddleja lindleyana"
+  },
+  {
+    "id": "GRFT",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Scrophulariaceae; Buddleja sp."
+  },
+  {
+    "id": "COBX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Tetrachondraceae; Polypremum procumbens"
+  },
+  {
+    "id": "PSHB",
+    "tissue": "leaves, young flowers",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Verbenaceae; Lantana camara"
+  },
+  {
+    "id": "GCFE",
+    "tissue": "shoot, roots",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Verbenaceae; Verbena hastata"
+  },
+  {
+    "id": "MQIV",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Lamiales; Verbenaceae; Phyla dulcis"
+  },
+  {
+    "id": "CPOC",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Convolvulus arvensis"
+  },
+  {
+    "id": "VXKB",
+    "tissue": "leaf, stem, flower",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea purpurea"
+  },
+  {
+    "id": "SDXI",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea purpurea"
+  },
+  {
+    "id": "QSLH",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea hederacea"
+  },
+  {
+    "id": "NHAG",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea nil"
+  },
+  {
+    "id": "ERWT",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea coccinea"
+  },
+  {
+    "id": "ALUC",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea quamoclit"
+  },
+  {
+    "id": "EMBR",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea pubescens"
+  },
+  {
+    "id": "NAUM",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea lindheimeri"
+  },
+  {
+    "id": "OQBM",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea indica"
+  },
+  {
+    "id": "IZNU",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Ipomoea lobata"
+  },
+  {
+    "id": "AHRN",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Convolvulaceae; Cuscuta pentagona"
+  },
+  {
+    "id": "KTWL",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Montiniaceae; Kaliphora madagascariensis"
+  },
+  {
+    "id": "BOLZ",
+    "tissue": "branch with developing fruit",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Atropa belladonna"
+  },
+  {
+    "id": "DLJZ",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Solanum ptychanthum"
+  },
+  {
+    "id": "GHLP",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Solanum dulcamara"
+  },
+  {
+    "id": "LQJY",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Solanum xanthocarpum"
+  },
+  {
+    "id": "LWCK",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Lycium barbarum"
+  },
+  {
+    "id": "OSMU",
+    "tissue": "leaf, stem, flower",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Lycium sp."
+  },
+  {
+    "id": "UGJI",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Lycopersicon cheesmanii"
+  },
+  {
+    "id": "JNVS",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Datura metel"
+  },
+  {
+    "id": "DLAI",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Solanum lasiophyllum"
+  },
+  {
+    "id": "NMDZ",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Solanum sisymbriifolium"
+  },
+  {
+    "id": "MKZR",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Nicotiana sylvestris"
+  },
+  {
+    "id": "AIOU",
+    "tissue": "young shoot",
+    "taxonomy": "Core Eudicots/Asterids; Solanales; Solanaceae; Brugmansia sanguinea"
+  },
+  {
+    "id": "CLMX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterid II incertae sedis; Escalloniaceae; Escallonia rubra"
+  },
+  {
+    "id": "CLNU",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterid II incertae sedis; Escalloniaceae; Escallonia sp. cv. Newport"
+  },
+  {
+    "id": "TPEM",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Asterid II incertae sedis; Escalloniaceae; Platyspermation crassifolium"
+  },
+  {
+    "id": "TQKZ",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Apiaceae; Angelica archangelica"
+  },
+  {
+    "id": "CWYJ",
+    "tissue": "flowers, stem, young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Apiaceae; Heracleum lanatum"
+  },
+  {
+    "id": "EITK",
+    "tissue": "aerial root",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Araliaceae; Hedera helix"
+  },
+  {
+    "id": "JBYE",
+    "tissue": "ground root",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Araliaceae; Hedera helix"
+  },
+  {
+    "id": "EDBB",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Araliaceae; Polyscias fruticosa"
+  },
+  {
+    "id": "OINM",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Araliaceae; Hydrocotyle umbellata"
+  },
+  {
+    "id": "MVSE",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Griseliniaceae; Griselinia littoralis"
+  },
+  {
+    "id": "QIKZ",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Griseliniaceae; Griselinia racemosa"
+  },
+  {
+    "id": "WEQK",
+    "tissue": "stem, leaf, fruit",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Mackinlayaceae; Centella asiatica"
+  },
+  {
+    "id": "AJFN",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Myodocarpaceae; Myodocarpus sp."
+  },
+  {
+    "id": "SBZH",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Pennatiaceae; Pennantia corymbosa"
+  },
+  {
+    "id": "NTEO",
+    "tissue": "vegetative shoots",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Pittosporaceae; Pittosporum sahnianum"
+  },
+  {
+    "id": "SALZ",
+    "tissue": "fruit",
+    "taxonomy": "Core Eudicots/Asterids; Apiales; Pittosporaceae; Pittosporum resiniferum"
+  },
+  {
+    "id": "DFYF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Aquifoliales; Aquifoliaceae; Ilex sp."
+  },
+  {
+    "id": "ASMV",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Aquifoliales; Aquifoliaceae; Ilex vomitoria"
+  },
+  {
+    "id": "SXML",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Aquifoliales; Aquifoliaceae; Ilex paraguariensis"
+  },
+  {
+    "id": "QACK",
+    "tissue": "leaves and flowers",
+    "taxonomy": "Core Eudicots/Asterids; Aquifoliales; Helwingiaceae; Helwingia japonica"
+  },
+  {
+    "id": "GIOY",
+    "tissue": "leaves, veg buds",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Argophyllaceae; Corokia cotoneaster"
+  },
+  {
+    "id": "WSYE",
+    "tissue": "glyphosate suseptible",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Conyza canadensis"
+  },
+  {
+    "id": "NUSE",
+    "tissue": "glyphosate resistant",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Conyza canadensis"
+  },
+  {
+    "id": "UBLN",
+    "tissue": "leaves and stems",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Xanthium strumarium"
+  },
+  {
+    "id": "AFQQ",
+    "tissue": "leaves and root",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Inula helenium"
+  },
+  {
+    "id": "DUQG",
+    "tissue": "flower, floral buds, leaves and stem",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Tanacetum parthenium"
+  },
+  {
+    "id": "OAGK",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Matricaria matricarioides"
+  },
+  {
+    "id": "TEZA",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Solidago canadensis"
+  },
+  {
+    "id": "EYKJ",
+    "tissue": "shoot with flower",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Silybum marianum"
+  },
+  {
+    "id": "DUNJ",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Helenium autumnale"
+  },
+  {
+    "id": "DESP",
+    "tissue": "shoot, flower, root",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Erigeron canadensis"
+  },
+  {
+    "id": "XRCX",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Aster tataricus"
+  },
+  {
+    "id": "UQAZ",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria angustifolia"
+  },
+  {
+    "id": "EXHX",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria angustifolia"
+  },
+  {
+    "id": "ZNZC",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria bidentis"
+  },
+  {
+    "id": "QBGG",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria bidentis"
+  },
+  {
+    "id": "LMXP",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria brownii"
+  },
+  {
+    "id": "IPUI",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria brownii"
+  },
+  {
+    "id": "DSWR",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria cronquistii"
+  },
+  {
+    "id": "KJBH",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria cronquistii"
+  },
+  {
+    "id": "QXWF",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria kochiana"
+  },
+  {
+    "id": "NVSO",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria palmeri"
+  },
+  {
+    "id": "GFVW",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria pringlei"
+  },
+  {
+    "id": "RZSW",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria pringlei"
+  },
+  {
+    "id": "JZHZ",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria pubescens"
+  },
+  {
+    "id": "HXDV",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria pubescens"
+  },
+  {
+    "id": "UYED",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria sonorensis"
+  },
+  {
+    "id": "HRVY",
+    "tissue": "mature leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria trinervia"
+  },
+  {
+    "id": "RLCS",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria trinervia"
+  },
+  {
+    "id": "HXCD",
+    "tissue": "juvenile leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Flaveria vaginata"
+  },
+  {
+    "id": "DDRL",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Tragopogon dubius"
+  },
+  {
+    "id": "BMSE",
+    "tissue": "shoot (no flower)",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Senecio rowleyanus"
+  },
+  {
+    "id": "FUPX",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Tragopogon pratensis"
+  },
+  {
+    "id": "KGJF",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Tragopogon porrifolius"
+  },
+  {
+    "id": "KFZY",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Tragopogon castellanus"
+  },
+  {
+    "id": "ZGDS",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Lactuca graminifolia"
+  },
+  {
+    "id": "MMJI",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Lactuca graminifolia"
+  },
+  {
+    "id": "JNKW",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Cicerbita plumieri"
+  },
+  {
+    "id": "GUMF",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Anthemis tinctoria"
+  },
+  {
+    "id": "DOVJ",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Leontopodium alpinum"
+  },
+  {
+    "id": "CFRN",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Asteraceae; Carthamus lanatus"
+  },
+  {
+    "id": "IZLO",
+    "tissue": "shoot",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Campanulaceae; Lobelia siphilitica"
+  },
+  {
+    "id": "IHPC",
+    "tissue": "leaf",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Campanulaceae; Platycodon grandiflorus"
+  },
+  {
+    "id": "HUQC",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Goodeniaceae; Scaevola mossambicensis"
+  },
+  {
+    "id": "IXVJ",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Menyanthaceae; Menyanthes trifoliata"
+  },
+  {
+    "id": "AUIP",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Phellinaceae; Phelline lucida"
+  },
+  {
+    "id": "FXGI",
+    "tissue": "",
+    "taxonomy": "Core Eudicots/Asterids; Asterales; Stylidiaceae; Stylidium adnatum"
+  },
+  {
+    "id": "HLJG",
+    "tissue": "young leaves",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; Adoxaceae; Viburnum odoratissimum"
+  },
+  {
+    "id": "SNBI",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; Adoxaceae; Sambucus canadensis"
+  },
+  {
+    "id": "QRNU",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; Adoxaceae; Sambucus canadensis"
+  },
+  {
+    "id": "CAQZ",
+    "tissue": "shoot with flowers",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; Caprifoliaceae s. l.; Symphoricarpos sp."
+  },
+  {
+    "id": "GSZA",
+    "tissue": "young leaves (some floral buds)",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; Caprifoliaceae; Lonicera japonica"
+  },
+  {
+    "id": "JTRM",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; [Dipsacaceae]; Dipsacus asper"
+  },
+  {
+    "id": "FFFY",
+    "tissue": "leaves",
+    "taxonomy": "Core Eudicots/Asterids; Dipsacales; [Valerianaceae]; Valeriana officinalis"
+  },
+  {
+    "id": "MTII",
+    "tissue": "whole shoot (no flower) and rhizome",
+    "taxonomy": "Monocots; Acorales; Acoraceae; Acorus americanus"
+  },
+  {
+    "id": "DWZT",
+    "tissue": "leaf shoots and flower buds",
+    "taxonomy": "Monocots; Alismatales; Alismataceae; Sagittaria latifolia"
+  },
+  {
+    "id": "MFIN",
+    "tissue": "leaves, roots",
+    "taxonomy": "Monocots; Alismatales; Araceae; Pistia stratiotes"
+  },
+  {
+    "id": "COCP",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Alismatales; Juncaginaceae; Triglochin maritima"
+  },
+  {
+    "id": "BYQM",
+    "tissue": "meristem and fruits",
+    "taxonomy": "Monocots; Alismatales; Posidoniaceae; Posidonia australis"
+  },
+  {
+    "id": "OCWZ",
+    "tissue": "flower, floral buds, leaves and stem",
+    "taxonomy": "Monocots; Dioscoreales; Dioscoreaceae; Dioscorea villosa"
+  },
+  {
+    "id": "VVVV",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Monocots; Pandanales; Cyclanthaceae; Ludovia sp."
+  },
+  {
+    "id": "DGXS",
+    "tissue": "young shoot",
+    "taxonomy": "Monocots; Pandanales; Pandanaceae; Freycinetia multiflora"
+  },
+  {
+    "id": "VBHQ",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Pandanales; Stemonaceae; Stemona tuberosa"
+  },
+  {
+    "id": "SILJ",
+    "tissue": "young shoots",
+    "taxonomy": "Monocots; Pandanales; Velloziaceae; Talbotia elegans"
+  },
+  {
+    "id": "QOXT",
+    "tissue": "young shoots",
+    "taxonomy": "Monocots; Pandanales; Velloziaceae; Xerophyta villosa"
+  },
+  {
+    "id": "NHIX",
+    "tissue": "bulb and shoot",
+    "taxonomy": "Monocots; Liliales; Colchicaceae; Colchicum autumnale"
+  },
+  {
+    "id": "OVRB",
+    "tissue": "leaves, fine roots",
+    "taxonomy": "Monocots; Liliales; Colchicaceae; Colchicum autumnale"
+  },
+  {
+    "id": "SFCT",
+    "tissue": "bulb",
+    "taxonomy": "Monocots; Liliales; Colchicaceae; Colchicum autumnale"
+  },
+  {
+    "id": "GDKK",
+    "tissue": "shoot (no flower) and root",
+    "taxonomy": "Monocots; Liliales; Colchicaceae; Gloriosa superba"
+  },
+  {
+    "id": "AFLV",
+    "tissue": "vegetative shoot",
+    "taxonomy": "Monocots; Liliales; Melanthiaceae; Xerophyllum asphodeloides"
+  },
+  {
+    "id": "OOSO",
+    "tissue": "shoot emerging from bulb",
+    "taxonomy": "Monocots; Liliales; Melanthiaceae; Helonias bullata"
+  },
+  {
+    "id": "MWYQ",
+    "tissue": "young leaf and tendril shoots",
+    "taxonomy": "Monocots; Liliales; Smilacaceae; Smilax bona-nox"
+  },
+  {
+    "id": "PRFO",
+    "tissue": "leaves and buds",
+    "taxonomy": "Monocots; Asparagales; Agapanthaceae; Agapanthus africanus"
+  },
+  {
+    "id": "KXSK",
+    "tissue": "whole plant",
+    "taxonomy": "Monocots; Asparagales; Agavaceae; Agave tequilana"
+  },
+  {
+    "id": "YBML",
+    "tissue": "flower buds",
+    "taxonomy": "Monocots; Asparagales; Agavaceae; Yucca brevifolia"
+  },
+  {
+    "id": "ICNN",
+    "tissue": "leaf shoots",
+    "taxonomy": "Monocots; Asparagales; Agavaceae; Yucca filamentosa"
+  },
+  {
+    "id": "PLBZ",
+    "tissue": "leaf shoots",
+    "taxonomy": "Monocots; Asparagales; Agavaceae; Chlorogalum pomeridianum"
+  },
+  {
+    "id": "CMCY",
+    "tissue": "leaf shoots",
+    "taxonomy": "Monocots; Asparagales; Agavaceae; Hesperaloe parviflora"
+  },
+  {
+    "id": "GJPF",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Alliaceae; Allium sativum"
+  },
+  {
+    "id": "KBXS",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Alliaceae; Allium commutatum"
+  },
+  {
+    "id": "LDME",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Amaryllis belladonna"
+  },
+  {
+    "id": "XEUV",
+    "tissue": "young leaf",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Narcissus viridiflorus"
+  },
+  {
+    "id": "IQYY",
+    "tissue": "young flower",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Narcissus viridiflorus"
+  },
+  {
+    "id": "DMIN",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Phycella aff. cyrtanthoides"
+  },
+  {
+    "id": "JDTY",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Rhodophiala pratensis"
+  },
+  {
+    "id": "ZKPF",
+    "tissue": "sepals",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Traubia modesta"
+  },
+  {
+    "id": "DPFW",
+    "tissue": "leaves and flower buds",
+    "taxonomy": "Monocots; Asparagales; Amaryllidaceae; Zephyranthes treatiae"
+  },
+  {
+    "id": "FGRF",
+    "tissue": "shoots with cladode and flower primordia",
+    "taxonomy": "Monocots; Asparagales; Asparagaceae; Asparagus densiflorus"
+  },
+  {
+    "id": "XFJG",
+    "tissue": "flowers, stems, leaves",
+    "taxonomy": "Monocots; Asparagales; Asparagaceae; Maianthemum canadense"
+  },
+  {
+    "id": "RCUX",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Asparagaceae; Maianthemum sp."
+  },
+  {
+    "id": "UZXL",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Asparagaceae; Disporopsis pernyi"
+  },
+  {
+    "id": "JVBR",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Asphodelaceae; Aloe vera"
+  },
+  {
+    "id": "EMJJ",
+    "tissue": "leaves and buds",
+    "taxonomy": "Monocots; Asparagales; Boryaceae; Borya sphaerocephala"
+  },
+  {
+    "id": "FCEL",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Hemerocallidaceae; Phormium tenax"
+  },
+  {
+    "id": "BLAJ",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Hemerocallidaceae; Hemerocallis spp."
+  },
+  {
+    "id": "JHUL",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Hemerocallidaceae; Hemerocallis sp."
+  },
+  {
+    "id": "KOFB",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Hyacinthaceae; Urginea maritima"
+  },
+  {
+    "id": "SVTS",
+    "tissue": "leaves",
+    "taxonomy": "Monocots; Asparagales; Hyacinthaceae; Drimia altissima"
+  },
+  {
+    "id": "YJUG",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Hypoxidaceae; Curculigo sp."
+  },
+  {
+    "id": "LTZF",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Iridaceae; Sisyrinchium angustifolium"
+  },
+  {
+    "id": "MUMD",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Laxmanniaceae; Lomandra longifolia"
+  },
+  {
+    "id": "VTUS",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Goodyera pubescens"
+  },
+  {
+    "id": "MTHW",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Platanthera clavellata"
+  },
+  {
+    "id": "THDM",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Vanilla planifolia"
+  },
+  {
+    "id": "XZME",
+    "tissue": "leaves, flowers, and buds",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Drakaea elastica"
+  },
+  {
+    "id": "CNTZ",
+    "tissue": "whole plant with flowers",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Oncidium sphacelatum"
+  },
+  {
+    "id": "JSAG",
+    "tissue": "buds, leaves, roots",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Masdevallia yuangensis"
+  },
+  {
+    "id": "LELS",
+    "tissue": "leaf and flower",
+    "taxonomy": "Monocots; Asparagales; Orchidaceae; Haemaria discolor"
+  },
+  {
+    "id": "MVRF",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Sansevieria trifasciata"
+  },
+  {
+    "id": "HOKG",
+    "tissue": "young leaves and flower buds",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Nolina atopocarpa"
+  },
+  {
+    "id": "LSJW",
+    "tissue": "fruit, stem, leaves",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Ruscus sp."
+  },
+  {
+    "id": "ONBE",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Eriospermum lancifolia"
+  },
+  {
+    "id": "RQZP",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Nolina bigelovii"
+  },
+  {
+    "id": "TCYS",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots; Asparagales; Ruscaceae; Peliosanthes minor"
+  },
+  {
+    "id": "KYNE",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Tecophilaeaceae; Cyanella orchidiformis"
+  },
+  {
+    "id": "RDYY",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Tecophilaeaceae; Cyanastrum cordifolium"
+  },
+  {
+    "id": "IXEM",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Themidaceae; Brodiaea sierrae"
+  },
+  {
+    "id": "WTDE",
+    "tissue": "flowers",
+    "taxonomy": "Monocots; Asparagales; Xanthorrhoeaceae; Johnsonia pubescens"
+  },
+  {
+    "id": "SART",
+    "tissue": "",
+    "taxonomy": "Monocots; Asparagales; Xeronemataceae; Xeronema callistemon"
+  },
+  {
+    "id": "QGLJ",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Arecales; Arecaceae; Cocos nucifera"
+  },
+  {
+    "id": "NSPR",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Arecales; Arecaceae; Nypa fruticans"
+  },
+  {
+    "id": "HXJE",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Arecales; Arecaceae; Serenoa repens"
+  },
+  {
+    "id": "HWUP",
+    "tissue": "leaf shoots",
+    "taxonomy": "Monocots/Commelinids; Arecales; Arecaceae; Sabal bermudana"
+  },
+  {
+    "id": "YMES",
+    "tissue": "leaves and buds",
+    "taxonomy": "Monocots/Commelinids; Arecales; Arecaceae; Typhonium blumei"
+  },
+  {
+    "id": "TZNS",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Cannaceae; Canna sp."
+  },
+  {
+    "id": "KNKV",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Heliconiaceae; Heliconia sp."
+  },
+  {
+    "id": "TNWF",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Heliconiaceae; Heliconia sp."
+  },
+  {
+    "id": "LSKK",
+    "tissue": "flower and leaf buds",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Lowiaceae; Orchidantha maxillarioides"
+  },
+  {
+    "id": "JNUB",
+    "tissue": "leaf and flower buds",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Marantaceae; Maranta leuconeura"
+  },
+  {
+    "id": "UOEL",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Strelitziaceae; Strelitzia reginae"
+  },
+  {
+    "id": "JQCX",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Zingiberaceae; Curcuma longa"
+  },
+  {
+    "id": "OYLU",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Zingiberaceae; Curcuma longa"
+  },
+  {
+    "id": "BDJQ",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Zingiberales; Zingiberaceae; Zingiber officinale"
+  },
+  {
+    "id": "BYPY",
+    "tissue": "young shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Bromeliaceae; Brocchinia reducta"
+  },
+  {
+    "id": "PWSG",
+    "tissue": "shoot (no flower)",
+    "taxonomy": "Monocots/Commelinids; Poales; Cyperaceae; Cyperus papyrus"
+  },
+  {
+    "id": "XPAF",
+    "tissue": "leaf shoots",
+    "taxonomy": "Monocots/Commelinids; Poales; Cyperaceae; Mapania palustris"
+  },
+  {
+    "id": "WBIB",
+    "tissue": "leaves and buds",
+    "taxonomy": "Monocots/Commelinids; Poales; Cyperaceae; Lepidosperma gibsonii"
+  },
+  {
+    "id": "WXNT",
+    "tissue": "leaf",
+    "taxonomy": "Monocots/Commelinids; Poales; Joinvilleaceae; Joinvillea ascendens"
+  },
+  {
+    "id": "CIEA",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Juncaceae; Juncus inflexus"
+  },
+  {
+    "id": "RMVB",
+    "tissue": "young shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Avena fatua"
+  },
+  {
+    "id": "IADP",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Deschampsia cespitosa"
+  },
+  {
+    "id": "YPIC",
+    "tissue": "leaves and stems",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Microstegium vimineum"
+  },
+  {
+    "id": "YXNR",
+    "tissue": "leaves and buds",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Triodia aff. bynoei"
+  },
+  {
+    "id": "SOHV",
+    "tissue": "mature leaf",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Panicum miliaceum"
+  },
+  {
+    "id": "ROEI",
+    "tissue": "shoot (no flower)",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Cymbopogon nardus"
+  },
+  {
+    "id": "ZENX",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne alopecuroidea"
+  },
+  {
+    "id": "VQYB",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne lanigera"
+  },
+  {
+    "id": "ZMGN",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne munroi"
+  },
+  {
+    "id": "BPKH",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne annularis"
+  },
+  {
+    "id": "BXAY",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne minor"
+  },
+  {
+    "id": "NNOK",
+    "tissue": "",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Neurachne tenuifolia"
+  },
+  {
+    "id": "XUAB",
+    "tissue": "",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Paraneurachne muelleri"
+  },
+  {
+    "id": "WCOR",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Thyridolepis multiculmis"
+  },
+  {
+    "id": "XBKS",
+    "tissue": "shoot",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Thyridolepis mitchelliana"
+  },
+  {
+    "id": "HATH",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Aristida stricta"
+  },
+  {
+    "id": "RCAH",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Uniola paniculata"
+  },
+  {
+    "id": "TIJL",
+    "tissue": "leaf unstressed",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Eleusine coracana"
+  },
+  {
+    "id": "OMXG",
+    "tissue": "root unstressed",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Eleusine coracana"
+  },
+  {
+    "id": "CXSJ",
+    "tissue": "root drought",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Eleusine coracana"
+  },
+  {
+    "id": "PZAP",
+    "tissue": "flower",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Eleusine coracana"
+  },
+  {
+    "id": "YLWW",
+    "tissue": "young leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Poaceae; Uniola paniculata"
+  },
+  {
+    "id": "BSTR",
+    "tissue": "young shoots",
+    "taxonomy": "Monocots/Commelinids; Poales; Restionaceae; Chondropetalum tectorum"
+  },
+  {
+    "id": "PPQR",
+    "tissue": "leaves",
+    "taxonomy": "Monocots/Commelinids; Poales; Typhaceae; Typha angustifolia"
+  },
+  {
+    "id": "BRUD",
+    "tissue": "leaf and rhizome shoots",
+    "taxonomy": "Monocots/Commelinids; Poales; Typhaceae; Typha latifolia"
+  },
+  {
+    "id": "SGTW",
+    "tissue": "developing shoots",
+    "taxonomy": "Ginkgoales; Ginkgoales; Ginkgoaceae; Ginkgo biloba"
+  },
+  {
+    "id": "VDAO",
+    "tissue": "shoot",
+    "taxonomy": "Gnetales; Ephedrales; Ephedraceae; Ephedra sinica"
+  },
+  {
+    "id": "GTHK",
+    "tissue": "leaves",
+    "taxonomy": "Gnetales; Gnetales; Gnetaceae; Gnetum montanum"
+  },
+  {
+    "id": "XZUY",
+    "tissue": "leaves",
+    "taxonomy": "Cycadales; Cycadales; Cycadaceae; Cycas micholitzii"
+  },
+  {
+    "id": "KAWQ",
+    "tissue": "Young Leaf",
+    "taxonomy": "Cycadales; Cycadales; Stangeriaceae; Stangeria eriopus"
+  },
+  {
+    "id": "WLIC",
+    "tissue": "leaf",
+    "taxonomy": "Cycadales; Cycadales; Zamiaceae; Dioon edule"
+  },
+  {
+    "id": "GNQG",
+    "tissue": "",
+    "taxonomy": "Cycadales; Cycadales; Zamiaceae; Encephalartos barteri"
+  },
+  {
+    "id": "MIXZ",
+    "tissue": "Leaf",
+    "taxonomy": "Conifers; Pinales; Araucariaceae; Agathis robusta"
+  },
+  {
+    "id": "XTZO",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Araucariaceae; Araucaria rulei"
+  },
+  {
+    "id": "ACWS",
+    "tissue": "Young Leaf",
+    "taxonomy": "Conifers; Pinales; Araucariaceae; Agathis macrophylla"
+  },
+  {
+    "id": "RSCE",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Araucariaceae; Wollemia nobilis"
+  },
+  {
+    "id": "WYAJ",
+    "tissue": "branch apex including needles",
+    "taxonomy": "Conifers; Pinales; Cephalotaxaceae; Cephalotaxus harringtonia"
+  },
+  {
+    "id": "GJTI",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cephalotaxaceae; Cephalotaxus harringtonia"
+  },
+  {
+    "id": "IAJW",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cephalotaxaceae; Amentotaxus argotaenia"
+  },
+  {
+    "id": "XIRK",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Athrotaxis cupressoides"
+  },
+  {
+    "id": "YYPE",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Austrocedrus chilensis"
+  },
+  {
+    "id": "IFLI",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Callitris gracilis"
+  },
+  {
+    "id": "RMMV",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Callitris macleayana"
+  },
+  {
+    "id": "FRPM",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Calocedrus decurrens"
+  },
+  {
+    "id": "AIGO",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Chamaecyparis lawsoniana"
+  },
+  {
+    "id": "DSXO",
+    "tissue": "branch apex including needles and cones",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Cryptomeria japonica"
+  },
+  {
+    "id": "HOUF",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Cryptomeria japonica"
+  },
+  {
+    "id": "OUOI",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Cunninghamia lanceolata"
+  },
+  {
+    "id": "ESYX",
+    "tissue": "branch apex incl. needles",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Cunninghamia lanceolata"
+  },
+  {
+    "id": "QNGJ",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Cupressus dupreziana"
+  },
+  {
+    "id": "GKCZ",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Diselma archeri"
+  },
+  {
+    "id": "UEVI",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Fokienia hodginsii"
+  },
+  {
+    "id": "OXGJ",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Glyptostrobus pensilis"
+  },
+  {
+    "id": "XMGP",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Juniperus scopulorum"
+  },
+  {
+    "id": "NRXL",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Metasequoia glyptostroboides"
+  },
+  {
+    "id": "XQSG",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Microbiota decussata"
+  },
+  {
+    "id": "JDQB",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Neocallitropsis pancheri"
+  },
+  {
+    "id": "OVIJ",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Papuacedrus papuana"
+  },
+  {
+    "id": "ETCJ",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Pilgerodendron uviferum"
+  },
+  {
+    "id": "BUWV",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Platycladus orientalis"
+  },
+  {
+    "id": "HBGV",
+    "tissue": "branch apex including needles",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Sequoia sempervirens"
+  },
+  {
+    "id": "QFAE",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Sequoiadendron giganteum Glaucum"
+  },
+  {
+    "id": "QSNJ",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Taiwania cryptomerioides"
+  },
+  {
+    "id": "FHST",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Taxodium distichum"
+  },
+  {
+    "id": "CGDN",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Tetraclinis sp."
+  },
+  {
+    "id": "VFYZ",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Thuja plicata"
+  },
+  {
+    "id": "NKIN",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Thujopsis dolabrata"
+  },
+  {
+    "id": "AUDE",
+    "tissue": "young leaf",
+    "taxonomy": "Conifers; Pinales; Cupressaceae; Widdringtonia cedarbergensis"
+  },
+  {
+    "id": "VSRH",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Abies lasiocarpa"
+  },
+  {
+    "id": "NPRL",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Cathaya argyrophylla"
+  },
+  {
+    "id": "GGEA",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Cedrus libani"
+  },
+  {
+    "id": "JUWL",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Keteleeria evelyniana"
+  },
+  {
+    "id": "WVWN",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Larix speciosa"
+  },
+  {
+    "id": "AREG",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Nothotsuga longibracteata"
+  },
+  {
+    "id": "AWQB",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Picea engelmannii"
+  },
+  {
+    "id": "IIOL",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pinus parviflora"
+  },
+  {
+    "id": "DZQM",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pinus radiata"
+  },
+  {
+    "id": "JBND",
+    "tissue": "stems and leaves",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pinus ponderosa"
+  },
+  {
+    "id": "MFTM",
+    "tissue": "stems and leaves",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pinus jeffreyi"
+  },
+  {
+    "id": "AQFM",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pseudolarix amabilis"
+  },
+  {
+    "id": "IOVS",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Pseudotsuga wilsoniana"
+  },
+  {
+    "id": "GAMH",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Pinaceae; Tsuga heterophylla"
+  },
+  {
+    "id": "HILW",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Acmopyle pancheri"
+  },
+  {
+    "id": "FMWZ",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Dacrycarpus compactus"
+  },
+  {
+    "id": "IZGN",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Dacrydium balansae"
+  },
+  {
+    "id": "QHBI",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Falcatifolium taxoides"
+  },
+  {
+    "id": "ROWR",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Falcatifolium taxoides"
+  },
+  {
+    "id": "OWFC",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Halocarpus bidwillii"
+  },
+  {
+    "id": "ZQWM",
+    "tissue": "young end shoots",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Lagarostrobos franklinii"
+  },
+  {
+    "id": "CDFR",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Manoao colensoi"
+  },
+  {
+    "id": "MHGD",
+    "tissue": "leaves",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Microcachrys tetragona"
+  },
+  {
+    "id": "BBDD",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Lepidothamnus sp."
+  },
+  {
+    "id": "UUJS",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Nageia nagi"
+  },
+  {
+    "id": "JZVE",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Parasitaxus usta"
+  },
+  {
+    "id": "JRNA",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Phyllocladus hypophyllus"
+  },
+  {
+    "id": "SCEB",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Podocarpus coriaceus"
+  },
+  {
+    "id": "XLGK",
+    "tissue": "leaf",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Podocarpus rubens"
+  },
+  {
+    "id": "EGLZ",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Prumnopitys andina"
+  },
+  {
+    "id": "VGSX",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Retrophyllum minus"
+  },
+  {
+    "id": "QCGM",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Saxegothaea conspicua"
+  },
+  {
+    "id": "KLGF",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Podocarpaceae; Sundacarpus amarus"
+  },
+  {
+    "id": "YFZK",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Sciadopityaceae; Sciadopitys verticillata"
+  },
+  {
+    "id": "BTTS",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Austrotaxus spicata"
+  },
+  {
+    "id": "YLPM",
+    "tissue": "",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Pseudotaxus chienii"
+  },
+  {
+    "id": "WWSS",
+    "tissue": "mature leaves and small woody branch",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Taxus baccata"
+  },
+  {
+    "id": "ZYAX",
+    "tissue": "branch apex including needles",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Taxus cuspidata"
+  },
+  {
+    "id": "HQOM",
+    "tissue": "young shoot",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Torreya nucifera"
+  },
+  {
+    "id": "EFMS",
+    "tissue": "young shoots",
+    "taxonomy": "Conifers; Pinales; Taxaceae; Torreya taxifolia"
+  },
+  {
+    "id": "GAON",
+    "tissue": "developing shoots",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Huperzia squarrosa"
+  },
+  {
+    "id": "GKAG",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Huperzia lucidula"
+  },
+  {
+    "id": "NYBX",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Huperzia selago"
+  },
+  {
+    "id": "CBAE",
+    "tissue": "Young Leaf",
+    "taxonomy": "Lycophytes; Lycopodiales; Huperziaceae; Huperzia myrsinites"
+  },
+  {
+    "id": "ZZEI",
+    "tissue": "Vegetative",
+    "taxonomy": "Lycophytes; Lycopodiales; Huperziaceae; Phylloglossum drummondii"
+  },
+  {
+    "id": "GTUO",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Lycopodiales; Huperziaceae; Huperzia selago"
+  },
+  {
+    "id": "ULKT",
+    "tissue": "",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Lycopodiella appressa"
+  },
+  {
+    "id": "PQTO",
+    "tissue": "Young leaves and stems",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Lycopodium deuterodensum"
+  },
+  {
+    "id": "ENQF",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Lycopodium annotinum"
+  },
+  {
+    "id": "UPMJ",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Pseudolycopodiella caroliniana"
+  },
+  {
+    "id": "XNXF",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Dendrolycopodium obscurum"
+  },
+  {
+    "id": "WAFT",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Lycopodiales; Lycopodiaceae; Diphasiastrum digitatum"
+  },
+  {
+    "id": "PKOX",
+    "tissue": "",
+    "taxonomy": "Lycophytes; Isoetales; Isoetaceae; Isoetes tegetiformans"
+  },
+  {
+    "id": "PYHZ",
+    "tissue": "Vegetative",
+    "taxonomy": "Lycophytes; Isoetales; Isoetaceae; Isoetes sp."
+  },
+  {
+    "id": "LGDQ",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella apoda"
+  },
+  {
+    "id": "JKAA",
+    "tissue": "leaf",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella wallacei"
+  },
+  {
+    "id": "ABIJ",
+    "tissue": "Young fronds",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella lepidophylla"
+  },
+  {
+    "id": "ZYCD",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella acanthonota"
+  },
+  {
+    "id": "ZZOL",
+    "tissue": "Sterile and fertile material, and gemmae",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella stauntoniana"
+  },
+  {
+    "id": "KUXM",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella selaginoides"
+  },
+  {
+    "id": "ZFGK",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella kraussiana"
+  },
+  {
+    "id": "KJYC",
+    "tissue": "tips of shoots",
+    "taxonomy": "Lycophytes; Selaginellales; Selaginellaceae; Selaginella willdenowii"
+  },
+  {
+    "id": "CAPN",
+    "tissue": "developing shoots",
+    "taxonomy": "Eusporangiate Monilophytes; Equisetales; Equisetaceae; Equisetum diffusum"
+  },
+  {
+    "id": "JVSZ",
+    "tissue": "sterile leaves/branches",
+    "taxonomy": "Eusporangiate Monilophytes; Equisetales; Equisetaceae; Equisetum hyemale"
+  },
+  {
+    "id": "UXCS",
+    "tissue": "leaf",
+    "taxonomy": "Eusporangiate Monilophytes; Marattiales; Marattiaceae; Marattia sp."
+  },
+  {
+    "id": "BEGM",
+    "tissue": "Young sterile leaf tissue",
+    "taxonomy": "Eusporangiate Monilophytes; Ophioglossales; Ophioglossaceae; Botrypus virginianus"
+  },
+  {
+    "id": "WTJG",
+    "tissue": "leaves, stalk, sporangia",
+    "taxonomy": "Eusporangiate Monilophytes; Ophioglossales; Ophioglossaceae; Ophioglossum petiolatum"
+  },
+  {
+    "id": "QHVS",
+    "tissue": "",
+    "taxonomy": "Eusporangiate Monilophytes; Ophioglossales; Ophioglossaceae; Ophioglossum vulgatum"
+  },
+  {
+    "id": "EEAQ",
+    "tissue": "sterile leaf",
+    "taxonomy": "Eusporangiate Monilophytes; Ophioglossales; Ophioglossaceae; Sceptridium dissectum"
+  },
+  {
+    "id": "QVMR",
+    "tissue": "developing shoots",
+    "taxonomy": "Eusporangiate Monilophytes; Psilotales; Psilotaceae; Psilotum nudum"
+  },
+  {
+    "id": "ALVQ",
+    "tissue": "Young fronds",
+    "taxonomy": "Eusporangiate Monilophytes; Psilotales; Psilotaceae; Tmesipteris parva"
+  },
+  {
+    "id": "PNZO",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Cyatheales; Culcitaceae; Culcita macrocarpa"
+  },
+  {
+    "id": "GANB",
+    "tissue": "leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Cyatheales; Cyatheaceae; Cyathea (Alsophila) spinulosa"
+  },
+  {
+    "id": "EWXK",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Cyatheales; Thyrsopteridaceae; Thyrsopteris elegans"
+  },
+  {
+    "id": "XDVM",
+    "tissue": "young fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Gleicheniales; Gleicheniaceae; Sticherus lobatus"
+  },
+  {
+    "id": "MEKP",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Gleicheniales; Dipteridaceae; Dipteris conjugata"
+  },
+  {
+    "id": "TWFZ",
+    "tissue": "young fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Hymenophyllales; Hymenophyllaceae; Crepidomanes venosum"
+  },
+  {
+    "id": "QIAD",
+    "tissue": "young fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Hymenophyllales; Hymenophyllaceae; Hymenophyllum bivalve"
+  },
+  {
+    "id": "TRPJ",
+    "tissue": "young fronds and sori",
+    "taxonomy": "Leptosporangiate Monilophytes; Hymenophyllales; Hymenophyllaceae; Hymenophyllum cupressiforme"
+  },
+  {
+    "id": "BIVQ",
+    "tissue": "",
+    "taxonomy": "Leptosporangiate Monilophytes; Osmundales; Osmundaceae; Osmundastrum cinnamomeum"
+  },
+  {
+    "id": "YKSS",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Osmundales; Osmundaceae; Osmunda regalis"
+  },
+  {
+    "id": "UOMY",
+    "tissue": "gametophyte",
+    "taxonomy": "Leptosporangiate Monilophytes; Osmundales; Osmundaceae; Osmunda sp."
+  },
+  {
+    "id": "VIBO",
+    "tissue": "mature leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Osmundales; Osmundaceae; Osmunda javanica"
+  },
+  {
+    "id": "UWOD",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Plagiogyriales; Plagiogyriaceae; Plagiogyria japonica"
+  },
+  {
+    "id": "IXLH",
+    "tissue": "young sterile leaves - B type",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Polypodium hesperium"
+  },
+  {
+    "id": "GYFU",
+    "tissue": "young sterile leaves - A type",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Polypodium hesperium"
+  },
+  {
+    "id": "YLJA",
+    "tissue": "young sterile leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Polypodium amorphum"
+  },
+  {
+    "id": "CJNT",
+    "tissue": "leaf (sterile?)",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Polypodium glycyrrhiza"
+  },
+  {
+    "id": "ZQYU",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Phlebodium pseudoaureum"
+  },
+  {
+    "id": "UJWU",
+    "tissue": "dehydrating fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Pleopeltis polypodioides"
+  },
+  {
+    "id": "ORJE",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Polypodiaceae; Phymatosorus grossus"
+  },
+  {
+    "id": "OQWW",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Davalliaceae; Davallia fejeensis"
+  },
+  {
+    "id": "NWWI",
+    "tissue": "young leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Lomariopsidaceae; Nephrolepis exaltata"
+  },
+  {
+    "id": "JBLI",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Elaphoglossaceae; Bolbitis repanda"
+  },
+  {
+    "id": "FQGQ",
+    "tissue": "Mix of sterile and young fertile leaves.",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Dryopteridaceae; Polystichum acrostichoides"
+  },
+  {
+    "id": "RFRB",
+    "tissue": "young fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Hypodematiaceae; Didymochlaena truncatula"
+  },
+  {
+    "id": "WGTU",
+    "tissue": "just unfurling leaf plus young leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Hypodematiaceae; Leucostegia immersa"
+  },
+  {
+    "id": "PSKY",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Aspleniaceae; Asplenium nidus"
+  },
+  {
+    "id": "KJZG",
+    "tissue": "leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Aspleniaceae; Asplenium platyneuron"
+  },
+  {
+    "id": "OCZL",
+    "tissue": "sterile leaves (maybe a few sporangia)",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Diplaziopsidaceae; Homalosorus pycnocarpos"
+  },
+  {
+    "id": "MROH",
+    "tissue": "young leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Thelypteridaceae; Thelypteris acuminata"
+  },
+  {
+    "id": "YJJY",
+    "tissue": "young sterile leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Woodsiaceae; Woodsia scopulina"
+  },
+  {
+    "id": "YQEC",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Woodsiaceae; Woodsia ilvensis"
+  },
+  {
+    "id": "HTFH",
+    "tissue": "leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Onocleaceae; Onoclea sensibilis"
+  },
+  {
+    "id": "VITX",
+    "tissue": "young leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Blechnaceae; Blechnum spicant"
+  },
+  {
+    "id": "URCP",
+    "tissue": "young leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Athyriaceae; Athyrium filix-femina"
+  },
+  {
+    "id": "FCHS",
+    "tissue": "fertile leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Athyriaceae; Deparia lobato-crenata"
+  },
+  {
+    "id": "UFJN",
+    "tissue": "fertile leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Athyriaceae; Diplazium wichurae"
+  },
+  {
+    "id": "HNDZ",
+    "tissue": "Mostly sterile leaf tissue; possibly some fertile.",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Cystopteris utahensis"
+  },
+  {
+    "id": "LHLE",
+    "tissue": "young leaf+unfurling fiddlehead; appeared sterile",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Cystopteris fragilis"
+  },
+  {
+    "id": "XXHP",
+    "tissue": "fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Cystopteris fragilis"
+  },
+  {
+    "id": "RICC",
+    "tissue": "leaf (perhaps with some developing sporangia)",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Cystopteris reevesiana"
+  },
+  {
+    "id": "YOWV",
+    "tissue": "sterile leaves, slightly older",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Cystopteris protrusa"
+  },
+  {
+    "id": "HEGQ",
+    "tissue": "young sterile leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Cystopteridaceae; Gymnocarpium dryopteris"
+  },
+  {
+    "id": "MTGC",
+    "tissue": "",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Dennstaedtiaceae; Dennstaedtia davallioides"
+  },
+  {
+    "id": "WCLG",
+    "tissue": "young sterile leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Adiantum aleuticum"
+  },
+  {
+    "id": "BMJR",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Adiantum raddianum"
+  },
+  {
+    "id": "DCDT",
+    "tissue": "sterile leaves, some very young",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Gaga arizonica"
+  },
+  {
+    "id": "WQML",
+    "tissue": "Mix of sterile and young fertile leaves.",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Cryptogramma acrostichoides"
+  },
+  {
+    "id": "ZXJO",
+    "tissue": "leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Parahemionitis cordata"
+  },
+  {
+    "id": "POPJ",
+    "tissue": "fronds",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Pteris vittata"
+  },
+  {
+    "id": "FLTD",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Pteris ensiformis"
+  },
+  {
+    "id": "UJTT",
+    "tissue": "leaf (perhaps with some developing sporangia)",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Pityrogramma trifoliata"
+  },
+  {
+    "id": "YCKE",
+    "tissue": "young leaves, possibly fertile",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Notholaena montieliae"
+  },
+  {
+    "id": "XDDT",
+    "tissue": "young leaves probably sterile",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Argyrochosma nivea"
+  },
+  {
+    "id": "GSXD",
+    "tissue": "young leaves, possibly fertile",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Myriopteris rufa"
+  },
+  {
+    "id": "NDUV",
+    "tissue": "gametophyte",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Vittaria appalachiana"
+  },
+  {
+    "id": "SKYV",
+    "tissue": "leaf, mostly or entirely sterile (hard to tell)",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Pteridaceae; Vittaria lineata"
+  },
+  {
+    "id": "NOKI",
+    "tissue": "Young fronds and sori",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Lindsaeaceae; Lindsaea linearis"
+  },
+  {
+    "id": "YIXP",
+    "tissue": "Young fronds and sori",
+    "taxonomy": "Leptosporangiate Monilophytes; Polypodiales; Lindsaeaceae; Lindsaea microphylla"
+  },
+  {
+    "id": "CVEG",
+    "tissue": "sterile plants (leaves)",
+    "taxonomy": "Leptosporangiate Monilophytes; Salviniales; Salviniaceae; Azolla cf. caroliniana"
+  },
+  {
+    "id": "KIIX",
+    "tissue": "young leaves",
+    "taxonomy": "Leptosporangiate Monilophytes; Salviniales; Marsileaceae; Pilularia globulifera"
+  },
+  {
+    "id": "CQPW",
+    "tissue": "sterile leaf",
+    "taxonomy": "Leptosporangiate Monilophytes; Schizaeales; Anemiaceae; Anemia tomentosa"
+  },
+  {
+    "id": "PBUU",
+    "tissue": "mix of fertile and sterile leaf tissue",
+    "taxonomy": "Leptosporangiate Monilophytes; Schizaeales; Lygodiaceae; Lygodium japonicum"
+  },
+  {
+    "id": "ORKS",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Bartramiales; Bartramiaceae; Philonotis fontana"
+  },
+  {
+    "id": "BGXB",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Bryales; Mielichhoferiaceae; Plagiomnium insigne"
+  },
+  {
+    "id": "JMXW",
+    "tissue": "mostly gametophyte, but possibly sporophytic tissu",
+    "taxonomy": "Mosses; Bryales; Bryaceae; Bryum argenteum"
+  },
+  {
+    "id": "WNGH",
+    "tissue": "Mostly sterile, stem-tips.",
+    "taxonomy": "Mosses; Bryales; Aulacomniaceae; Aulacomnium heterostichum"
+  },
+  {
+    "id": "QMWB",
+    "tissue": "mostly gametophyte, possibly some sporophytic tiss",
+    "taxonomy": "Mosses; Leucodontales; Myuriaceae; Anomodon attenuatus"
+  },
+  {
+    "id": "VBMM",
+    "tissue": "mostly gametophyte, possibly some sporophytic tiss",
+    "taxonomy": "Mosses; Leucodontales; Brachytheciaceae; Claopodium rostratum"
+  },
+  {
+    "id": "ABCD",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Grimmiales; Grimmiaceae; Racomitrium elongatum"
+  },
+  {
+    "id": "RDOO",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Grimmiales; Grimmiaceae; Racomitrium varium"
+  },
+  {
+    "id": "BPSG",
+    "tissue": "gametophyte (possibly small number of capsules)",
+    "taxonomy": "Mosses; Grimmiales; Scouleriaceae; Scouleria aquatica"
+  },
+  {
+    "id": "HRWG",
+    "tissue": "6-7 sporophytes, possibly some gametophytic tissue",
+    "taxonomy": "Mosses; Buxbaumiales; Buxbaumiaceae; Buxbaumia aphylla"
+  },
+  {
+    "id": "NGTD",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Dicranales; Dicranaceae; Dicranum scoparium"
+  },
+  {
+    "id": "VMXJ",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Dicranales; Leucobryaceae; Leucobryum albidum"
+  },
+  {
+    "id": "RGKI",
+    "tissue": "gametophyte, tip of shoots",
+    "taxonomy": "Mosses; Dicranales; Leucobryaceae; Leucobryum glaucum"
+  },
+  {
+    "id": "FFPD",
+    "tissue": "gametophyte branches/leaves, possibly some sporeop",
+    "taxonomy": "Mosses; Dicranales; Ditrichaceae; Ceratodon purpureus"
+  },
+  {
+    "id": "AWOI",
+    "tissue": "Mostly the little turrets (so mix of young sporoph",
+    "taxonomy": "Mosses; Diphysciales; Diphysciaceae; Diphyscium foliosum"
+  },
+  {
+    "id": "KEFD",
+    "tissue": "gametophyte, whole shoot/tip of shoots, possibly s",
+    "taxonomy": "Mosses; Encalyptales; Encalyptaceae; Encalypta streptocarpa"
+  },
+  {
+    "id": "XWHK",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Funariales; Bryaceae; Rosulabryum cf. capillare"
+  },
+  {
+    "id": "YEPO",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Funariales; Funariaceae; Physcomitrium sp."
+  },
+  {
+    "id": "YWNF",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hedwigiales; Hedwigiaceae; Hedwigia ciliata"
+  },
+  {
+    "id": "WSPM",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Hylocomiaceae; Loeskeobryum brevirostre"
+  },
+  {
+    "id": "ZACW",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Leucodontaceae; Leucodon brachypus"
+  },
+  {
+    "id": "LNSF",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Hypnales; Pylaisiaceae; Stereodon subimponens"
+  },
+  {
+    "id": "QKQO",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Plagiotheciaceae; Pseudotaxiphyllum elegans"
+  },
+  {
+    "id": "EEMJ",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Thuidiaceae; Thuidium delicatulum"
+  },
+  {
+    "id": "JADL",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Brachytheciaceae; Rhynchostegium serrulatum"
+  },
+  {
+    "id": "IGUH",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Mosses; Hypnales; Leucodontaceae; Leucodon julaceus"
+  },
+  {
+    "id": "TAVP",
+    "tissue": "gametophyte, whole shoot/tip of shoots",
+    "taxonomy": "Mosses; Hypnales; Calliergonaceae; Calliergon cordifolium"
+  },
+  {
+    "id": "MIRS",
+    "tissue": "gametophyte, whole shoot/tip of shoots",
+    "taxonomy": "Mosses; Hypnales; Climaciaceae; Climacium dendroides"
+  },
+  {
+    "id": "DHWX",
+    "tissue": "gametophyte, whole shoot/tip of shoots",
+    "taxonomy": "Mosses; Hypnales; Fontinalaceae; Fontinalis antipyretica"
+  },
+  {
+    "id": "TMAJ",
+    "tissue": "gametophyte with gametangia",
+    "taxonomy": "Mosses; Hypnales; Neckeraceae; Neckera douglasii"
+  },
+  {
+    "id": "CMEQ",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Orthotrichales; Orthotrichaceae; Orthotrichum lyellii"
+  },
+  {
+    "id": "SZYG",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Polytrichales; Polytrichaceae; Polytrichum commune"
+  },
+  {
+    "id": "ZTHV",
+    "tissue": "Mostly sterile, stem-tips.",
+    "taxonomy": "Mosses; Polytrichales; Polytrichaceae; Atrichum angustatum"
+  },
+  {
+    "id": "GRKU",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Pottiales; Pottiaceae; Syntrichia princeps"
+  },
+  {
+    "id": "GOWD",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Sphagnales; Sphagnaceae; Sphagnum lescurii"
+  },
+  {
+    "id": "RCBT",
+    "tissue": "Mostly sterile, stem-tips.",
+    "taxonomy": "Mosses; Sphagnales; Sphagnaceae; Sphagnum palustre"
+  },
+  {
+    "id": "UHLI",
+    "tissue": "Mostly sterile, stem-tips.",
+    "taxonomy": "Mosses; Sphagnales; Sphagnaceae; Sphagnum recurvum"
+  },
+  {
+    "id": "SKQD",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Takakiales; Takakiaceae; Takakia lepidozioides"
+  },
+  {
+    "id": "HVBQ",
+    "tissue": "gametophyte, mainly gemma-cup-shoots, whole shoot/",
+    "taxonomy": "Mosses; Tetraphidales; Tetraphidaceae; Tetraphis pellucida"
+  },
+  {
+    "id": "ZQRI",
+    "tissue": "gametophyte",
+    "taxonomy": "Mosses; Timmiales; Timmiaceae; Timmia austriaca"
+  },
+  {
+    "id": "FANS",
+    "tissue": "sporophytes",
+    "taxonomy": "Hornworts; Leiosporocerotales; Leiosporocerotaceae; Leiosporoceros dussii"
+  },
+  {
+    "id": "IQJU",
+    "tissue": "",
+    "taxonomy": "Hornworts; Anthocerotales; Anthoceroceae; Anthoceros angustus"
+  },
+  {
+    "id": "FAJB",
+    "tissue": "gametophyte",
+    "taxonomy": "Hornworts; Anthocerotales; Notothyladaceae; Paraphymatoceros hallii"
+  },
+  {
+    "id": "WCZB",
+    "tissue": "gametophyte",
+    "taxonomy": "Hornworts; Notothyladales; Notothyladaceae; Phaeoceros carolinianus"
+  },
+  {
+    "id": "RXRQ",
+    "tissue": "sporophyte",
+    "taxonomy": "Hornworts; Notothyladales; Notothyladaceae; Phaeoceros carolinianus"
+  },
+  {
+    "id": "DXOU",
+    "tissue": "gametophyte",
+    "taxonomy": "Hornworts; Dendrocerotales; Dendrocerotaceae; Nothoceros aenigmaticus"
+  },
+  {
+    "id": "TCBC",
+    "tissue": "gametophyte",
+    "taxonomy": "Hornworts; Dendrocerotales; Dendrocerotaceae; Nothoceros vincentianus"
+  },
+  {
+    "id": "UCRN",
+    "tissue": "gametophyte",
+    "taxonomy": "Hornworts; Dendrocerotales; Dendrocerotaceae; Megaceros flagellaris"
+  },
+  {
+    "id": "AEXY",
+    "tissue": "whole plant",
+    "taxonomy": "Liverworts; Blasiales; Blasiaceae; Blasia sp."
+  },
+  {
+    "id": "YBQN",
+    "tissue": "Sterile (seemingly) branches",
+    "taxonomy": "Liverworts; Jungermanniales; Cephaloziaceae; Odontoschisma prostratum"
+  },
+  {
+    "id": "WZYK",
+    "tissue": "gametophyte",
+    "taxonomy": "Liverworts; Jungermanniales; Lepidoziaceae; Bazzania trilobata"
+  },
+  {
+    "id": "RTMU",
+    "tissue": "Sterile (seemingly) branches",
+    "taxonomy": "Liverworts; Jungermanniales; Calypogeiaceae; Calypogeia fissa"
+  },
+  {
+    "id": "CHJJ",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Jungermanniales; Frullaniaceae; Frullania spp."
+  },
+  {
+    "id": "IRBN",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Jungermanniales; Scapaniaceae; Scapania nemorosa"
+  },
+  {
+    "id": "OFTV",
+    "tissue": "gametophyte, whole shoot/tip of shoots, possibly s",
+    "taxonomy": "Liverworts; Jungermanniales; Scapaniaceae; Barbilophozia barbata"
+  },
+  {
+    "id": "NWQC",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Jungermanniales; Plagiochilaceae/Fissidentaceae; mixed species"
+  },
+  {
+    "id": "HPXA",
+    "tissue": "gametophyte, whole shoot/tip of shoots, possibly s",
+    "taxonomy": "Liverworts; Jungermanniales; Ptilidiaceae; Ptilidium pulcherrimum"
+  },
+  {
+    "id": "LGOW",
+    "tissue": "Vegetative",
+    "taxonomy": "Liverworts; Jungermanniales; Schistochilaceae; Schistochila sp."
+  },
+  {
+    "id": "UUHD",
+    "tissue": "Sterile (seemingly) branches",
+    "taxonomy": "Liverworts; Jungermanniales; Porellaceae; Porella pinnata"
+  },
+  {
+    "id": "TGKW",
+    "tissue": "young leaves",
+    "taxonomy": "Liverworts; Jungermanniales; Frullaniaceae; Frullania sp."
+  },
+  {
+    "id": "JPYU",
+    "tissue": "clean thalli without gemmules",
+    "taxonomy": "Liverworts; Marchantiales; Marchantiaceae; Marchantia polymorpha"
+  },
+  {
+    "id": "TFYI",
+    "tissue": "whole plant",
+    "taxonomy": "Liverworts; Marchantiales; Marchantiaceae; Marchantia emarginata"
+  },
+  {
+    "id": "HMHL",
+    "tissue": "young thallus edges - non_mycorrizal",
+    "taxonomy": "Liverworts; Marchantiales; Marchantiaceae; Marchantia paleacea"
+  },
+  {
+    "id": "IHWO",
+    "tissue": "young thallus edges - mycorrizal",
+    "taxonomy": "Liverworts; Marchantiales; Marchantiaceae; Marchantia paleacea"
+  },
+  {
+    "id": "ILBQ",
+    "tissue": "sterile thallus",
+    "taxonomy": "Liverworts; Marchantiales; Conocephalaceae; Conocephalum conicum"
+  },
+  {
+    "id": "TXVB",
+    "tissue": "gametophyte, but including those structures with the gemmae",
+    "taxonomy": "Liverworts; Marchantiales; Lunulariaceae; Lunularia cruciata"
+  },
+  {
+    "id": "TFDQ",
+    "tissue": "Whole Plant",
+    "taxonomy": "Liverworts; Marchantiales; Monocleaceae; Monoclea gottschei"
+  },
+  {
+    "id": "WJLO",
+    "tissue": "gametophyte, but possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Marchantiales; Ricciaceae; Ricciocarpos natans"
+  },
+  {
+    "id": "NRWZ",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Metzgeriales; Metzgeriaceae; Metzgeria crassipilis"
+  },
+  {
+    "id": "YFGP",
+    "tissue": "Sterile (seemingly) branches",
+    "taxonomy": "Liverworts; Pallaviciniales; Pallaviciniaceae; Pallavicinia lyellii"
+  },
+  {
+    "id": "PIUF",
+    "tissue": "Sterile (seemingly) branches",
+    "taxonomy": "Liverworts; Pelliales; Pelliaceae; Pellia sp. (cf epiphylla (L.) Corda)"
+  },
+  {
+    "id": "JHFI",
+    "tissue": "gametophyte",
+    "taxonomy": "Liverworts; Pelliales; Pelliaceae; Pellia neesiana"
+  },
+  {
+    "id": "KRUQ",
+    "tissue": "gametophyte",
+    "taxonomy": "Liverworts; Porellales; Porellaceae; Porella navicularis"
+  },
+  {
+    "id": "BNCU",
+    "tissue": "whole plant",
+    "taxonomy": "Liverworts; Porellales; Radulaceae; Radula lindenbergiana"
+  },
+  {
+    "id": "HERT",
+    "tissue": "gametophyte, possibly some sporophytic tissue",
+    "taxonomy": "Liverworts; Sphaerocarpales; Sphaerocarpaceae; Sphaerocarpos texanus"
+  },
+  {
+    "id": "FITN",
+    "tissue": "whole plant",
+    "taxonomy": "Liverworts; Treubiales; Treubiaceae; Treubia lacunosa"
+  },
+  {
+    "id": "XMCL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Prasinococcales; Prasinococcaceae; Prasinococcus capsulatus"
+  },
+  {
+    "id": "XJGM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Prasinococcales; Prasinococcaceae; coccoid-prasinophyte"
+  },
+  {
+    "id": "HYHN",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Prasinococcales; Prasinococcaceae; Prasinoderma coloniale"
+  },
+  {
+    "id": "MXEZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pseudoscourfieldiales; Pycnococcaceae; Pycnococcus provasolii"
+  },
+  {
+    "id": "JMTE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pseudoscourfieldiales; Pycnococcaceae; Pseudoscourfieldia marina"
+  },
+  {
+    "id": "TNAW",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pyramimonadales; Pyramimonadaceae; Pyramimonas parkeae"
+  },
+  {
+    "id": "XIVI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pyramimonadales; Pyramimonadaceae; Cymbomonas sp."
+  },
+  {
+    "id": "AYPS",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; incertae sedis; incertae sedis; unidentified species"
+  },
+  {
+    "id": "MCPK",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Mamiellales; Mamiellaceae; Bathycoccus prasinos"
+  },
+  {
+    "id": "QXSZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Mamiellales; Mamiellaceae; Mantoniella squamata"
+  },
+  {
+    "id": "BTFM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Mamiellales; Monomasticaceae; Monomastix opisthostigma"
+  },
+  {
+    "id": "XOAL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Dolichomastigales; Dolichomastigaceae; Dolichomastix tenuilepis"
+  },
+  {
+    "id": "MMKU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Nephroselmidales; Nephroselmidaceae; Nephroselmis olivacea"
+  },
+  {
+    "id": "ISIM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Nephroselmidales; Nephroselmidaceae; Nephroselmis pyriformis"
+  },
+  {
+    "id": "FMVB",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorodendrales; Chlorodendraceae; Scherffelia dubia"
+  },
+  {
+    "id": "HVNO",
+    "tissue": "cells grown on F/2 media",
+    "taxonomy": "Green Algae; Chlorodendrales; Chlorodendraceae; Tetraselmis chui"
+  },
+  {
+    "id": "DUMA",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorodendrales; Chlorodendraceae; Tetraselmis cordiformis"
+  },
+  {
+    "id": "HHXJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorodendrales; Chlorodendraceae; Tetraselmis striata"
+  },
+  {
+    "id": "BAZF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetopeltidales; Chaetopeltidaceae; Chaetopeltis orbicularis"
+  },
+  {
+    "id": "VFIV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Fritschiella tuberosa"
+  },
+  {
+    "id": "AJAU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Helicodictyon planctonicum"
+  },
+  {
+    "id": "NQYP",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Pirula salina"
+  },
+  {
+    "id": "JMUI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Stigeoclonium helveticum"
+  },
+  {
+    "id": "RAWF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Uronema belkae"
+  },
+  {
+    "id": "ISGT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Chaetophoraceae; Uronema sp."
+  },
+  {
+    "id": "IJMT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chaetophorales; Aphanochaetaceae; Aphanochaete repens"
+  },
+  {
+    "id": "GXBM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorococcales; Coccomyxaceae; Coccomyxa pringsheimii"
+  },
+  {
+    "id": "BZSH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorococcales; Golenkiniaceae; Golenkinia longispicula"
+  },
+  {
+    "id": "NLOM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorococcales; Hydrodictyaceae; Pediastrum duplex CCAC 0012"
+  },
+  {
+    "id": "XKWQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorococcales; Hydrodictyaceae; Pediastrum duplex CCAC 0012"
+  },
+  {
+    "id": "XTON",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorococcales; Hydrodictyaceae; Pediastrum duplex CCAC 0147"
+  },
+  {
+    "id": "PZIF",
+    "tissue": "cells grown on 3N-BBM-V media",
+    "taxonomy": "Green Algae; Chlorococcales; Scenedesmaceae; Scenedesmus dimorphus"
+  },
+  {
+    "id": "ALZF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorocystidales; Chlorocystidaceae; Halochlorococcum marinum"
+  },
+  {
+    "id": "USIX",
+    "tissue": "clonal culture, vegetative",
+    "taxonomy": "Green Algae; Chlorosarcinales; Chlorosarcinaceae; Neochlorosarcina sp."
+  },
+  {
+    "id": "FOYQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Microsporales; Microsporaceae; Microspora cf. tumidula"
+  },
+  {
+    "id": "DVYE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Oedogoniales; Oedogoniaceae; Oedogonium cardiacum"
+  },
+  {
+    "id": "SDPC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Oedogoniales; Oedogoniaceae; Oedogonium foveolatum"
+  },
+  {
+    "id": "KUJU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Goniaceae; Gonium pectorale"
+  },
+  {
+    "id": "EEJO",
+    "tissue": "cells grown on 3N-BBM-V media",
+    "taxonomy": "Green Algae; Volvocales; incertae sedis; Neochloris oleoabundans"
+  },
+  {
+    "id": "KSFK",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Sphaeropleales; Chlorosarcinaceae; Chlorosarcinopsis halophila"
+  },
+  {
+    "id": "GJIY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Sphaeropleales; Neochloridaceae; Neochloris sp."
+  },
+  {
+    "id": "OTQG",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Sphaeropleales; Ankistrodesmaceae; Ankistrodesmus sp."
+  },
+  {
+    "id": "JWGT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Volvocaceae; Volvox aureus"
+  },
+  {
+    "id": "WRSL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Volvocaceae; Volvox aureus"
+  },
+  {
+    "id": "ISPU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Volvocaceae; Volvox globator"
+  },
+  {
+    "id": "RNAT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Volvocaceae; Eudorina elegans"
+  },
+  {
+    "id": "RYJX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Volvocaceae; Pandorina morum"
+  },
+  {
+    "id": "MNPL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Asteromonadaceae; Asteromonas gracilis"
+  },
+  {
+    "id": "NTLE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Asteromonadaceae; Asteromonas gracilis"
+  },
+  {
+    "id": "VIAU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Carteriaceae; Carteria crucifera"
+  },
+  {
+    "id": "RUIF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Carteriaceae; Carteria obtusa"
+  },
+  {
+    "id": "OVHR",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas bilatus"
+  },
+  {
+    "id": "MULF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas bilatus"
+  },
+  {
+    "id": "BCYF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas cribrum"
+  },
+  {
+    "id": "JRGZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas moewusii"
+  },
+  {
+    "id": "VALZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas noctigama"
+  },
+  {
+    "id": "TSBQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas sp."
+  },
+  {
+    "id": "AOUJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlamydomonas sp."
+  },
+  {
+    "id": "GUBD",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Brachiomonas submarina"
+  },
+  {
+    "id": "IHOI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas oogama"
+  },
+  {
+    "id": "QRTH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chlorococcum microstigmaticum"
+  },
+  {
+    "id": "LBRP",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas reticulata"
+  },
+  {
+    "id": "GDUD",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas reticulata"
+  },
+  {
+    "id": "AJUW",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas rosae"
+  },
+  {
+    "id": "GFUR",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas subdivisa"
+  },
+  {
+    "id": "UTRE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Chloromonas tughillensis"
+  },
+  {
+    "id": "IRYH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Heterochlamydomonas inaequalis"
+  },
+  {
+    "id": "OFUE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Lobochlamys segnis"
+  },
+  {
+    "id": "JKKI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Lobomonas rostrata"
+  },
+  {
+    "id": "XDLL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Oogamochlamys gigantea"
+  },
+  {
+    "id": "MXDS",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Spermatozopsis exsultans"
+  },
+  {
+    "id": "ENAU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Spermatozopsis similis"
+  },
+  {
+    "id": "QWRA",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Chlamydomonadaceae; Vitreochlamys sp."
+  },
+  {
+    "id": "WDWX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Dunaliella tertiolecta"
+  },
+  {
+    "id": "RHVC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Dunaliella salina"
+  },
+  {
+    "id": "SYJM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Dunaliella viridis dumsii"
+  },
+  {
+    "id": "UKUC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Dunaliella salina"
+  },
+  {
+    "id": "ZDIZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Dunaliella tertiolecta"
+  },
+  {
+    "id": "FXHG",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Dunaliellaceae; Hafniomonas reticulata"
+  },
+  {
+    "id": "ODXI",
+    "tissue": "algal cells (red)",
+    "taxonomy": "Green Algae; Volvocales; Haematococcaceae; Haematococcus pluvialis"
+  },
+  {
+    "id": "AGIO",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Haematococcaceae; Haematococcus pluvialis"
+  },
+  {
+    "id": "ZLQE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Haematococcaceae; Stephanosphaera pluvialis"
+  },
+  {
+    "id": "ZIVZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Phacotaceae; Phacotus lenticularis"
+  },
+  {
+    "id": "LNIL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Phacotaceae; Pteromonas angulosa"
+  },
+  {
+    "id": "ACRY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Volvocales; Phacotaceae; Pteromonas sp."
+  },
+  {
+    "id": "NKXU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Trebouxiales; Trebouxiaceae; Trebouxia arboricola"
+  },
+  {
+    "id": "ETGN",
+    "tissue": "cells grown on 3N-BBM-V media",
+    "taxonomy": "Green Algae; Trebouxiales; Botryococcaceae; Botryococcus braunii"
+  },
+  {
+    "id": "VJDZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Trebouxiales; Botryococcaceae; Botryococcus sudeticus"
+  },
+  {
+    "id": "QYXY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Trebouxiales; Botryococcaceae; Botryococcus terribilis"
+  },
+  {
+    "id": "MWAN",
+    "tissue": "cells grown on F/2 media",
+    "taxonomy": "Green Algae; Chlorellales; Chlorellaceae; Chlorella minutissima"
+  },
+  {
+    "id": "PFUD",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Chlorellaceae; Geminella sp."
+  },
+  {
+    "id": "MFYC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Chlorellaceae; Nannochloris atomus"
+  },
+  {
+    "id": "AKCR",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Chlorellaceae; Parachlorella kessleri"
+  },
+  {
+    "id": "BILC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Chlorellaceae; Prototheca wickerhamii"
+  },
+  {
+    "id": "ZNUM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Leptosiraceae; Leptosira obovata"
+  },
+  {
+    "id": "MNCB",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Chlorellales; Oocystaceae; Eremosphaera viridis"
+  },
+  {
+    "id": "ZDOF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Microthamniales; Microthamniaceae; Microthamnion kuetzingianum"
+  },
+  {
+    "id": "DXNY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Microthamniales; Microthamniaceae; Microthamnion kuetzingianum"
+  },
+  {
+    "id": "WCLV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Prasiolales; Prasiolaceae; Prasiola crispa"
+  },
+  {
+    "id": "WXRI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Prasiolales; Prasiolaceae; Stichococcus bacillaris"
+  },
+  {
+    "id": "CQQP",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulvales; Ulvaceae; Ochlochaete sp."
+  },
+  {
+    "id": "OAEZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulvales; Ulvaceae; Percursaria percursa"
+  },
+  {
+    "id": "LSHT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulvales; Bolbocoleonaceae; Bolbocoleon piliferum"
+  },
+  {
+    "id": "PZBH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Oltmannsiellopsidaceae; Oltmannsiellopsidaceae; Oltmannsiellopsis viridis"
+  },
+  {
+    "id": "QJYX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Oltmannsiellopsidaceae; Oltmannsiellopsidaceae; Oltmannsiellopsis viridis"
+  },
+  {
+    "id": "OQON",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulvales; Ulvellaceae; Entocladia endozoica"
+  },
+  {
+    "id": "VBLH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Cladophorales; Cladophoraceae; Cladophora glomerata"
+  },
+  {
+    "id": "NATT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Trentepohliales; Trentepohliaceae; Trentepohlia annulata"
+  },
+  {
+    "id": "YDCQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Trentepohliales; Trentepohliaceae; Cephaleuros virescens"
+  },
+  {
+    "id": "CBNG",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Borodinellaceae; Planophila laetevirens"
+  },
+  {
+    "id": "LETF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Borodinellaceae; Planophila terrestris"
+  },
+  {
+    "id": "DZPJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Cylindrocapsaceae; Cylindrocapsa geminella"
+  },
+  {
+    "id": "JIWJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Ulotrichaceae; Acrosiphonia sp."
+  },
+  {
+    "id": "KADG",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Ulotrichaceae; Ignatius tetrasporus"
+  },
+  {
+    "id": "FPCO",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Ulotrichales; Ulotrichaceae; Interfilum paradoxum"
+  },
+  {
+    "id": "JTIG",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Bryopsidales; Bryopsidaceae; Bryopsis plumosa"
+  },
+  {
+    "id": "GYBH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Bryopsidales; Codiaceae; Codium fragile"
+  },
+  {
+    "id": "VHIJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Bryopsidales; Chaetosiphonaceae; Blastophysa cf. rhizopus"
+  },
+  {
+    "id": "KYIO",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Mesostigmatales; Mesostigmataceae; Mesostigma viride"
+  },
+  {
+    "id": "RRSV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pedinomonadales; Pedinomonadaceae; Pedinomonas minor"
+  },
+  {
+    "id": "PUAN",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pedinomonadales; Pedinomonadaceae; Pedinomonas tuberculata"
+  },
+  {
+    "id": "EGNB",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Scourfieldiales; Scourfieldiaceae; Scourfieldia sp."
+  },
+  {
+    "id": "PRIQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Pleurastrales; Pleurastraceae; Chlorococcum oleofaciens"
+  },
+  {
+    "id": "TGNL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; incertae sedis; incertae sedis; Picocystis salinarum"
+  },
+  {
+    "id": "MWXT",
+    "tissue": "clonal culture, vegetative",
+    "taxonomy": "Green Algae; Charales; Characeae; Chara vulgaris"
+  },
+  {
+    "id": "QPDY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Coleochaetales; Coleochaetaceae; Coleochaete irregularis"
+  },
+  {
+    "id": "VQBJ",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Coleochaetales; Coleochaetaceae; Coleochaete scutata"
+  },
+  {
+    "id": "DRGY",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Coleochaetales; Chaetosphaeridiaceae; Chaetosphaeridium globosum"
+  },
+  {
+    "id": "FQLP",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Klebsormidiales; Klebsormidiaceae; Klebsormidium subtile"
+  },
+  {
+    "id": "BFIK",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Klebsormidiales; Klebsormidiaceae; Entransia fimbriata"
+  },
+  {
+    "id": "JOJQ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Zygnemataceae; Cylindrocystis cushleckae"
+  },
+  {
+    "id": "ZRMT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Zygnemataceae; Mougeotia sp."
+  },
+  {
+    "id": "HAOX",
+    "tissue": "clonal culture, vegetative",
+    "taxonomy": "Green Algae; Zygnematales; Zygnemataceae; Spirogyra sp."
+  },
+  {
+    "id": "WGMD",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Zygnemataceae; Zygnema sp."
+  },
+  {
+    "id": "MFZO",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Zygnemataceae; Zygnemopsis sp."
+  },
+  {
+    "id": "DRFX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Closteriaceae; Closterium lunula"
+  },
+  {
+    "id": "DFDS",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Desmidium aptogonum"
+  },
+  {
+    "id": "QWFV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Bambusina borreri"
+  },
+  {
+    "id": "HIDG",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium broomei"
+  },
+  {
+    "id": "MNNM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium granatum"
+  },
+  {
+    "id": "STKJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium ochthodes"
+  },
+  {
+    "id": "HJVM",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium ochthodes"
+  },
+  {
+    "id": "WDGV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium subtumidum"
+  },
+  {
+    "id": "BHBK",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmarium tinctum"
+  },
+  {
+    "id": "RQFE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Cosmocladium cf. constrictum"
+  },
+  {
+    "id": "GYRP",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Euastrum affine"
+  },
+  {
+    "id": "MCHJ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Micrasterias fimbriata"
+  },
+  {
+    "id": "GGWH",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Onychonema laeve"
+  },
+  {
+    "id": "RPQV",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Phymatodocis nordstedtiana"
+  },
+  {
+    "id": "MOYY",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Pleurotaenium trabecula"
+  },
+  {
+    "id": "ISHC",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Staurastrum sebaldi"
+  },
+  {
+    "id": "WCQU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Staurodesmus convergens"
+  },
+  {
+    "id": "RPRU",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Staurodesmus omearii"
+  },
+  {
+    "id": "GBGT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Desmidiaceae; Xanthidium antilopaeum"
+  },
+  {
+    "id": "WSJO",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Mesotaenium braunii"
+  },
+  {
+    "id": "HKZW",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Mesotaenium caldariorum"
+  },
+  {
+    "id": "WDCW",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Mesotaenium endlicherianum"
+  },
+  {
+    "id": "NBYP",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Mesotaenium kramstae"
+  },
+  {
+    "id": "YOXI",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Cylindrocystis brebissonii"
+  },
+  {
+    "id": "RPGL",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Cylindrocystis brebissonii"
+  },
+  {
+    "id": "VAZE",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Cylindrocystis sp."
+  },
+  {
+    "id": "FFGR",
+    "tissue": "clonal, axenic culture, vegetative",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Netrium digitus"
+  },
+  {
+    "id": "KMNX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Nucleotaenium eifelense"
+  },
+  {
+    "id": "SNOX",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Planotaenium ohtanii"
+  },
+  {
+    "id": "XRTZ",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Roya obtusa"
+  },
+  {
+    "id": "NNHQ",
+    "tissue": "clonal culture, vegetative",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Spirotaenia minuta"
+  },
+  {
+    "id": "TPHT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Mesotaeniaceae; Spirotaenia sp."
+  },
+  {
+    "id": "YSQT",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Peniaceae; Penium exiguum"
+  },
+  {
+    "id": "AEKF",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Peniaceae; Penium margaritaceum"
+  },
+  {
+    "id": "KEYW",
+    "tissue": "algal cells",
+    "taxonomy": "Green Algae; Zygnematales; Gonatozygaceae; Gonatozygon kinahanii"
+  },
+  {
+    "id": "POOW",
+    "tissue": "algal cells",
+    "taxonomy": "Glaucophyta (Algae); Glaucocystales; Glaucocystaceae; Glaucocystis cf. nostochinearum"
+  },
+  {
+    "id": "QFND",
+    "tissue": "algal cells",
+    "taxonomy": "Glaucophyta (Algae); Glaucocystales; Glaucocystaceae; Cyanophora paradoxa CCAC 0074 (M0763)"
+  },
+  {
+    "id": "YTYU",
+    "tissue": "algal cells",
+    "taxonomy": "Glaucophyta (Algae); Glaucocystales; Glaucocystaceae; Cyanophora paradoxa CCAC 0091 (M0507/1)"
+  },
+  {
+    "id": "PQED",
+    "tissue": "algal cells",
+    "taxonomy": "Glaucophyta (Algae); Glaucocystales; Glaucocystaceae; Gloeochaete wittrockiana"
+  },
+  {
+    "id": "JKHA",
+    "tissue": "algal cells",
+    "taxonomy": "Glaucophyta (Algae); incertae sedis; incertae sedis; Cyanoptyche gloeocystis"
+  },
+  {
+    "id": "OBUY",
+    "tissue": "cells grown on F/2 media",
+    "taxonomy": "Red Algae; Porphyridiales; Porphyridiaceae; Porphyridium cruentum"
+  },
+  {
+    "id": "PVGP",
+    "tissue": "algal cells",
+    "taxonomy": "Red Algae; Porphyridiales; Porphyridiaceae; Porphyridium purpureum"
+  },
+  {
+    "id": "RSOF",
+    "tissue": "algal cells",
+    "taxonomy": "Red Algae; Glaucosphaerales; Glaucosphaeraceae; Glaucosphaera vacuolata"
+  },
+  {
+    "id": "JJZR",
+    "tissue": "algal cells",
+    "taxonomy": "Red Algae; Rhodochaetales; Rhodochaetaceae; Rhodochaete parvula"
+  },
+  {
+    "id": "LLXJ",
+    "tissue": "algal cells",
+    "taxonomy": "Red Algae; Stylonematales; Stylonemataceae; Chroodactylon ornatum"
+  },
+  {
+    "id": "ZULJ",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Bangiales; Bangiaceae; Pyropia yezoensis"
+  },
+  {
+    "id": "VZWX",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Ceramiales; Ceramiaceae; Ceramium kondoi"
+  },
+  {
+    "id": "YSBD",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Ceramiales; Dasyaceae; Heterosiphonia pulchra"
+  },
+  {
+    "id": "XAXW",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Ceramiales; Rhodomelaceae; Neosiphonia japonica"
+  },
+  {
+    "id": "UYFR",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Ceramiales; Rhodomelaceae; Symphyocladia latiuscula"
+  },
+  {
+    "id": "IEHF",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gigartinales; Dumontiaceae; Dumontia simplex"
+  },
+  {
+    "id": "SBLT",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Gigartinales; Endocladiaceae; Gloiopeltis furcata"
+  },
+  {
+    "id": "UGPM",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Gigartinales; Gigartinaceae; Chondrus crispus"
+  },
+  {
+    "id": "WEJN",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Gigartinales; Gigartinaceae; Mazzaella japonica"
+  },
+  {
+    "id": "CKXF",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Gigartinales; Phyllophoraceae; Ahnfeltiopsis flabelliformis"
+  },
+  {
+    "id": "BWVJ",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gigartinales; Solieriaceae; Betaphycus philippinensis"
+  },
+  {
+    "id": "JEBK",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gigartinales; Solieriaceae; Eucheuma denticulatum"
+  },
+  {
+    "id": "IHJY",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gigartinales; Solieriaceae; Kappaphycus alvarezii"
+  },
+  {
+    "id": "FTRP",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Gracilariales; Gracilariaceae; Gracilaria chouae"
+  },
+  {
+    "id": "VNAL",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gracilariales; Gracilariaceae; Gracilaria vermiculophylla"
+  },
+  {
+    "id": "LJPN",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gracilariales; Gracilariaceae; Gracilaria blodgettii"
+  },
+  {
+    "id": "IKWM",
+    "tissue": "branches",
+    "taxonomy": "Red Algae; Gracilariales; Gracilariaceae; Gracilaria lemaneiformis"
+  },
+  {
+    "id": "ZJOJ",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Halymeniales; Halymeniaceae; Grateloupia filicina"
+  },
+  {
+    "id": "IKIZ",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Halymeniales; Halymeniaceae; Grateloupia livida"
+  },
+  {
+    "id": "URSB",
+    "tissue": "blades",
+    "taxonomy": "Red Algae; Halymeniales; Halymeniaceae; Grateloupia turuturu"
+  },
+  {
+    "id": "PYDB",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Halymeniales; Halymeniaceae; Grateloupia catenata"
+  },
+  {
+    "id": "PWKQ",
+    "tissue": "branches and blades",
+    "taxonomy": "Red Algae; Halymeniales; Halymeniaceae; Gracilaria sp."
+  },
+  {
+    "id": "RTLC",
+    "tissue": "algal cells",
+    "taxonomy": "Red Algae; Rhodellales; Rhodellaceae; Rhodella violacea"
+  },
+  {
+    "id": "BAKF",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Cryptomonadales; Cryptomonadaceae; Cryptomonas curvata"
+  },
+  {
+    "id": "ROZZ",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pyrenomonadales; Chroomonadaceae; Chroomonas sp."
+  },
+  {
+    "id": "MJMQ",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pyrenomonadales; Chroomonadaceae; Hemiselmis virescens"
+  },
+  {
+    "id": "IRZA",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pyrenomonadales; Geminigeraceae; Proteomonas sulcata"
+  },
+  {
+    "id": "IAYV",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pyrenomonadales; Pyrenomonadaceae; Rhodomonas sp."
+  },
+  {
+    "id": "BAJW",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Isochrysidales; Isochrysidaceae; Isochrysis sp."
+  },
+  {
+    "id": "APTP",
+    "tissue": "branches",
+    "taxonomy": "Chromista (Algae); Ishigeales; Ishigeaceae; Ishige okamurae"
+  },
+  {
+    "id": "LXRN",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Prymnesiales; Prymnesiaceae; Prymnesium parvum"
+  },
+  {
+    "id": "NMAK",
+    "tissue": "cells grown on F/2 media",
+    "taxonomy": "Chromista (Algae); Pavlovales; Pavlovaceae; Pavlova lutheri"
+  },
+  {
+    "id": "RFAD",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pavlovales; Pavlovaceae; Pavlova lutheri CCAC 0028"
+  },
+  {
+    "id": "LLEN",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Pavlovales; Pavlovaceae; Pavlova lutheri SAG 926-1"
+  },
+  {
+    "id": "RAPY",
+    "tissue": "blades",
+    "taxonomy": "Chromista (Algae); Laminariales; Laminariaceae; Saccharina sculpera"
+  },
+  {
+    "id": "OGZM",
+    "tissue": "blades",
+    "taxonomy": "Chromista (Algae); Laminariales; Laminariaceae; Saccharina japonica"
+  },
+  {
+    "id": "QDTV",
+    "tissue": "blades",
+    "taxonomy": "Chromista (Algae); Laminariales; Laminariaceae; Saccharina japonica"
+  },
+  {
+    "id": "FIDQ",
+    "tissue": "leaves",
+    "taxonomy": "Chromista (Algae); Laminariales; Alariacea; Undaria pinnatifida"
+  },
+  {
+    "id": "EBWI",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Chromulinales; Chromulinaceae; Ochromonas sp."
+  },
+  {
+    "id": "JQFK",
+    "tissue": "cells grown on F/2 media",
+    "taxonomy": "Chromista (Algae); Eustigmatales; Monodopsidaceae; Picochlorum atomus"
+  },
+  {
+    "id": "BOGT",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Synurales; Mallomonadaceae; Mallomonas sp."
+  },
+  {
+    "id": "VKVG",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Synurales; Mallomonadaceae; Synura sp."
+  },
+  {
+    "id": "DBYD",
+    "tissue": "algal cells",
+    "taxonomy": "Chromista (Algae); Synurales; Mallomonadaceae; Synura petersenii"
+  },
+  {
+    "id": "FSQE",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Desmarestiales; Desmarestiaceae; Desmarestia viridis"
+  },
+  {
+    "id": "QLMZ",
+    "tissue": "blades",
+    "taxonomy": "Chromista (Algae); Ectocarpales; Scytosiphonaceae; Colpomenia sinuosa"
+  },
+  {
+    "id": "JCXF",
+    "tissue": "blades",
+    "taxonomy": "Chromista (Algae); Ectocarpales; Scytosiphonaceae; Scytosiphon lomentaria"
+  },
+  {
+    "id": "ASZK",
+    "tissue": "leaves",
+    "taxonomy": "Chromista (Algae); Ectocarpales; Chordariacea; Punctaria latifolia"
+  },
+  {
+    "id": "ULXR",
+    "tissue": "leaves",
+    "taxonomy": "Chromista (Algae); Ectocarpales; Scytosiphonacea; Scytosiphon dotyi"
+  },
+  {
+    "id": "VRGZ",
+    "tissue": "leaves",
+    "taxonomy": "Chromista (Algae); Ectocarpales; Scytosiphonacea; Petalonia fascia"
+  },
+  {
+    "id": "LDRY",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum fusiforme"
+  },
+  {
+    "id": "VYER",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum hemiphyllum"
+  },
+  {
+    "id": "FIKG",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum henslowianum"
+  },
+  {
+    "id": "RWXW",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum horneri"
+  },
+  {
+    "id": "FOMH",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum integerrimum"
+  },
+  {
+    "id": "YRMA",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum thunbergii"
+  },
+  {
+    "id": "HFIK",
+    "tissue": "branches and blades",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassaceae; Sargassum vachellianum"
+  },
+  {
+    "id": "JGGD",
+    "tissue": "branches and leaves",
+    "taxonomy": "Chromista (Algae); Fucales; Sargassacea; Sargassum muticum"
+  },
+  {
+    "id": "TZJQ",
+    "tissue": "cells",
+    "taxonomy": "Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum micans"
+  },
+  {
+    "id": "UNBZ",
+    "tissue": "cells",
+    "taxonomy": "Euglenozoa; Euglenales; Euglenacaea; Euglena sp."
+  }
+]

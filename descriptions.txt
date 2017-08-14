@@ -1,3 +1,5 @@
+1kplants: metadata: http://www.onekp.com/samples/list.php, data: http://www.onekp.com/public_data.html
+
 dengue-ncbi: https://www.ncbi.nlm.nih.gov/genomes/VirusVariation/Database/nph-select.cgi?taxid=12637, sequence type: "Nucleotide", "Full-length sequences only", "Collapse identical sequences" || on: 8/10/17
 
 flu-ncbi: https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=genomeset, genome sets: "Complete only", type: A/B || on: 8/10/17
