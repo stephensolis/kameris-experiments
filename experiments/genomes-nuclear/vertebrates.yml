@@ -1,17 +1,19 @@
-name: nuclear-plants
+name: genomes-nuclear-vertebrates
 
 experiments:
   all: &exp_options
     expand_options:
       k: 1..15
     dataset:
-      archive: genomes-plants
-      metadata: nuclear-plants
+      archive: genomes-animals
+      metadata: genomes-animals
     groups:
-      Eudicots:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons;']
-      Liliopsida:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida;']
+      birds:
+        taxonomy_contains: ['Aves;']
+      fish:
+        taxonomy_contains: ['Actinopterygii;', 'Chondrichthyes;', 'Hyperotreti;', 'Hyperoartia;']
+      mammals:
+        taxonomy_contains: ['Mammalia;']
 
 steps:
   - type: select

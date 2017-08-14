@@ -1,30 +1,19 @@
-name: nuclear-6kingdoms
+name: genomes-nuclear-archaea
 
 experiments:
   all: &exp_options
     expand_options:
-      k: 1..12
+      k: 1..15
+    dataset:
+      archive: genomes-archaea
+      metadata: genomes-archaea
     groups:
-      animals:
-        dataset:
-          archive: genomes-animals
-          metadata: nuclear-animals
-      archaea:
-        dataset:
-          archive: genomes-archaea
-          metadata: nuclear-archaea
-      bacteria:
-        dataset:
-          archive: genomes-bacteria
-          metadata: nuclear-bacteria
-      fungi:
-        dataset:
-          archive: genomes-fungi
-          metadata: nuclear-fungi
-      plants:
-        dataset:
-          archive: genomes-plants
-          metadata: nuclear-plants
+      Euryarchaeota:
+        taxonomy_contains: ['Archaea; Euryarchaeota;']
+      Thaumarchaeota:
+        taxonomy_contains: ['Archaea; Thaumarchaeota;']
+      Crenarchaeota:
+        taxonomy_contains: ['Archaea; Crenarchaeota;']
 
 steps:
   - type: select
@@ -35,7 +24,8 @@ steps:
           'taxonomy': metadata[species]['taxonomy'],
           'filenames': [species + '/nuclear/' + x['id'] + '.fasta' for x in metadata[species]['sequences']
                                                                    if x['type'] == 'chromosome' or x['type'] == 'linkage group']
-        }} for species in metadata]
+        }} for species in metadata
+           if any(tax_str in metadata[species]['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
     postprocess: |
       lambda metadata_entry, entry_sequences:
         seq = ''.join(seqs[0] for seqs in entry_sequences)

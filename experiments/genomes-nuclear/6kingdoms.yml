@@ -1,35 +1,30 @@
-name: nuclear-bacteria
+name: genomes-nuclear-6kingdoms
 
 experiments:
-  bacteria: &exp_options
+  all: &exp_options
     expand_options:
       k: 1..12
-    dataset:
-      archive: genomes-bacteria
-      metadata: nuclear-bacteria
     groups:
-      Actinobacteria:
-        taxonomy_contains: ['Bacteria; Actinobacteria;']
-      Bacteroidetes:
-        taxonomy_contains: ['Bacteria; Bacteroidetes;']
-      Firmicutes:
-        taxonomy_contains: ['Bacteria; Firmicutes;']
-      Proteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria;']
-
-  proteobacteria:
-    <<: *exp_options
-    groups:
-      Alphaproteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria; Alphaproteobacteria;']
-      Betaproteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria; Betaproteobacteria;']
-      Deltaproteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria; Deltaproteobacteria;']
-      Epsilonproteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria; Epsilonproteobacteria;']
-      Gammaproteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria; Gammaproteobacteria;']
+      animals:
+        dataset:
+          archive: genomes-animals
+          metadata: genomes-animals
+      archaea:
+        dataset:
+          archive: genomes-archaea
+          metadata: genomes-archaea
+      bacteria:
+        dataset:
+          archive: genomes-bacteria
+          metadata: genomes-bacteria
+      fungi:
+        dataset:
+          archive: genomes-fungi
+          metadata: genomes-fungi
+      plants:
+        dataset:
+          archive: genomes-plants
+          metadata: genomes-plants
 
 steps:
   - type: select
@@ -40,8 +35,7 @@ steps:
           'taxonomy': metadata[species]['taxonomy'],
           'filenames': [species + '/nuclear/' + x['id'] + '.fasta' for x in metadata[species]['sequences']
                                                                    if x['type'] == 'chromosome' or x['type'] == 'linkage group']
-        }} for species in metadata
-           if any(tax_str in metadata[species]['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
+        }} for species in metadata]
     postprocess: |
       lambda metadata_entry, entry_sequences:
         seq = ''.join(seqs[0] for seqs in entry_sequences)

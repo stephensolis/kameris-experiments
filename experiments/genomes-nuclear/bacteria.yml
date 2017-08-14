@@ -1,19 +1,35 @@
-name: nuclear-vertebrates
+name: genomes-nuclear-bacteria
 
 experiments:
-  all: &exp_options
+  bacteria: &exp_options
     expand_options:
-      k: 1..15
+      k: 1..12
     dataset:
-      archive: genomes-animals
-      metadata: nuclear-animals
+      archive: genomes-bacteria
+      metadata: genomes-bacteria
     groups:
-      birds:
-        taxonomy_contains: ['Aves;']
-      fish:
-        taxonomy_contains: ['Actinopterygii;', 'Chondrichthyes;', 'Hyperotreti;', 'Hyperoartia;']
-      mammals:
-        taxonomy_contains: ['Mammalia;']
+      Actinobacteria:
+        taxonomy_contains: ['Bacteria; Actinobacteria;']
+      Bacteroidetes:
+        taxonomy_contains: ['Bacteria; Bacteroidetes;']
+      Firmicutes:
+        taxonomy_contains: ['Bacteria; Firmicutes;']
+      Proteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria;']
+
+  proteobacteria:
+    <<: *exp_options
+    groups:
+      Alphaproteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria; Alphaproteobacteria;']
+      Betaproteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria; Betaproteobacteria;']
+      Deltaproteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria; Deltaproteobacteria;']
+      Epsilonproteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria; Epsilonproteobacteria;']
+      Gammaproteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria; Gammaproteobacteria;']
 
 steps:
   - type: select

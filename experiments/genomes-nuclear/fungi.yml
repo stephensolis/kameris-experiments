@@ -1,19 +1,19 @@
-name: nuclear-archaea
+name: genomes-nuclear-fungi
 
 experiments:
   all: &exp_options
     expand_options:
       k: 1..15
     dataset:
-      archive: genomes-archaea
-      metadata: nuclear-archaea
+      archive: genomes-fungi
+      metadata: genomes-fungi
     groups:
-      Euryarchaeota:
-        taxonomy_contains: ['Archaea; Euryarchaeota;']
-      Thaumarchaeota:
-        taxonomy_contains: ['Archaea; Thaumarchaeota;']
-      Crenarchaeota:
-        taxonomy_contains: ['Archaea; Crenarchaeota;']
+      Pezizomycotina:
+        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;']
+      Saccharomycotina:
+        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;']
+      Basidiomycota:
+        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Basidiomycota;']
 
 steps:
   - type: select

@@ -1,19 +1,17 @@
-name: nuclear-fungi
+name: genomes-nuclear-plants
 
 experiments:
   all: &exp_options
     expand_options:
       k: 1..15
     dataset:
-      archive: genomes-fungi
-      metadata: nuclear-fungi
+      archive: genomes-plants
+      metadata: genomes-plants
     groups:
-      Pezizomycotina:
-        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;']
-      Saccharomycotina:
-        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;']
-      Basidiomycota:
-        taxonomy_contains: ['Eukaryota; Fungi; Dikarya; Basidiomycota;']
+      Eudicots:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons;']
+      Liliopsida:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida;']
 
 steps:
   - type: select
