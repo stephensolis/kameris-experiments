@@ -3,7 +3,7 @@ name: plasmid-bacteria
 experiments:
   refseq: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..10
     dataset:
       archive: plasmid-refseq
       archive_folder: refseq

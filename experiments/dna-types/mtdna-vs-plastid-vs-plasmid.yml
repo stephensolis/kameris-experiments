@@ -3,7 +3,7 @@ name: dna-types-mtdna-vs-plastid-vs-plasmid
 experiments: !!omap
   - refseq: &exp_options
       expand_options:
-        k: 1..11
+        k: 1..9
       groups:
         mtdna:
           dataset:

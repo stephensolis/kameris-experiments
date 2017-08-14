@@ -3,7 +3,7 @@ name: genomes-nuclear-archaea
 experiments:
   all: &exp_options
     expand_options:
-      k: 1..15
+      k: 1..14
     dataset:
       archive: genomes-archaea
       metadata: genomes-archaea

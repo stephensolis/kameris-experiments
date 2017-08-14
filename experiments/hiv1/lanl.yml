@@ -3,7 +3,7 @@ name: hiv1-lanl
 experiments:
   subtype: &exp_options
     expand_options: &expand_options
-      k: 1..11
+      k: 1..10
       min_group_pts:
         - 18 # 26 with rc/9 without
         - 50 # 16 with rc/8 without
@@ -58,8 +58,6 @@ experiments:
 
   recombinant-vs-normal:
     <<: *exp_options
-    expand_options:
-      k: 1..11
     include_recombinants: true
     groups:
       recombinant:

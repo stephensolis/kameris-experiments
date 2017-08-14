@@ -4,7 +4,7 @@ experiments:
   cds: &exp_options
     expand_options:
       k: 1..11
-      sample_len: ['all', 150000, 50000, 10000, 5000]
+      sample_len: [1000000, 150000, 50000, 10000, 5000]
     dataset:
       archive: mmetsp
       archive_folder: cds

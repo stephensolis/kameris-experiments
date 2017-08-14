@@ -3,7 +3,7 @@ name: mtdna-plants-animals-fungi-protists
 experiments:
   refseq: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..10
     dataset:
       archive: mtdna-refseq
       archive_folder: refseq
@@ -20,8 +20,6 @@ experiments:
 
   all:
     <<: *exp_options
-    expand_options:
-      k: 1..10
     dataset:
       archive: mtdna-all
       archive_folder: all
