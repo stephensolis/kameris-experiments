@@ -64,13 +64,17 @@ steps:
     validation_count: 10
     classifiers:
       - 10-nearest-neighbors
+      - nearest-centroid-mean
+      - nearest-centroid-median
+      - logistic-regression
+      - sgd
       - linear-svm
       - quadratic-svm
-      #- rbf-svm # not very accurate
-      - gaussian-naive-bayes
+      - rbf-svm
       - decision-tree
       - random-forest
-      - logistic-regression
-      - nearest-centroid-mean
-      #- neural-network # not very accurate
-      - nearest-centroid-median
+      - adaboost
+      - gaussian-naive-bayes
+      - lda
+      - qda
+      - multilayer-perceptron

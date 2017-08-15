@@ -1,36 +1,36 @@
 name: dna-types-mtdna-vs-plastid
 
-experiments: !!omap
-  - refseq: &exp_options
-      expand_options:
-        k: 1..10
-      groups:
-        mtdna:
-          dataset:
-            archive: mtdna-refseq
-            archive_folder: refseq
-            metadata: mtdna-refseq
-        plastid:
-          dataset:
-            archive: plastid-refseq
-            archive_folder: refseq
-            metadata: plastid-refseq
+experiments:
+  refseq: &exp_options
+    expand_options:
+      k: 1..10
+    groups:
+      mtdna:
+        dataset:
+          archive: mtdna-refseq
+          archive_folder: refseq
+          metadata: mtdna-refseq
+      plastid:
+        dataset:
+          archive: plastid-refseq
+          archive_folder: refseq
+          metadata: plastid-refseq
 
-  - all:
-      <<: *exp_options
-      expand_options:
-        k: 1..9
-      groups:
-        mtdna:
-          dataset:
-            archive: mtdna-all
-            archive_folder: all
-            metadata: mtdna-all
-        cpdna:
-          dataset:
-            archive: plastid-cp-all
-            archive_folder: cp-all
-            metadata: plastid-cp-all
+  all:
+    <<: *exp_options
+    expand_options:
+      k: 1..9
+    groups:
+      mtdna:
+        dataset:
+          archive: mtdna-all
+          archive_folder: all
+          metadata: mtdna-all
+      cpdna:
+        dataset:
+          archive: plastid-cp-all
+          archive_folder: cp-all
+          metadata: plastid-cp-all
 
 steps:
   - type: select
@@ -60,16 +60,20 @@ steps:
     validation_count: 10
     classifiers:
       - 10-nearest-neighbors
+      - nearest-centroid-mean
+      - nearest-centroid-median
+      - logistic-regression
+      - sgd
       - linear-svm
       - quadratic-svm
-      #- rbf-svm # not very accurate
-      - gaussian-naive-bayes
+      - rbf-svm
       - decision-tree
       - random-forest
-      - logistic-regression
-      - nearest-centroid-mean
-      #- neural-network # not very accurate
-      - nearest-centroid-median
+      - adaboost
+      - gaussian-naive-bayes
+      - lda
+      - qda
+      - multilayer-perceptron
 
   - type: classify
     features_type: mmg-dists
