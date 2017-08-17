@@ -5,10 +5,10 @@ files:
     md5: 73659fd447958823c0d6fb2777e125f0
   cpdna-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-all.json
-    md5: 5859bea44fc788c98f93523620ec84da
+    md5: 4a396b55026b468c3bfe7e01254bf1e7
   cpdna-taxa.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-taxa.json
-    md5: 92d6baea75835cf09901a5846109fd28
+    md5: 331c5a256707416975d68ea0085889fb
   dengue-ncbi-whole.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/dengue-ncbi-whole.json
     md5: 89b338f6fbc3877076f2f1adc522c6b5
@@ -44,7 +44,7 @@ files:
     md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
   hiv1-lanl-pol.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-pol.json
-    md5: fc5c5b1f8ad552172244a8023a9abfb9
+    md5: b4bf104759e9ecb1bc7e280336f904dd
   hiv1-lanl-whole.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-whole.json
     md5: b373f4f5b37683b7f3662eb61453ab67
@@ -53,28 +53,28 @@ files:
     md5: af9eb1c8c94fc1cb18a1ee740f82e5e0
   mtdna-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-all.json
-    md5: da93bdc9132440f122e810b29d89327f
+    md5: e0cfa25b5b94ac96ece819fb2e71cf21
   mtdna-human-haplogroups.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-human-haplogroups.json
     md5: 0ff3f3395564ffedaaa6a12e83c28950
   mtdna-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-refseq.json
-    md5: b44131d0f8b42753980da77d1f425a4a
+    md5: f3a392a48c8f7eeaf5cc0e1f5fa3fe07
   mtdna-taxa.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-taxa.json
-    md5: fe91a51e2d44e89fbb97142c998925bc
+    md5: 6463ca02e21d6ef48443b17eaf5840f1
   plasmid-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-all.json
-    md5: 740df32fdbbaad0308f299bd19002c1e
+    md5: 60e23f2a95a2c8d4687420fd88fb20d3
   plasmid-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-refseq.json
-    md5: b666d95622b6e463e30bbd4f3e6bf860
+    md5: 013620655a71a4eb2bb882617d585d50
   plastid-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-refseq.json
     md5: 77e813be2f7457f342f8c8ef64e135ae
   viruses-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-all.json
-    md5: 2403d459486acc912420d09a8d081ab0
+    md5: bf2476bec8537fab2e14e65a8e95be88
   viruses-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-refseq.json
     md5: a02016b9f21de629e3a321502a21a545
