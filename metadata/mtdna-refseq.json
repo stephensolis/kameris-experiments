@@ -40430,8 +40430,8 @@
   {
     "taxonomy": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii; Salmoniformes; Salmonidae; Coregoninae; Coregonus",
     "length": 16739,
-    "name": "Coregonus chadary mitochondrion, complete genome",
-    "id": "NC_030175.1"
+    "name": "Coregonus nasus mitochondrion, complete genome",
+    "id": "NC_020760.1"
   },
   {
     "taxonomy": "Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta; Pterygota; Neoptera; Holometabola; Hymenoptera; Apocrita; Aculeata; Vespoidea; Formicidae; Myrmicinae; Vollenhovia",
@@ -42948,10 +42948,10 @@
     "id": "NC_031632.1"
   },
   {
-    "taxonomy": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Cypriniformes; Catostomidae; Thoburnia",
+    "taxonomy": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Cypriniformes; Catostomidae; Moxostoma",
     "length": 16626,
-    "name": "Thoburnia rhothoeca mitochondrial DNA, complete genome",
-    "id": "NC_031633.1"
+    "name": "Moxostoma congestum mitochondrion, complete genome",
+    "id": "NC_013074.1"
   },
   {
     "taxonomy": "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Cypriniformes; Balitoridae; Homaloptera",

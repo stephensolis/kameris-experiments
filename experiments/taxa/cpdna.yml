@@ -3,7 +3,7 @@ name: taxa-cpdna
 experiments: |
   lambda:
     import json, os
-    with open(os.path.join({metadata_dir!r}, 'plastid-cp-taxa.json'), 'r') as f:
+    with open(os.path.join({metadata_dir!r}, 'cpdna-taxa.json'), 'r') as f:
       metadata = json.load(f)
     exp_options = {{}}
     for group in metadata:
@@ -21,9 +21,9 @@ experiments: |
             'k': '1..11'
           }},
           'dataset': {{
-            'archive': 'plastid-cp-all',
+            'archive': 'cpdna-all',
             'archive_folder': 'cp-all',
-            'metadata': 'plastid-cp-taxa'
+            'metadata': 'cpdna-taxa'
           }},
           'groups': {{
             subgroup: {{

@@ -2124,8 +2124,8 @@
     "taxonomy": "Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus"
   },
   {
-    "name": "Staphylococcus equorum UMC-CNS-924 plasmid pLNU1 SEQU924Contig30, whole genome shotgun sequence, complete sequence",
-    "id": "AVBD01000030.1",
+    "name": "Staphylococcus chromogenes plasmid pLNU1, isolate TS1",
+    "id": "NC_007768.1",
     "length": 2361,
     "taxonomy": "Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus"
   },
@@ -6466,12 +6466,6 @@
     "id": "CP021792.1",
     "length": 1743,
     "taxonomy": "Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Zymomonas"
-  },
-  {
-    "name": "Sinorhizobium meliloti strain USDA1157 plasmid psymA, complete sequence",
-    "id": "CP021794.1",
-    "length": 1433621,
-    "taxonomy": "Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Sinorhizobium/Ensifer group; Sinorhizobium"
   },
   {
     "name": "Salmonella enterica subsp. enterica serovar India str. SA20085604 plasmid unnamed1, complete sequence",
@@ -37632,8 +37626,8 @@
     "taxonomy": "Bacteria; Firmicutes; Bacilli; Lactobacillales; Carnobacteriaceae; Carnobacterium"
   },
   {
-    "name": "Staphylococcus aureus subsp. aureus Z172 plasmid pZ172_2, complete sequence",
-    "id": "NC_022605.1",
+    "name": "Staphylococcus aureus subsp. aureus TW20, plasmid pTW20_2",
+    "id": "NC_017332.1",
     "length": 3011,
     "taxonomy": "Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus"
   },
@@ -43542,8 +43536,8 @@
     "taxonomy": "Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella"
   },
   {
-    "name": "Bacillus velezensis strain JS25R plasmid pBMJS25R, complete sequence",
-    "id": "NZ_CP009680.1",
+    "name": "Bacillus amyloliquefaciens subsp. plantarum NAU-B3 plasmid pBamNAU-B3a",
+    "id": "NC_022531.1",
     "length": 8438,
     "taxonomy": "Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus; Bacillus amyloliquefaciens group"
   },
@@ -43698,8 +43692,8 @@
     "taxonomy": "Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella"
   },
   {
-    "name": "Klebsiella pneumoniae subsp. pneumoniae strain KPNIH33 plasmid pEA1509_B, complete sequence",
-    "id": "NZ_CP009772.1",
+    "name": "Enterobacter aerogenes EA1509E plasmid pEA1509_B",
+    "id": "NC_020182.1",
     "length": 9294,
     "taxonomy": "Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella"
   },
@@ -48564,8 +48558,8 @@
     "taxonomy": "Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella"
   },
   {
-    "name": "Klebsiella pneumoniae strain KP617 plasmid KP-plasmid2, complete sequence",
-    "id": "NZ_CP012755.1",
+    "name": "Klebsiella pneumoniae subsp. pneumoniae PittNDM01 plasmid4, complete sequence",
+    "id": "NZ_CP006802.1",
     "length": 6141,
     "taxonomy": "Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella"
   },

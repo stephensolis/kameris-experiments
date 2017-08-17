@@ -28,9 +28,9 @@ experiments:
           metadata: mtdna-all
       cpdna:
         dataset:
-          archive: plastid-cp-all
+          archive: cpdna-all
           archive_folder: cp-all
-          metadata: plastid-cp-all
+          metadata: cpdna-all
 
 steps:
   - type: select

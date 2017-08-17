@@ -1,11 +1,53 @@
 files:
   # metadata
-  hiv1-art.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-art.json
+  1kplants.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/1kplants.json
+    md5: 73659fd447958823c0d6fb2777e125f0
+  cpdna-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-all.json
+    md5: 5859bea44fc788c98f93523620ec84da
+  cpdna-taxa.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-taxa.json
+    md5: 92d6baea75835cf09901a5846109fd28
+  dengue-ncbi-whole.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/dengue-ncbi-whole.json
+    md5: 89b338f6fbc3877076f2f1adc522c6b5
+  flu-ncbi.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/flu-ncbi.json
+    md5: 660b60c97dc3d29f7d03cd5e0aa07b2e
+  genomes-animals.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-animals.json
+    md5: 1b0857b1e35193a09a1ad226eb635da6
+  genomes-archaea.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-archaea.json
+    md5: 179933dc512475a087836779b9feecbb
+  genomes-bacteria.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-bacteria.json
+    md5: 43c18e5990b7702a71411735525443ee
+  genomes-fungi.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-fungi.json
+    md5: f7ab44dd27a998403f3f572f73bad15f
+  genomes-plants.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-plants.json
+    md5: d7c66fdc9bf7dcc41d1eef00844a9c37
+  genomes-protists.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-protists.json
+    md5: 124ec173d35ae1179623c92e3bc0f764
+  hbv-ibcp-whole.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hbv-ibcp-whole.json
+    md5: 3d445bf52dd8542e88e90081bd2e0ec4
+  hcv-lanl-whole.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hcv-lanl-whole.json
+    md5: 3861c1e855a80ac8020aee34662096cd
+  hiv1-art-pol.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-art-pol.json
     md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
-  hiv1-lanl.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl.json
-    md5: ce33aedc39b09e87e1d7e6d7d02e7f64
+  hiv1-lanl-pol.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-pol.json
+    md5: fc5c5b1f8ad552172244a8023a9abfb9
+  hiv1-lanl-whole.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-whole.json
+    md5: b373f4f5b37683b7f3662eb61453ab67
   mmetsp.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mmetsp.json
     md5: af9eb1c8c94fc1cb18a1ee740f82e5e0
@@ -17,40 +59,16 @@ files:
     md5: 0ff3f3395564ffedaaa6a12e83c28950
   mtdna-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-refseq.json
-    md5: 7bbe98a5e9a82b9e7afee870cfc3271f
+    md5: b44131d0f8b42753980da77d1f425a4a
   mtdna-taxa.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-taxa.json
     md5: fe91a51e2d44e89fbb97142c998925bc
-  nuclear-animals.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-animals.json
-    md5: 1b0857b1e35193a09a1ad226eb635da6
-  nuclear-archaea.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-archaea.json
-    md5: 179933dc512475a087836779b9feecbb
-  nuclear-bacteria.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-bacteria.json
-    md5: 43c18e5990b7702a71411735525443ee
-  nuclear-fungi.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-fungi.json
-    md5: f7ab44dd27a998403f3f572f73bad15f
-  nuclear-plants.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-plants.json
-    md5: d7c66fdc9bf7dcc41d1eef00844a9c37
-  nuclear-protists.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/nuclear-protists.json
-    md5: 124ec173d35ae1179623c92e3bc0f764
   plasmid-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-all.json
-    md5: 5d23fe58049e38e006d0decbde6e9a9c
+    md5: 740df32fdbbaad0308f299bd19002c1e
   plasmid-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-refseq.json
-    md5: 7a2ad1219cee81bb0658fd8bda11a120
-  plastid-cp-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-cp-all.json
-    md5: 5859bea44fc788c98f93523620ec84da
-  plastid-cp-taxa.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-cp-taxa.json
-    md5: b8733adebbd92fd2cfd377a750f7ddea
+    md5: b666d95622b6e463e30bbd4f3e6bf860
   plastid-refseq.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-refseq.json
     md5: 77e813be2f7457f342f8c8ef64e135ae
@@ -62,57 +80,54 @@ files:
     md5: a02016b9f21de629e3a321502a21a545
 
   # archives
-  genomes-animals-a_g.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=008e94eff141d4e7aa47682c62ad90e62&authkey=AR7WMnIgX-R1Lc1cNrqm1Ww
-    md5: 4d309f8bfab10d2bc2e4fb2df86b8ba5
-  genomes-animals-h_n.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=04a6aa82cff804fb7ac089cb7b71f12bc&authkey=ATlIPUaFTCYbIF71SouY6OA
-    md5: 70f75a881e66ce2973eaaabf1d177833
-  genomes-animals-o_z.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0fd7747a22451477f83e1d98369fd56a8&authkey=AfacnDpQ6ewaPyBb3wDNVlo
-    md5: 395ecd4303a4d1dee63ca1d4467d0eda
+  1kplants.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvU0RJSDMtbjZVZDQ
+    md5: bdd7821189b0f0438a8471e399f2b30f
+  dengue.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTHZPTEdZOC1JNUE
+    md5: a9f35debf4415b2a67b1ea571433fc08
+  flu.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvNV9yTmJYU00wUmM
+    md5: f43c8d662acc00fde7fcabbb8d23d5c3
+  genomes-animals.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvODRWRnBCQlJiNW8
+    md5: 4982906b52226b0e4b7c44611359f675
   genomes-archaea.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=034bf6445d7ab4c9ca446c5fb8d7f63ef&authkey=AV-7a9Kg_1UkjwcWuLRBD9w
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvSk94cFhQMk92c28
     md5: 06d498610f6d5bf9742d3c2f1df357a6
   genomes-bacteria.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0bb6490de3084451eaffa4269173ce0d9&authkey=Abu2cn0zDdNwLTX2cqMH2uk
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMDluZm5VdnEtSUE
     md5: 666f2221c98a0895dc210eb3c74f5766
   genomes-fungi.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=018b4a4176aed40f987b3969b4a1a547e&authkey=AdWfZTEY9o4OibojbkAtpWs
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvVGptcTJJamw5amc
     md5: 15bce50b2cc04cdf22f8f8939714f1ea
   genomes-plants.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f374aa4a66ad455591e85422ba908f8b&authkey=AY3w96Uss0Pg-8GgoXUNdqE
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvQUx6V2xfUEplSTg
     md5: 0b99f57fabc4affa9c3c4b98cee83ff7
   genomes-protists.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0896e2b4e445b4aed8ccdd22adf774ded&authkey=Ae4bK3mHosciQgoXp8djIEY
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTkZJRnZESVV0Tmc
     md5: b3b55eede261cda229775f7f008c10e7
+  hbv.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMFNiY1VyZ1MtZUE
+    md5: f9833fded8a0bd30f346c1b620c0955d
+  hcv.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvZ2QzZTh1TFJKZE0
+    md5: e6be225d82621a35150f18ffa16bb1c3
   hiv1.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0e12855abac2e42288dacebe17951e206&authkey=ASDNjaXgQhzk-HoC9a1TE7U
-    md5: d92b0818cd91d0c87521c38efa0cfe73
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvbXpwR1BNOHJ3dWs
+    md5: 036d4bc9ff825840e27b88f06567d304
   mmetsp.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=03e830de3e7c44d68a1a52918d062f5f3&authkey=AcexjJCjBe8xo0hb82XrYhk
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvX2tjNF9lbkdiTWs
     md5: e7dc8c58aba542a0bf0abad73cc4672f
-  mtdna-all.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b679ce19a975467da0324d9bdfff1f34&authkey=AVFhOyV7RdfO5xZ5sz-jZhQ
-    md5: afaa9d6cc7544864a8b3df05ec8084fc
-  mtdna-refseq.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=035d6710f03644dfea60bb12c2208be30&authkey=AVJPvc53T0oh6_9bikpIX2Q
-    md5: a8864301a991caeca3f996812d7b5e27
-  plasmid-all.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=03bb6b7ea8d2f4b41a3dd44d3aed248fa&authkey=AQ1sqqj9qtqzrR9NqiE1JIQ
-    md5: bf475f8941bd590e248554f29a675a64
-  plasmid-refseq.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=08e806e66738843b3a303ea5276f83b92&authkey=AautsidDR4IR6qefoD71T4c
-    md5: cc17dd37d21a592030fcaf72297625fc
-  plastid-cp-all.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0f9a3570e2ead40d3a44aef779ead8e53&authkey=AT3MLzpkTPaF_-O4yETqanI
-    md5: f1ccb7e0abf6bd63f2ec48eb365d68e3
-  plastid-refseq.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b3e945dc27434883a42cab0acca8ea92&authkey=AeYDhRo8iQ_80AUwZakNs9k
-    md5: 793f746d540a8839ebecc44b71fe5003
-  viruses-all.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0e8c81928878740f6aec260e9b64707d8&authkey=ATUVXXA3pvJ7RBW4DBfphYk
-    md5: 7218e312f5734580b41750d77bc772d4
-  viruses-refseq.zip:
-    url: https://uwoca-my.sharepoint.com/personal/ssolisre_uwo_ca/_layouts/15/download.aspx?docid=0b5077a21b98b43d89c59ba88d0943618&authkey=AWTxy_SlD2H-IvoUjAFxyV8
-    md5: dc502eccd7ab1820406b4735b39a55ef
+  mtdna.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvaExHUmhxV253WUU
+    md5: 409dddce9dc47487a8281edf7f83cbc5
+  plasmids.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdlFkVGJUNkRZdjQ
+    md5: dbc3bd2d3fe6d9e6395b248c9db1010d
+  plastids.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvM0lKT2JDMXh5RU0
+    md5: 79078975595c50d8b8a179157ad345ad
+  viruses.zip:
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdE9NcDEzaTNWYk0
+    md5: 93218cf13d8b44387620a1bd8a27480f

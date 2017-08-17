@@ -4531,7 +4531,7 @@
       },
       {
         "name": "Oryza sativa Japonica Group chloroplast genome",
-        "id": "X15901.1",
+        "id": "NC_001320.1",
         "length": 134525,
         "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza"
       }
@@ -4981,7 +4981,7 @@
       },
       {
         "name": "Nicotiana tabacum chloroplast genome DNA",
-        "id": "Z00044.2",
+        "id": "NC_001879.2",
         "length": 155943,
         "taxonomy": "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Nicotianoideae; Nicotianeae; Nicotiana"
       }
