@@ -5,6 +5,7 @@ experiments:
     expand_options:
       k: 1..11
       sample_len: [1000000, 150000, 50000, 10000, 5000]
+      samples_per_organism: [1, 10, 20]
     dataset:
       archive: mmetsp
       archive_folder: cds
@@ -39,14 +40,17 @@ steps:
         if {sample_len} == 'all':
           return [(metadata_entry, [''.join(entry_sequences)])]
         else:
-          seq = ''
-          choices = []
-          random_indexes = np.random.permutation(len(entry_sequences)).tolist()
-          while len(seq) < {sample_len} and len(random_indexes) > 0:
-            idx = random_indexes.pop()
-            choices.append(idx)
-            seq += entry_sequences[idx]
-          return [(dict(metadata_entry, sample_indexes=choices), [seq])]
+          samples = []
+          for _ in range({samples_per_organism}):
+            seq = ''
+            choices = []
+            random_indexes = np.random.permutation(len(entry_sequences)).tolist()
+            while len(seq) < {sample_len} and len(random_indexes) > 0:
+              idx = random_indexes.pop()
+              choices.append(idx)
+              seq += entry_sequences[idx]
+            samples.append((dict(metadata_entry, sample_indexes=choices), [seq]))
+          return samples
 
   - type: command
     command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'
