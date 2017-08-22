@@ -1,4 +1,4 @@
-name: hiv1-lanl
+name: hiv1-lanl-whole
 
 experiments:
   subtype: &exp_options
@@ -10,8 +10,8 @@ experiments:
       include_recombinants: [true, false]
     dataset:
       archive: hiv1
-      archive_folder: lanl
-      metadata: hiv1-lanl
+      archive_folder: lanl-whole
+      metadata: hiv1-lanl-whole
     selection_key: subtype
     groups: |
       lambda:

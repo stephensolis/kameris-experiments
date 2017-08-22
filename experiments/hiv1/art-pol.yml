@@ -1,26 +1,35 @@
-name: hiv1-real-vs-synthetic
+name: hiv1-art-pol
 
 experiments:
-  pol: &exp_options
+  subtype: &exp_options
     expand_options:
-      k: 1..10
+      k: 1..11
+    dataset:
+      archive: hiv1
+      archive_folder: art-pol
+      metadata: hiv1-art-pol
     groups:
-      real:
-        dataset:
-          archive: hiv1
-          archive_folder: lanl-pol
-          metadata: hiv1-lanl-pol
-      synthetic:
-        dataset:
-          archive: hiv1
-          archive_folder: art-pol
-          metadata: hiv1-art-pol
+      A1:
+        selection_key: subtype
+        values: [A1]
+      A2:
+        selection_key: subtype
+        values: [A2]
+      B:
+        selection_key: subtype
+        values: [B]
+      C:
+        selection_key: subtype
+        values: [C]
+      D:
+        selection_key: subtype
+        values: [D]
 
 steps:
   - type: select
     pick_group: |
       lambda metadata, group_options:
-        return metadata
+        return [x for x in metadata if x[group_options['selection_key']] in group_options['values']]
 
   - type: command
     command: '"{client_dir}/generation_manhat_info" 16 {k} "{fasta_output_dir}" "{output_dir}"'
