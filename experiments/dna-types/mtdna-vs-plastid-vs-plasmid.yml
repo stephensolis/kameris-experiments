@@ -7,38 +7,32 @@ experiments:
     groups:
       mtdna:
         dataset:
-          archive: mtdna-refseq
-          archive_folder: refseq
+          archive: mtdna
           metadata: mtdna-refseq
       plastid:
         dataset:
-          archive: plastid-refseq
-          archive_folder: refseq
-          metadata: plastid-refseq
+          archive: plastids
+          metadata: plastids-refseq
       plasmid:
         dataset:
-          archive: plasmid-refseq
-          archive_folder: refseq
-          metadata: plasmid-refseq
+          archive: plasmids
+          metadata: plasmids-refseq
 
   all:
     <<: *exp_options
     groups:
       mtdna:
         dataset:
-          archive: mtdna-all
-          archive_folder: all
+          archive: mtdna
           metadata: mtdna-all
       cpdna:
         dataset:
-          archive: cpdna-all
-          archive_folder: cp-all
+          archive: plastids
           metadata: cpdna-all
       plasmid:
         dataset:
-          archive: plasmid-all
-          archive_folder: all
-          metadata: plasmid-all
+          archive: plasmids
+          metadata: plasmids-all
 
 steps:
   - type: select

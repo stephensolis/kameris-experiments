@@ -63,14 +63,14 @@ files:
   mtdna-taxa.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-taxa.json
     md5: 6463ca02e21d6ef48443b17eaf5840f1
-  plasmid-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-all.json
+  plasmids-all.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmids-all.json
     md5: 60e23f2a95a2c8d4687420fd88fb20d3
-  plasmid-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmid-refseq.json
+  plasmids-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmids-refseq.json
     md5: 013620655a71a4eb2bb882617d585d50
-  plastid-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastid-refseq.json
+  plastids-refseq.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastids-refseq.json
     md5: 77e813be2f7457f342f8c8ef64e135ae
   viruses-all.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-all.json

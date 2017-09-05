@@ -9,8 +9,7 @@ experiments:
         - 100 # 66 groups
         - 200 # 27 groups
     dataset:
-      archive: mtdna-all
-      archive_folder: all
+      archive: mtdna
       metadata: mtdna-human-haplogroups
     groups: |
       lambda:

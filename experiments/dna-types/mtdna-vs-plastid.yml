@@ -7,14 +7,12 @@ experiments:
     groups:
       mtdna:
         dataset:
-          archive: mtdna-refseq
-          archive_folder: refseq
+          archive: mtdna
           metadata: mtdna-refseq
       plastid:
         dataset:
-          archive: plastid-refseq
-          archive_folder: refseq
-          metadata: plastid-refseq
+          archive: plastids
+          metadata: plastids-refseq
 
   all:
     <<: *exp_options
@@ -23,13 +21,11 @@ experiments:
     groups:
       mtdna:
         dataset:
-          archive: mtdna-all
-          archive_folder: all
+          archive: mtdna
           metadata: mtdna-all
       cpdna:
         dataset:
-          archive: cpdna-all
-          archive_folder: cp-all
+          archive: plastids
           metadata: cpdna-all
 
 steps:

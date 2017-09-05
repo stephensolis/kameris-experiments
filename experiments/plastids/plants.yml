@@ -1,26 +1,28 @@
-name: plastid-protists
+name: plastids-plants
 
 experiments:
   refseq: &exp_options
     expand_options:
       k: 1..11
     dataset:
-      archive: plastid-refseq
-      archive_folder: refseq
-      metadata: plastid-refseq
+      archive: plastids
+      metadata: plastids-refseq
     groups:
-      Alveolata:
-        taxonomy_contains: ['Eukaryota; Alveolata;']
-      Stramenopiles:
-        taxonomy_contains: ['Eukaryota; Stramenopiles;']
-      Rhodophyta:
-        taxonomy_contains: ['Eukaryota; Rhodophyta;']
+      Chlorophyta:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Chlorophyta;']
+      Rosids:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids;']
+      Asterids:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids;']
+      Poales:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales;']
+      Asparagales:
+        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales;']
 
   all:
     <<: *exp_options
     dataset:
-      archive: cpdna-all
-      archive_folder: cp-all
+      archive: plastids
       metadata: cpdna-all
 
 steps:

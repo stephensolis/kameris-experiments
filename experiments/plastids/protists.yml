@@ -1,36 +1,31 @@
-name: plasmid-bacteria
+name: plastids-protists
 
 experiments:
   refseq: &exp_options
     expand_options:
-      k: 1..10
+      k: 1..11
     dataset:
-      archive: plasmid-refseq
-      archive_folder: refseq
-      metadata: plasmid-refseq
+      archive: plastids
+      metadata: plastids-refseq
     groups:
-      Actinobacteria:
-        taxonomy_contains: ['Bacteria; Actinobacteria;']
-      Spirochaetes:
-        taxonomy_contains: ['Bacteria; Spirochaetes;']
-      Firmicutes:
-        taxonomy_contains: ['Bacteria; Firmicutes;']
-      Proteobacteria:
-        taxonomy_contains: ['Bacteria; Proteobacteria;']
+      Alveolata:
+        taxonomy_contains: ['Eukaryota; Alveolata;']
+      Stramenopiles:
+        taxonomy_contains: ['Eukaryota; Stramenopiles;']
+      Rhodophyta:
+        taxonomy_contains: ['Eukaryota; Rhodophyta;']
 
   all:
     <<: *exp_options
     dataset:
-      archive: plasmid-all
-      archive_folder: all
-      metadata: plasmid-all
+      archive: plastids
+      metadata: cpdna-all
 
 steps:
   - type: select
     pick_group: |
       lambda metadata, group_options:
-        return [x for x in metadata if any(tax_str in x['taxonomy'] for tax_str in group_options['taxonomy_contains'])
-                                    and 'cds' not in x['name'] and 'CDS' not in x['name']]
+        return [x for x in metadata if any(tax_str in x['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
 
   - type: command
     command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'

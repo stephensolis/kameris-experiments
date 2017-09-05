@@ -5,8 +5,7 @@ experiments:
     expand_options:
       k: 1..10
     dataset:
-      archive: viruses-all
-      archive_folder: all
+      archive: viruses
       metadata: viruses-all
     groups:
       Alphasatellites:

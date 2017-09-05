@@ -1,37 +1,34 @@
-name: plastid-plants
+name: plasmids-bacteria
 
 experiments:
   refseq: &exp_options
     expand_options:
-      k: 1..11
+      k: 1..10
     dataset:
-      archive: plastid-refseq
-      archive_folder: refseq
-      metadata: plastid-refseq
+      archive: plasmids
+      metadata: plasmids-refseq
     groups:
-      Chlorophyta:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Chlorophyta;']
-      Rosids:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids;']
-      Asterids:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids;']
-      Poales:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales;']
-      Asparagales:
-        taxonomy_contains: ['Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales;']
+      Actinobacteria:
+        taxonomy_contains: ['Bacteria; Actinobacteria;']
+      Spirochaetes:
+        taxonomy_contains: ['Bacteria; Spirochaetes;']
+      Firmicutes:
+        taxonomy_contains: ['Bacteria; Firmicutes;']
+      Proteobacteria:
+        taxonomy_contains: ['Bacteria; Proteobacteria;']
 
   all:
     <<: *exp_options
     dataset:
-      archive: cpdna-all
-      archive_folder: cp-all
-      metadata: cpdna-all
+      archive: plasmids
+      metadata: plasmids-all
 
 steps:
   - type: select
     pick_group: |
       lambda metadata, group_options:
-        return [x for x in metadata if any(tax_str in x['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
+        return [x for x in metadata if any(tax_str in x['taxonomy'] for tax_str in group_options['taxonomy_contains'])
+                                    and 'cds' not in x['name'] and 'CDS' not in x['name']]
 
   - type: command
     command: '"{client_dir}/generation_manhat_info" 32 {k} "{fasta_output_dir}" "{output_dir}"'

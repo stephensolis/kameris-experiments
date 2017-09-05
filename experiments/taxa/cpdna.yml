@@ -21,8 +21,7 @@ experiments: |
             'k': '1..11'
           }},
           'dataset': {{
-            'archive': 'cpdna-all',
-            'archive_folder': 'cp-all',
+            'archive': 'cpdna',
             'metadata': 'cpdna-taxa'
           }},
           'groups': {{

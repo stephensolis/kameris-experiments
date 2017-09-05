@@ -1,13 +1,12 @@
-name: plasmid-proteobacteria
+name: plasmids-proteobacteria
 
 experiments:
   refseq: &exp_options
     expand_options:
       k: 1..11
     dataset:
-      archive: plasmid-refseq
-      archive_folder: refseq
-      metadata: plasmid-refseq
+      archive: plasmids
+      metadata: plasmids-refseq
     groups:
       Alphaproteobacteria:
         taxonomy_contains: ['Bacteria; Proteobacteria; Alphaproteobacteria;']
@@ -21,9 +20,8 @@ experiments:
     expand_options:
       k: 1..10
     dataset:
-      archive: plasmid-all
-      archive_folder: all
-      metadata: plasmid-all
+      archive: plasmids
+      metadata: plasmids-all
 
 steps:
   - type: select

@@ -9,6 +9,7 @@ hbv-ibcp: https://hbvdb.ibcp.fr/HBVdb/HBVdbDataset?seqtype=0 || on: 8/10/17
 hcv-lanl: https://hcv.lanl.gov/components/sequence/HCV/search/searchi.html, excluding recombinants, excluding no genotype, genomic region: complete genome, excluding problematic || on: 8/10/17
 
 hiv1-lanl-whole: https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html, virus: HIV-1, genomic region: complete genome, excluding problematic || on: 5/18/17, listed GenBank update: 5/6/17
+hiv1-lanl-pol: ...
 hiv1-art-pol: batch-indelible5.aliview.fa, from Art
 
 mmetsp: http://imicrobe.us/project/view/104, ftp://ftp.imicrobe.us/projects/104/samples/

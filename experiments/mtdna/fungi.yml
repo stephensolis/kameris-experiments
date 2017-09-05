@@ -5,8 +5,7 @@ experiments:
     expand_options:
       k: 1..11
     dataset:
-      archive: mtdna-refseq
-      archive_folder: refseq
+      archive: mtdna
       metadata: mtdna-refseq
     groups:
       Pezizomycotina:
@@ -19,8 +18,7 @@ experiments:
   all:
     <<: *exp_options
     dataset:
-      archive: mtdna-all
-      archive_folder: all
+      archive: mtdna
       metadata: mtdna-all
 
 steps:

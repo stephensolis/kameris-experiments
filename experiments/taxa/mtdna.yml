@@ -21,8 +21,7 @@ experiments: |
             'k': '1..11'
           }},
           'dataset': {{
-            'archive': 'mtdna-all',
-            'archive_folder': 'all',
+            'archive': 'mtdna',
             'metadata': 'mtdna-taxa'
           }},
           'groups': {{
