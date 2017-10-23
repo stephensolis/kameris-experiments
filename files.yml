@@ -38,16 +38,19 @@ files:
     md5: 3d445bf52dd8542e88e90081bd2e0ec4
   hcv-lanl-whole.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hcv-lanl-whole.json
-    md5: 3861c1e855a80ac8020aee34662096cd
-  hiv1-art-pol.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-art-pol.json
-    md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
+    md5: b167e58d156e6d8002fdacbce706c00f
   hiv1-lanl-pol.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-pol.json
-    md5: b4bf104759e9ecb1bc7e280336f904dd
+    md5: 57421fab953689b987b6aae8942f93b0
   hiv1-lanl-whole.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-whole.json
-    md5: b373f4f5b37683b7f3662eb61453ab67
+    md5: 3145ca5ea100baf2e2c16fc32b69c320
+  hiv1-mixed-polfragments.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-mixed-polfragments.json
+    md5: 3acfe683ca2a898226ca7fd6781882b6
+  hiv1-synthetic-polfragments.json:
+    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-synthetic-polfragments.json
+    md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
   mmetsp.json:
     url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mmetsp.json
     md5: af9eb1c8c94fc1cb18a1ee740f82e5e0
@@ -114,8 +117,8 @@ files:
     url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvZ2QzZTh1TFJKZE0
     md5: e6be225d82621a35150f18ffa16bb1c3
   hiv1.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvbXpwR1BNOHJ3dWs
-    md5: 036d4bc9ff825840e27b88f06567d304
+    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTva1NNYXh5WEM2Z28
+    md5: a5574b21c2bd6af0c172b5a9f892418d
   mmetsp.zip:
     url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvX2tjNF9lbkdiTWs
     md5: e7dc8c58aba542a0bf0abad73cc4672f
