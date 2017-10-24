@@ -969,56 +969,56 @@
     "id": "MMETSP0258",
     "sample_id": "1792",
     "species": "Amphidinium carterae",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Amphidinium; carterae; CCMP1314; AMPHI, AMPHI1, NEPCC32, ATCC30829",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Amphidinium; carterae; CCMP1314; AMPHI, AMPHI1, NEPCC32, ATCC30829",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0259",
     "sample_id": "1779",
     "species": "Amphidinium carterae",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Amphidinium; carterae; CCMP1314; AMPHI, AMPHI1, NEPCC32, ATCC30829",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Amphidinium; carterae; CCMP1314; AMPHI, AMPHI1, NEPCC32, ATCC30829",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0267",
     "sample_id": "1780",
     "species": "Prorocentrum minimum",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0268",
     "sample_id": "1783",
     "species": "Prorocentrum minimum",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0269",
     "sample_id": "1784",
     "species": "Prorocentrum minimum",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Prorocentrales; Prorocentraceae; Prorocentrum; minimum; CCMP2233; none",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0270",
     "sample_id": "1781",
     "species": "Scrippsiella trochoidea",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0271",
     "sample_id": "1782",
     "species": "Scrippsiella trochoidea",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0272",
     "sample_id": "1804",
     "species": "Scrippsiella trochoidea",
-    "taxonomy": "Chromalveolata; Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
+    "taxonomy": "Chromalveolata, Dinophyceae; Alveolata; Dinophyta; Dinophyceae; Peridiniales; Peridiniaceae; Scrippsiella; trochoidea; CCMP3099; 037-0205-HPKE4",
     "highlevel_group": "Alveolata (SAR, Chromalveolata)"
   },
   {
@@ -2635,56 +2635,56 @@
     "id": "MMETSP0954",
     "sample_id": "1935",
     "species": "Aplanochytrium",
-    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
+    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0955",
     "sample_id": "1941",
     "species": "Aplanochytrium",
-    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
+    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0956",
     "sample_id": "1948",
     "species": "Aplanochytrium",
-    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
+    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0957",
     "sample_id": "1955",
     "species": "Aplanochytrium",
-    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
+    "taxonomy": "Family Labyrinthulidae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Thraustochytriales; Thraustochytriaceae; Aplanochytrium; sp.; PBS07; Some strains of Aplanochytrium have been previously identified as Labyrinthuloides (e.g. minuta)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0958",
     "sample_id": "1961",
     "species": "Aurantiochytrium limacinum",
-    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
+    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0959",
     "sample_id": "1855",
     "species": "Aurantiochytrium limacinum",
-    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
+    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0960",
     "sample_id": "1918",
     "species": "Aurantiochytrium limacinum",
-    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
+    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
     "id": "MMETSP0961",
     "sample_id": "1925",
     "species": "Aurantiochytrium limacinum",
-    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux; e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
+    "taxonomy": "Family Thraustochytridae, Order Labyrinthulida, Class Labyrinthulea (the taxonomy of this group below the ordinal level is still in flux, e.g. Yokoyama and Honda 2007); Stramenopile; Labyrinthista; Labyrinthulea; Labyrinthulida; Thraustochytriidae; Aurantiochytrium; limacinum; ATCCMYA-1381; Schizochytrium limacinum NIBH SR21 [IFO 32693]; NOTE: the author who originally described this strain (Honda et al. 1998) recently changed its genus name to Aurantiochytrium (Yokoyama and Honda 2007)",
     "highlevel_group": "Stramenopila (SAR, Chromalveolata)"
   },
   {
