@@ -1,0 +1,110 @@
+name: mmetsp
+
+experiments:
+  superphylum:
+    expand_options:
+      k: 4..6
+      sample_len: [150000, 500000, 50000, 10000, 5000]
+      samples_per_organism: [1, 5, 10]
+      no_copy: true
+    dataset:
+      archive: mmetsp
+      archive_folder: nt
+      metadata: mmetsp
+    groups:
+      Stramenopila:
+        taxonomy:
+          contains: ['Stramenopile;', 'Dictyochophyceae;', 'Pelagophyceae;', 'Thraustochytriidae;']
+          not_contains: []
+        highlevel_group:
+          contains: ['Stramenopila']
+          not_contains: []
+      Hacrobia:
+        taxonomy:
+          contains: ['Hacrobia;', 'Hacrobia, ', 'Haptophyta;', 'Pavlophyceae (Haptophyceae);']
+          not_contains: []
+        highlevel_group:
+          contains: ['Hacrobia']
+          not_contains: []
+      Rhizaria:
+        taxonomy:
+          contains: ['Rhizaria;', 'Cercozoa;']
+          not_contains: ['Chlorophyta;', 'Haptophyta;']
+        highlevel_group:
+          contains: ['Rhizaria']
+          not_contains: ['Viridiplantae']
+      Alveolata:
+        taxonomy:
+          contains: ['Alveolata;', 'Karyorelictea;']
+          not_contains: ['Glaucophyta;']
+        highlevel_group:
+          contains: ['Alveolata']
+          not_contains: []
+      Archaeplastida:
+        taxonomy:
+          contains: ['Archaeplastid;', 'Archaeplastida;', 'Glaucophyta;', 'Rhodophyta;', 'Viridiplantae;', 'Prasinophyceae;']
+          not_contains: []
+        highlevel_group:
+          contains: ['Archaeplastida', 'Glaucophyta', 'Rhodophyta', 'Viridiplantae']
+          not_contains: []
+      Amoebozoa:
+        taxonomy:
+          contains: ['Amoebozoa']
+          not_contains: []
+        highlevel_group:
+          contains: ['Amoebozoa']
+          not_contains: []
+
+steps:
+  - type: select
+    pick_group: |
+      lambda metadata, group_options:
+        # these ids are in either nt or cds but not both, we omit them entirely
+        omit_ids = {{'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719',
+        # these are too short for unique samples
+                     'MMETSP0018', 'MMETSP0044', 'MMETSP0186', 'MMETSP0210', 'MMETSP0223', 'MMETSP0225', 'MMETSP0229', 'MMETSP0251', 'MMETSP0252', 'MMETSP0347', 'MMETSP0451', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719', 'MMETSP0924', 'MMETSP1018', 'MMETSP1019', 'MMETSP1147', 'MMETSP1148', 'MMETSP1317'}}
+        return [x for x in metadata if x['id'] not in omit_ids
+                                    and ((any(t in x['taxonomy'] for t in group_options['taxonomy']['contains'])
+                                          and not any(t in x['taxonomy'] for t in group_options['taxonomy']['not_contains']))
+                                         or (any(h in x['highlevel_group'] for h in group_options['highlevel_group']['contains'])
+                                             and not any(h in x['highlevel_group'] for h in group_options['highlevel_group']['not_contains'])))]
+    postprocess: |
+      lambda metadata_entry, entry_sequences:
+        import numpy as np
+        samples = []
+        for _ in range({samples_per_organism}):
+          seq = ''
+          choices = []
+          random_indexes = np.random.permutation(len(entry_sequences)).tolist()
+          while len(seq) < {sample_len}:
+            idx = random_indexes.pop()
+            choices.append(idx)
+            seq += entry_sequences[idx]
+          samples.append((dict(metadata_entry, sample_indexes=choices), [seq]))
+        return samples
+
+  - type: command
+    command: '"{client_dir}/generation_cgr" 32 {k} "{fasta_output_dir}" "{output_dir}"'
+
+  - &classify_options
+    type: classify
+    features_type: mmg-cgrs
+    features_file: cgrs.matr
+    output_file: classification-cgrs.json
+    validation_count: 10
+    classifiers:
+      - 10-nearest-neighbors
+      - nearest-centroid-mean
+      - nearest-centroid-median
+      - logistic-regression
+      - sgd
+      - linear-svm
+      - quadratic-svm
+      - rbf-svm
+      - decision-tree
+      - random-forest
+      - adaboost
+      - gaussian-naive-bayes
+      - lda
+      - qda
+      - multilayer-perceptron

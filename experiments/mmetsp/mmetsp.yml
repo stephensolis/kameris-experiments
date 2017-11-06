@@ -1,48 +1,60 @@
-name: 1kplants
+name: mmetsp
 
 experiments:
-  clade: &exp_options
+  phylum: &exp_options
     expand_options:
       k: 4..6
       sample_len: [150000, 500000, 50000, 10000, 5000]
       samples_per_organism: [1, 5, 10]
       no_copy: true
-    min_group_pts: 10
-    taxonomy_index: 0
+    min_group_pts: 8
+    taxonomy_index: 2
     dataset:
-      archive: 1kplants
-      metadata: 1kplants
+      archive: mmetsp
+      archive_folder: nt
+      metadata: mmetsp
     groups: |
       lambda:
         import collections, json, os
         with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
           metadata = json.load(f)
         counts = collections.Counter(x['taxonomy'].split('; ')[{taxonomy_index}] for x in metadata)
-        omit_groups = {{'incertae sedis'}}
+        omit_groups = {{'NULL', 'Unknown'}}
         return {{v: {{'taxonomy_str': v}} for v in counts if v and v not in omit_groups and counts[v] >= {min_group_pts}}}
+
+  class:
+    <<: *exp_options
+    taxonomy_index: 3
 
   order:
     <<: *exp_options
-    taxonomy_index: 1
+    taxonomy_index: 4
 
   family:
     <<: *exp_options
-    min_group_pts: 8
-    taxonomy_index: 2
+    taxonomy_index: 5
+
+  genus:
+    <<: *exp_options
+    taxonomy_index: 6
 
 steps:
   - type: select
     pick_group: |
       lambda metadata, group_options:
-        return [x for x in metadata if group_options['taxonomy_str'] == x['taxonomy'].split('; ')[{taxonomy_index}]]
+        # these ids are in either nt or cds but not both, we omit them entirely
+        omit_ids = {{'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719',
+        # these are too short for unique samples
+                     'MMETSP0018', 'MMETSP0044', 'MMETSP0186', 'MMETSP0210', 'MMETSP0223', 'MMETSP0225', 'MMETSP0229', 'MMETSP0251', 'MMETSP0252', 'MMETSP0347', 'MMETSP0451', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719', 'MMETSP0924', 'MMETSP1018', 'MMETSP1019', 'MMETSP1147', 'MMETSP1148', 'MMETSP1317'}}
+        return [x for x in metadata if x['id'] not in omit_ids and group_options['taxonomy_str'] == x['taxonomy'].split('; ')[{taxonomy_index}]]
     postprocess: |
       lambda metadata_entry, entry_sequences:
         import numpy as np
         samples = []
-        random_indexes = np.random.permutation(len(entry_sequences)).tolist()
         for _ in range({samples_per_organism}):
           seq = ''
           choices = []
+          random_indexes = np.random.permutation(len(entry_sequences)).tolist()
           while len(seq) < {sample_len}:
             idx = random_indexes.pop()
             choices.append(idx)
