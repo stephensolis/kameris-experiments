@@ -50,13 +50,15 @@ steps:
           samples.append((dict(metadata_entry, sample_indexes=choices), [seq]))
         return samples
 
-  - type: command
-    command: '"{client_dir}/generation_cgr" 32 {k} "{fasta_output_dir}" "{output_dir}"'
+  - type: kmers
+    output_file: cgrs.mm-repr
+    k: '{k}'
+    bits_per_element: 32
 
   - &classify_options
     type: classify
     features_type: mmg-cgrs
-    features_file: cgrs.matr
+    features_file: cgrs.mm-repr
     output_file: classification-cgrs.json
     validation_count: 10
     classifiers:

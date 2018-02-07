@@ -47,25 +47,31 @@ steps:
                         if (not group_options['name_contains'] or any(n in x['name'] for n in group_options['name_contains']))
                         and not any(n in x['name'] for n in group_options['name_not_contains'])]
 
-  - type: command
-    command: '"{client_dir}/generation_manhat_info" 16 {k} "{fasta_output_dir}" "{output_dir}"'
-    save_files: ['manhat.matr', 'info.matr']
+  - type: kmers
+    output_file: cgrs.mm-repr
+    k: '{k}'
+    bits_per_element: 16
+
+  - type: distances
+    input_file: cgrs.mm-repr
+    output_prefix: dists
+    distances: [manhat, info]
 
   - type: mds
-    dists_file: info.matr
+    dists_file: dists-info.mm-dist
     dimensions: 10
     output_file: mds10-info.json
 
   - type: mds
-    dists_file: manhat.matr
+    dists_file: dists-manhat.mm-dist
     dimensions: 10
     output_file: mds10-manhat.json
 
   - &classify_options
     type: classify
-    features_type: mmg-dists
-    features_file: info.matr
-    output_file: classification-info.json
+    features_type: mmg-repr
+    features_file: cgrs.mm-repr
+    output_file: classification-kmers.json
     validation_count: 10
     classifiers:
       - 10-nearest-neighbors
@@ -86,6 +92,12 @@ steps:
 
   - type: classify
     features_type: mmg-dists
-    features_file: manhat.matr
+    features_file: dists-manhat.mm-dist
     output_file: classification-manhat.json
+    <<: *classify_options
+
+  - type: classify
+    features_type: mmg-dists
+    features_file: dists-info.mm-dist
+    output_file: classification-info.json
     <<: *classify_options

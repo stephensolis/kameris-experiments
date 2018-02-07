@@ -1,7 +1,7 @@
 name: genomes-nuclear-archaea
 
 experiments:
-  all: &exp_options
+  all:
     expand_options:
       k: 1..14
     dataset:
@@ -31,20 +31,26 @@ steps:
         seq = ''.join(seqs[0] for seqs in entry_sequences)
         return [(metadata_entry, [seq])]
 
-  - type: command
-    command: '"{client_dir}/generation_manhat" 32 {k} "{fasta_output_dir}" "{output_dir}"'
-    save_files: ['manhat.matr']
+  - type: kmers
+    output_file: cgrs.mm-repr
+    k: '{k}'
+    bits_per_element: 32
+
+  - type: distances
+    input_file: cgrs.mm-repr
+    output_prefix: dists
+    distances: [manhat]
 
   - type: mds
-    dists_file: manhat.matr
+    dists_file: dists-manhat.mm-dist
     dimensions: 10
     output_file: mds10-manhat.json
 
   - &classify_options
     type: classify
-    features_type: mmg-dists
-    features_file: manhat.matr
-    output_file: classification-manhat.json
+    features_type: mmg-repr
+    features_file: cgrs.mm-repr
+    output_file: classification-kmers.json
     validation_count: 10
     classifiers:
       - 10-nearest-neighbors
@@ -62,3 +68,9 @@ steps:
       - lda
       - qda
       - multilayer-perceptron
+
+  - type: classify
+    features_type: mmg-dists
+    features_file: dists-manhat.mm-dist
+    output_file: classification-manhat.json
+    <<: *classify_options

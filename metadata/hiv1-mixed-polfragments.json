@@ -752,7 +752,7 @@
     "length": 1190,
     "group": "NEDpanel",
     "id": "AF447815.1",
-    "subtype": "F",
+    "subtype": "BF",
     "description": "HIV-1 strain BZ162 from Brazil pol protein (pol) gene, partial cds"
   },
   {
@@ -2019,7 +2019,7 @@
     "length": 1289,
     "group": "RO.Paraschiv",
     "id": "KX159019.1",
-    "subtype": "35_AD",
+    "subtype": "A1D",
     "description": "HIV-1 isolate 166BH2014 from Romania pol protein (pol) gene, partial cds"
   },
   {
@@ -2166,7 +2166,7 @@
     "length": 675,
     "group": "TH.Sirivichayakul",
     "id": "KY358995.1",
-    "subtype": "07_BC",
+    "subtype": "BC",
     "description": "HIV-1 isolate 12652 from Thailand pol protein (pol) gene, partial cds"
   },
   {
@@ -2915,7 +2915,7 @@
     "length": 732,
     "group": "TH.Sirivichayakul",
     "id": "KY358930.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 10175 from Thailand pol protein (pol) gene, partial cds"
   },
   {
@@ -3055,7 +3055,7 @@
     "length": 675,
     "group": "TH.Sirivichayakul",
     "id": "KY358980.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 13394 from Thailand pol protein (pol) gene, partial cds"
   },
   {
@@ -3286,7 +3286,7 @@
     "length": 729,
     "group": "TH.Sirivichayakul",
     "id": "KY358865.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 12351 from Thailand pol protein (pol) gene, partial cds"
   },
   {
@@ -3545,7 +3545,7 @@
     "length": 675,
     "group": "TH.Sirivichayakul",
     "id": "KY358897.1",
-    "subtype": "B",
+    "subtype": "01B",
     "description": "HIV-1 isolate 13026 from Thailand pol protein (pol) gene, partial cds"
   },
   {
@@ -4035,7 +4035,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152476.1",
-    "subtype": "B",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0405 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4084,7 +4084,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152444.1",
-    "subtype": "B",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0365 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4280,7 +4280,7 @@
     "length": 270,
     "group": "TH.Sukasem",
     "id": "DQ152420.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0339 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4560,7 +4560,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152381.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0287 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4623,7 +4623,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152445.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0366 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4658,7 +4658,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152311.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0208 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4819,7 +4819,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152284.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0179 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -4847,7 +4847,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152330.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0230 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5029,7 +5029,7 @@
     "length": 273,
     "group": "TH.Sukasem",
     "id": "DQ152430.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0349 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5106,7 +5106,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152414.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0332 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5120,7 +5120,7 @@
     "length": 270,
     "group": "TH.Sukasem",
     "id": "DQ152466.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0394 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5386,7 +5386,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152300.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0197 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5400,7 +5400,7 @@
     "length": 288,
     "group": "TH.Sukasem",
     "id": "DQ152427.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0346 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5449,7 +5449,7 @@
     "length": 270,
     "group": "TH.Sukasem",
     "id": "DQ152280.1",
-    "subtype": "01_AE",
+    "subtype": "01B",
     "description": "HIV-1 isolate 14-0175 from Thailand protease (pol) gene, partial cds"
   },
   {
@@ -5631,7 +5631,7 @@
     "length": 1260,
     "group": "UG.Eshleman",
     "id": "AF388113.1",
-    "subtype": "A",
+    "subtype": "A1D",
     "description": "HIV-1 isolate 687 from Uganda pol protein (pol) gene, partial cds"
   },
   {
@@ -6023,7 +6023,7 @@
     "length": 1260,
     "group": "UG.Eshleman",
     "id": "AF388160.1",
-    "subtype": "A",
+    "subtype": "A1D",
     "description": "HIV-1 isolate 816 from Uganda pol protein (pol) gene, partial cds"
   },
   {
@@ -6177,7 +6177,7 @@
     "length": 1260,
     "group": "UG.Eshleman",
     "id": "AF388114.1",
-    "subtype": "A",
+    "subtype": "A1D",
     "description": "HIV-1 isolate 702 from Uganda pol protein (pol) gene, partial cds"
   },
   {
