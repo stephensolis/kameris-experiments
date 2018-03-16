@@ -81,7 +81,7 @@ steps:
       - sgd
       - linear-svm
       - quadratic-svm
-      - rbf-svm
+      - cubic-svm
       - decision-tree
       - random-forest
       - adaboost

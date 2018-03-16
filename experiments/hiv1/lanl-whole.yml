@@ -3,11 +3,12 @@ name: hiv1-lanl-whole
 experiments:
   subtype: &exp_options
     expand_options: &expand_options
-      k: 1..10
+      k: 4..7
       min_group_pts:
-        - 18 # 26 with rc/9 without
-        - 50 # 16 with rc/8 without
+        - 18 # 26 groups with recombinants, 9 groups without
+        - 50 # 16 groups with recombinants, 8 groups without
       include_recombinants: [true, false]
+      no_copy: true
     dataset:
       archive: hiv1
       archive_folder: lanl-whole
@@ -24,7 +25,7 @@ experiments:
   A-vs-B-vs-C:
     <<: *exp_options
     expand_options:
-      k: 1..11
+      k: 4..7
     include_recombinants: false
     groups:
       A:
@@ -60,20 +61,20 @@ steps:
     k: '{k}'
     bits_per_element: 16
 
-  - type: distances
-    input_file: cgrs.mm-repr
-    output_prefix: dists
-    distances: [manhat, info]
-
-  - type: mds
-    dists_file: dists-info.mm-dist
-    dimensions: 10
-    output_file: mds10-info.json
-
-  - type: mds
-    dists_file: dists-manhat.mm-dist
-    dimensions: 10
-    output_file: mds10-manhat.json
+  #- type: distances
+  #  input_file: cgrs.mm-repr
+  #  output_prefix: dists
+  #  distances: [manhat, info]
+  #
+  #- type: mds
+  #  dists_file: dists-info.mm-dist
+  #  dimensions: 10
+  #  output_file: mds10-info.json
+  #
+  #- type: mds
+  #  dists_file: dists-manhat.mm-dist
+  #  dimensions: 10
+  #  output_file: mds10-manhat.json
 
   - &classify_options
     type: classify
@@ -89,7 +90,7 @@ steps:
       - sgd
       - linear-svm
       - quadratic-svm
-      - rbf-svm
+      - cubic-svm
       - decision-tree
       - random-forest
       - adaboost
@@ -98,14 +99,14 @@ steps:
       - qda
       - multilayer-perceptron
 
-  - type: classify
-    features_type: mmg-dists
-    features_file: dists-manhat.mm-dist
-    output_file: classification-manhat.json
-    <<: *classify_options
-
-  - type: classify
-    features_type: mmg-dists
-    features_file: dists-info.mm-dist
-    output_file: classification-info.json
-    <<: *classify_options
+  #- type: classify
+  #  features_type: mmg-dists
+  #  features_file: dists-manhat.mm-dist
+  #  output_file: classification-manhat.json
+  #  <<: *classify_options
+  #
+  #- type: classify
+  #  features_type: mmg-dists
+  #  features_file: dists-info.mm-dist
+  #  output_file: classification-info.json
+  #  <<: *classify_options

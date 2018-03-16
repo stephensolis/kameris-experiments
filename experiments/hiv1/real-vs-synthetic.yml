@@ -3,7 +3,7 @@ name: hiv1-real-vs-synthetic
 experiments:
   pol:
     expand_options:
-      k: 1..10
+      k: 4..7
     groups:
       real:
         dataset:
@@ -13,8 +13,8 @@ experiments:
       synthetic:
         dataset:
           archive: hiv1
-          archive_folder: art-pol
-          metadata: hiv1-art-pol
+          archive_folder: synthetic-polfragments
+          metadata: hiv1-synthetic-polfragments
 
 steps:
   - type: select
@@ -27,20 +27,20 @@ steps:
     k: '{k}'
     bits_per_element: 16
 
-  - type: distances
-    input_file: cgrs.mm-repr
-    output_prefix: dists
-    distances: [manhat, info]
-
-  - type: mds
-    dists_file: dists-info.mm-dist
-    dimensions: 10
-    output_file: mds10-info.json
-
-  - type: mds
-    dists_file: dists-manhat.mm-dist
-    dimensions: 10
-    output_file: mds10-manhat.json
+  #- type: distances
+  #  input_file: cgrs.mm-repr
+  #  output_prefix: dists
+  #  distances: [manhat, info]
+  #
+  #- type: mds
+  #  dists_file: dists-info.mm-dist
+  #  dimensions: 10
+  #  output_file: mds10-info.json
+  #
+  #- type: mds
+  #  dists_file: dists-manhat.mm-dist
+  #  dimensions: 10
+  #  output_file: mds10-manhat.json
 
   - &classify_options
     type: classify
@@ -56,7 +56,7 @@ steps:
       - sgd
       - linear-svm
       - quadratic-svm
-      - rbf-svm
+      - cubic-svm
       - decision-tree
       - random-forest
       - adaboost
@@ -65,14 +65,14 @@ steps:
       - qda
       - multilayer-perceptron
 
-  - type: classify
-    features_type: mmg-dists
-    features_file: dists-manhat.mm-dist
-    output_file: classification-manhat.json
-    <<: *classify_options
-
-  - type: classify
-    features_type: mmg-dists
-    features_file: dists-info.mm-dist
-    output_file: classification-info.json
-    <<: *classify_options
+  #- type: classify
+  #  features_type: mmg-dists
+  #  features_file: dists-manhat.mm-dist
+  #  output_file: classification-manhat.json
+  #  <<: *classify_options
+  #
+  #- type: classify
+  #  features_type: mmg-dists
+  #  features_file: dists-info.mm-dist
+  #  output_file: classification-info.json
+  #  <<: *classify_options
