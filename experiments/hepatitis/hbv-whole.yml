@@ -4,10 +4,8 @@ experiments:
   subtype:
     expand_options:
       k: 4..7
-      min_group_pts:
-        - 20
-        - 100
       include_recombinants: [true, false]
+    min_group_pts: 18
     dataset:
       archive: hbv
       archive_folder: ibcp-whole
@@ -16,7 +14,7 @@ experiments:
       lambda options, metadata:
         import collections
         counts = collections.Counter(x['subtype'] for x in metadata)
-        return {v: {'selection_key': options['selection_key'], 'values': [v]} for v in counts if v and counts[v] >= options['min_group_pts']}
+        return {v: {'subtypes': [v]} for v in counts if v and counts[v] >= options['min_group_pts']}
 
 steps:
   - type: select
@@ -24,7 +22,7 @@ steps:
     pick_group: |
       lambda metadata, group_options, options:
         return [x for x in metadata if (options['include_recombinants'] or not x['recombinant']) and
-                                       x[group_options['selection_key']] in group_options['values']]
+                                       x['subtype'] in group_options['subtypes']]
 
   - type: kmers
     output_file: cgrs.mm-repr

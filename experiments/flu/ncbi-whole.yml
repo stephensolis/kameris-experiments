@@ -5,7 +5,7 @@ experiments:
     expand_options:
       k: 4..6
       subtype_mode: [HN, H, N]
-    min_group_pts: 20
+    min_group_pts: 18
     type: A
     dataset:
       archive: flu

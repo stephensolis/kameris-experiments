@@ -45,3 +45,11 @@ archives:
   plasmids: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdlFkVGJUNkRZdjQ
   plastids: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvM0lKT2JDMXh5RU0
   viruses: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdE9NcDEzaTNWYk0
+
+models:
+  hiv1-linearsvm:
+    python2: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/models/hiv1-linearsvm-py2.mm-model
+    python3: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/models/hiv1-linearsvm-py3.mm-model
+  hiv1-mlp:
+    python2: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/models/hiv1-mlp-py2.mm-model
+    python3: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/models/hiv1-mlp-py3.mm-model

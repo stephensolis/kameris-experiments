@@ -4,7 +4,7 @@ experiments:
   subtype: &exp_options
     expand_options:
       k: 4..7
-    min_group_pts: 20
+    min_group_pts: 18
     dataset:
       archive: hcv
       archive_folder: lanl-whole

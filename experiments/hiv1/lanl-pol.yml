@@ -4,10 +4,8 @@ experiments:
   subtype: &exp_options
     expand_options: &expand_options
       k: 4..7
-      min_group_pts:
-        - 18
-        - 50
       include_recombinants: [true, false]
+    min_group_pts: 18
     dataset:
       archive: hiv1
       archive_folder: lanl-pol

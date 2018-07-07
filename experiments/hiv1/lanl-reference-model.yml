@@ -1,0 +1,36 @@
+name: lanl-reference-model
+
+experiments:
+  subtype:
+    expand_options:
+      k: [5, 6]
+    min_group_pts: 18
+    dataset:
+      archive: hiv1
+      archive_folder: lanl-pol
+      metadata: hiv1-lanl-pol
+    selection_key: subtype
+    groups: |
+      lambda options, metadata:
+        import collections
+        counts = collections.Counter(x['subtype'] for x in metadata if x['reference'])
+        return {v: {'subtypes': [v]} for v in counts if v and counts[v] >= options['min_group_pts']}
+
+steps:
+  - type: select
+    pick_group: |
+      lambda metadata, group_options, options:
+        return [x for x in metadata if x['reference'] and x['subtype'] in group_options['subtypes']]
+
+  - type: kmers
+    output_file: cgrs.mm-repr
+    mode: frequencies
+    k: from_options
+    bits_per_element: 16
+
+  - type: classify
+    features_file: cgrs.mm-repr
+    output_file: model.json
+    validation_count: 2
+    classifiers:
+      - linear-svm

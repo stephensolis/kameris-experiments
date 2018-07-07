@@ -4,10 +4,8 @@ experiments:
   subtype: &exp_options
     expand_options: &expand_options
       k: 4..7
-      min_group_pts:
-        - 18 # 26 groups with recombinants, 9 groups without
-        - 50 # 16 groups with recombinants, 8 groups without
       include_recombinants: [true, false]
+    min_group_pts: 18 # 26 groups with recombinants, 9 groups without
     dataset:
       archive: hiv1
       archive_folder: lanl-whole
