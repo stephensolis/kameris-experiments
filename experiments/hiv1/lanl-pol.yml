@@ -43,23 +43,7 @@ steps:
     k: from_options
     bits_per_element: 16
 
-  #- type: distances
-  #  input_file: cgrs.mm-repr
-  #  output_prefix: dists
-  #  distances: [manhat, info]
-  #
-  #- type: mds
-  #  dists_file: dists-info.mm-dist
-  #  dimensions: 10
-  #  output_file: mds10-info.json
-  #
-  #- type: mds
-  #  dists_file: dists-manhat.mm-dist
-  #  dimensions: 10
-  #  output_file: mds10-manhat.json
-
-  - &classify_options
-    type: classify
+  - type: classify
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -79,13 +63,3 @@ steps:
       - lda
       - qda
       - multilayer-perceptron
-
-  #- type: classify
-  #  features_file: dists-manhat.mm-dist
-  #  output_file: classification-manhat.json
-  #  <<: *classify_options
-  #
-  #- type: classify
-  #  features_file: dists-info.mm-dist
-  #  output_file: classification-info.json
-  #  <<: *classify_options

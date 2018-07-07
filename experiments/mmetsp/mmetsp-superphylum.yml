@@ -94,6 +94,7 @@ steps:
     features_file: cgrs.mm-repr
     output_file: classification-cgrs.json
     validation_count: 10
+    validation_split_by: id
     classifiers:
       - 10-nearest-neighbors
       - nearest-centroid-mean

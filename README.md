@@ -2,7 +2,122 @@
 
 [![Travis](https://travis-ci.org/stephensolis/kameris-experiments.svg?branch=master)](https://travis-ci.org/stephensolis/kameris-experiments)
 
-This is a collection of datasets and job description files for use with [stephensolis/kameris](https://github.com/stephensolis/kameris).
+This is a collection of datasets, job description files, and pre-trained models for use with [Kameris](https://github.com/stephensolis/kameris). <br>
+By default, Kameris will attempt to find unknown dataset files and models from this repo, as described in `files.yml`.
+
+## Coming from a paper?
+
+If you came here from:
+
+**"An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes"**
+
+See the experiments in the `hiv1` folder as well as `dengue`, `flu`, `hepatitis`.
+
+**"Unravelling eukaryotic diversity with an alignment-free machine learning method"**
+
+See the experiments in the `mmetsp` and `1kplants` folders.
+
+## Citing
+
+If you use any of the datasets or experiments with names starting with `hiv1`, `dengue`, `flu`, or `hepatitis` in your research, please cite:
+
+**An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes** <br>
+Stephen Solis-Reyes, Mariano Avino, Art Poon, Lila Kari <br>
+https://www.biorxiv.org/content/early/2018/07/05/362780
+
+## Experiments
+
+Any of the following experiments can be easily run as follows:
+1. Visit https://github.com/stephensolis/kameris and follow the instructions to install Kameris.
+2. Create an empty folder and open a terminal in the folder.
+3. Create new folders `data` and `output`.
+4. Run `kameris run-job https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/experiments/[name of experiment].yml https://raw.githubusercontent.com/stephensolis/kameris/master/demo/settings.yml`
+
+| Name | Description |
+|---|---|
+| `1kplants/1kplants` | Classify plant genomes into clade, order, and family, with different amounts of sampling per genome |
+| `dengue/ncbi-whole` | Classify dengue virus genomes by subtype |
+| `dna-types/mtdna-vs-plastid-vs-plasmid` | Classify whole organelle genomes by type: mitochondrial, plastid, and plasmid |
+| `dna-types/mtdna-vs-plastid` | Classify whole organelle genomes by type: mitochondrial and plastid |
+| `flu/ncbi-whole` | Classify influenza type A genomes by subtype, on different regions of the genome |
+| `genomes-nuclear/5kingdoms` | Classify whole nuclear genomes by 5 of the 6 kingdoms: animals, archaea, bacteria, fungi, and plants |
+| `genomes-nuclear/archaea` | Classify whole archaeal genomes into 3 phyla |
+| `genomes-nuclear/bacteria` | Classify whole bacterial genomes into 4 phyla or 5 proteobacterial classes |
+| `genomes-nuclear/fungi` | Classify whole fungal genomes into 3 phyla or subphyla |
+| `genomes-nuclear/plants` | Classify whole plant genomes into 2 clades |
+| `genomes-nuclear/vertebrates` | Classify whole vertebrate genomes into birds, fish, and mammals |
+| `hepatitis/hbv-whole` | Classify whole hepatitis B genomes by subtype |
+| `hepatitis/hcv-whole` | Classify whole hepatitis C genomes by subtype |
+| `hiv1/lanl-pol` | Classify whole HIV-1 *pol* genes by subtype |
+| `hiv1/lanl-reference-model` | Train the HIV-1 classifier on whole HIV-1 *pol* genes used in "An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes" |
+| `hiv1/lanl-whole` | Classify whole HIV-1 genomes by subtype |
+| `hiv1/real-vs-synthetic` | Classify natural vs. synthetic HIV-1 *pol* genes |
+| `hiv1/synthetic-pol` | Classify synthetic HIV-1 *pol* genes by subtype |
+| `human-haplogroups/human-haplogroups` | Classify whole human mitochondrial genomes by haplogroup |
+| `mmetsp/mmetsp-superphylum` | Classify marine microbial transcriptomes into superphylum, with different amounts of sampling per transcriptome |
+| `mmetsp/mmetsp` | Classify marine microbial transcriptomes into phylum, class, order, family, and genus, with different amounts of sampling per transcriptome |
+| `mtdna/amphibians` | Classify whole amphibian mitochondrial genomes into 3 orders |
+| `mtdna/fungi` | Classify whole fungal mitochondrial genomes into 3 phyla/subphyla |
+| `mtdna/insects-mammals-amphibians` | Classify whole animal mitochondrial genomes by class: insects, mammals, amphibians |
+| `mtdna/insects` | Classify whole insect mitochondrial genomes into 7 insect orders/superorders |
+| `mtdna/mammals` | Classify whole mammal mitochondrial genomes into 8 orders/superorders |
+| `mtdna/plants-animals-fungi-protists` | Classify whole eukaryote mitochondrial genomes by kingdom: plants, animals, fungi, protists |
+| `mtdna/plants` | Classify whole plant mitochondrial genomes into 2 clades |
+| `mtdna/primates` | Classify whole primate mitochondrial genomes into 2 suborders |
+| `mtdna/protists` | Classify whole protist mitochondrial genomes into 3 superphyla |
+| `mtdna/vertebrates` | Classify whole vertebrate mitochondrial genomes into amphibians, birds, fish, mammals, and reptiles |
+| `plasmids/bacteria` | Classify whole bacterial plasmid genomes into 4 phyla |
+| `plasmids/proteobacteria` | Classify whole protobacterial plasmid genomes into 3 classes |
+| `plastids/plants` | Classify whole plant plastid genomes into 5 clades |
+| `plastids/protists` | Classify whole protist plastid genomes into 3 superphyla |
+| `taxa/cpdna` | Classify whole choloroplast genomes from the same family or genus into genii or species |
+| `taxa/mtdna` | Classify whole mitochondrial genomes from the same family or genus into genii or species |
+| `viruses/dsDNA` | Classify whole dsDNA viral genomes by family |
+| `viruses/groups` | Classify whole viral genomes by group |
+| `viruses/retrotranscribing` | Classify whole retrotranscribing viral genomes by family |
+| `viruses/satellites` | Classify whole satellite viral genomes by family |
+| `viruses/ssDNA` | Classify whole ssDNA viral genomes by family |
+| `viruses/ssRNAnegative` | Classify whole (-)ssRNA viral genomes by family |
+| `viruses/ssRNApositive` | Classify whole (+)ssRNA viral genomes by family |
+
+## Datasets
+
+| Name | Description | Retrieval instructions | Retrieval date |
+|---|---|---|---|
+| `1kplants` | Plant genome assemblies | From the University of Alberta 1000 Plants (1kP) Initiative: metadata from http://www.onekp.com/samples/list.php and sequence data from http://www.onekp.com/public_data.html | N/A (static dataset) |
+| `cpdna-all` | Whole chloroplast genomes | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `"chloroplast"[Title] AND "complete"[Title] AND "genome"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "plasmid"[Title] AND ("1000"[SLEN] : "999999999"[SLEN])`. Results were manually reviewed and some sequences which were not whole genomes were removed. | May 17, 2017 |
+| `cpdna-taxa` | Whole chloroplast genomes, split into families/genii | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `"<taxonomy ID>"[Organism:exp] AND "chloroplast"[Title] AND "complete"[Title] AND "genome"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "plasmid"[Title] AND ("12000"[SLEN] : "99999999"[SLEN])` for every family with more than 50 sequence entries | March 13, 2017 |
+| `dengue-ncbi-whole` | Whole dengue virus genomes | From the NCBI Virus Variation sequence database, https://www.ncbi.nlm.nih.gov/genomes/VirusVariation/Database/nph-select.cgi?taxid=12637 with query options "Nucleotide", "Full-length sequences only", and "Collapse identical sequences" | August 10, 2017 |
+| `flu-ncbi` | Whole influenza genomes, split into genomic regions | From the NCBI Virus Variation sequence database, https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=genomeset with query options "Genome sets: Complete only", and "Type: A, B" | August 10, 2017 |
+| `genomes-animals` | Whole assembled animal genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Group: Animals", "Levels: Complete, Chromosome" | June 15, 2017 |
+| `genomes-archaea` | Whole assembled archaeal genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Kingdom: Archaea", "Levels: Complete, Chromosome" | June 24, 2017 |
+| `genomes-bacteria` | Whole assembled bacterial genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Kingdom: Bacteria", "Levels: Complete, Chromosome" | June 25, 2017 |
+| `genomes-fungi` | Whole assembled fungal genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Group: Fungi", "Levels: Complete, Chromosome" | June 24, 2017 |
+| `genomes-plants` | Whole assembled plant genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Group: Plants", "Levels: Complete, Chromosome" | June 15, 2017 |
+| `genomes-protists` | Whole assembled protist genomes | From the NCBI Genome browser, https://www.ncbi.nlm.nih.gov/genome/browse/ with query options "Group: Protists", "Levels: Complete, Chromosome" | June 15, 2017 |
+| `hbv-ibcp-whole` | Whole hepatitis B genomes | From the Hepatitis B Virus Database operated by the Institut de Biologie et Chimie des Proteines (IBCP), https://hbvdb.ibcp.fr/HBVdb/HBVdbDataset?seqtype=0 | August 10, 2017 |
+| `hcv-lanl-whole` | Whole hepatitis C genomes | From the Los Alamos (LANL) sequence database, https://hcv.lanl.gov/components/sequence/HCV/search/searchi.html, with query options "Excluding recombinants", "Excluding 'no genotype'", "Genomic region: complete genome", and "Excluding problematic" | August 10, 2017 |
+| `hiv1-lanl-pol` | HIV-1 *pol* gene coding regions | From the Los Alamos (LANL) sequence database, https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html with query options "Virus: HIV-1", "Genomic region: Pol CDS", "Excluding problematic" | Retrieved May 18, 2017, site reported update May 6, 2017 |
+| `hiv1-lanl-whole` | Whole HIV-1 genomes | From the Los Alamos (LANL) sequence database, https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html with query options "Virus: HIV-1", "Genomic region: complete genome", "Excluding problematic" | Retrieved May 18, 2017, site reported update May 6, 2017 |
+| `hiv1-mixed-polfragments` | Natural HIV-1 *pol* gene fragments | The curated testing dataset described in "An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes" | See paper |
+| `hiv1-synthetic-polfragments` | Synthetically-generated HIV-1 *pol* gene fragments | Described in "An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes" | See paper |
+| `mmetsp` | Assembled marine eukaryote transcriptomes | From the Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): dataset information at https://www.imicrobe.us/#/projects/104 and data downloaded from ftp://ftp.imicrobe.us/projects/104/samples/ | N/A (static dataset) |
+| `mtdna-all` | Whole mitochondrial genomes | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `("mitochondrial"[Title] OR "mitochondria"[Title] OR "mitochondrion"[Title]) AND "complete"[Title] AND "genome"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "plasmid"[Title] AND ("1000"[SLEN] : "999999999"[SLEN])`. Results were manually reviewed and some sequences which were not whole genomes were removed. | May 17, 2017 |
+| `mtdna-human-haplogroups` | Whole human mitochondrial genomes | From the MITOMAP project (http://www.mitomap.org/MITOMAP/Mitobank), http://www.mitomap.org/foswiki/pub/MITOMAP/Mitobank/genbank_ids_2016June25.csv | Database date June 25, 2016 |
+| `mtdna-refseq` | Whole mitochondrial genomes | From NCBI RefSeq release 81, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/mitochondrion/ | RefSeq release date March 6, 2017 |
+| `mtdna-taxa` | Whole mitochondrial genomes, split into families/genii | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `"<taxonomy ID>"[Organism:exp] AND ("mitochondrial"[Title] OR "mitochondria"[Title] OR "mitochondrion"[Title]) NOT "contig"[Title] NOT "scaffold"[Title] NOT "partial"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "incomplete"[Title] AND ("12000"[SLEN] : "99999999"[SLEN])` for every family with more than 30 sequence entries. For family *Hominidae*, every *Homo sapiens* sequence except NC_012920.1 and NC_011137.1 was omitted. | March 13, 2017 |
+| `plasmids-all` | Whole plasmid genomes | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `"plasmid"[Title] AND "complete"[Title] NOT "gene"[Title] NOT "contig"[Title] NOT "scaffold"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "virus"[Title] NOT "coding"[Title] NOT "genes"[Title] NOT "pseudogene"[Title] NOT "protein"[Title] NOT "vector"[Title] NOT "operon"[Title] NOT "partial"[Title] NOT "transposon"[Title] NOT "rna"[Title] AND ("1000"[SLEN] : "999999999"[SLEN])`. Results were manually reviewed and some sequences which were not whole genomes were removed. | July 24, 2017 |
+| `plasmids-refseq` | Whole plasmid genomes | From NCBI RefSeq release 83, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/ | RefSeq release date July 21, 2017 |
+| `plastids-refseq` | Whole plastid genomes | From NCBI RefSeq release 82, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plastid/ | RefSeq release date May 15, 2017 |
+| `viruses-all` | Whole viral genomes | From the NCBI Nucleotide database, https://www.ncbi.nlm.nih.gov/nucleotide/ with query `"txid10239"[Organism:exp] AND ("complete genome"[Title] OR "complete sequence"[Title]) NOT "miRNA"[Title] NOT "long terminal repeat"[Title] NOT "ltr"[Title] NOT "contig"[Title] NOT "spacer"[Title] NOT "pseudogene"[Title] NOT "genes"[Title] NOT "gene"[Title] NOT "segment"[Title] NOT "partial"[Title] NOT "cds"[Title] NOT "except"[Title] NOT "region"[Title] NOT "incomplete"[Title]`. Results were manually reviewed and some sequences which were not whole genomes were removed. | May 14, 2017 |
+| `viruses-refseq` | Whole viral genomes | From NCBI RefSeq release 83, ftp://ftp.ncbi.nlm.nih.gov/refseq/release/viral/ | RefSeq release date July 21, 2017 |
+
+## Models
+
+| Name | Description |
+|---|---|
+| `hiv1-linearsvm` | HIV-1 subtypes classifier, trained using experiment `hiv1/lanl-whole` with settings `k=6`, `include_recombinants=true`, `linear-svm` classifier |
+| `hiv1-mlp` | HIV-1 subtypes classifier, trained using experiment `hiv1/lanl-whole` with settings `k=6`, `include_recombinants=true`, `multilayer-perceptron` classifier |
 
 ## License ![MIT](http://img.shields.io/:license-mit-blue.svg) ![CC0](http://img.shields.io/:license-CC0-green.svg)
 

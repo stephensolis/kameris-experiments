@@ -5,6 +5,7 @@ experiments:
     expand_options:
       k: 4..6
       subtype_mode: [HN, H, N]
+      region: [all, PB1, PB2, PA, HA, NP, NA, MP, NS]
     min_group_pts: 18
     type: A
     dataset:
@@ -36,7 +37,7 @@ steps:
         return [{
           'subtype': entry['subtype'],
           'name': entry['name'],
-          'filenames': ['ncbi/' + x['id'] + '.fasta' for x in entry['sequences']]
+          'filenames': ['ncbi/' + x['id'] + '.fasta' for x in entry['sequences'] if (options['region'] == 'all' or options['region'] in x['segment'])]
         } for entry in metadata if entry['type'] == options['type'] and entry['subtype'] in group_options['subtypes']]
     postprocess: |
       lambda metadata_entry, entry_sequences, options:

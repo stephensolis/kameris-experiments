@@ -16,8 +16,8 @@ metadata:
   hiv1-lanl-whole: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-lanl-whole.json
   hiv1-mixed-polfragments: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-mixed-polfragments.json
   hiv1-synthetic-polfragments: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-synthetic-polfragments.json
-  mmetsp.json: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mmetsp.json
-  mtdna-all.json: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-all.json
+  mmetsp: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mmetsp.json
+  mtdna-all: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-all.json
   mtdna-human-haplogroups: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-human-haplogroups.json
   mtdna-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-refseq.json
   mtdna-taxa: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-taxa.json

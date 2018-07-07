@@ -34,3 +34,4 @@ steps:
     validation_count: 2
     classifiers:
       - linear-svm
+      - multilayer-perceptron
