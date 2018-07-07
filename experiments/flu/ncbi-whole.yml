@@ -1,47 +1,51 @@
-name: hiv1-lanl-pol
+name: flu-ncbi-whole
 
 experiments:
   subtype: &exp_options
-    expand_options: &expand_options
-      k: 4..7
-      min_group_pts:
-        - 18
-        - 50
-      include_recombinants: [true, false]
+    expand_options:
+      k: 4..6
+      subtype_mode: [HN, H, N]
+    min_group_pts: 20
+    type: A
     dataset:
-      archive: hiv1
-      archive_folder: lanl-pol
-      metadata: hiv1-lanl-pol
+      archive: flu
+      metadata: flu-ncbi
     groups: |
       lambda options, metadata:
-        import collections
-        counts = collections.Counter(x['subtype'] for x in metadata)
-        return {v: {'subtypes': [v]} for v in counts if v and counts[v] >= options['min_group_pts']}
-
-  A-vs-B-vs-C:
-    <<: *exp_options
-    expand_options:
-      k: 4..7
-    include_recombinants: false
-    groups:
-      A:
-        subtypes: [A, A1, A2, A3, A6]
-      B:
-        subtypes: [B]
-      C:
-        subtypes: [C]
+        import collections, re
+        subtype_regex = re.compile('(H.*)(N.*)')
+        counts = collections.defaultdict(lambda: [0, set()])
+        for x in metadata:
+          if x['type'] == options['type']:
+            match = subtype_regex.search(x['subtype'])
+            if not match or options['subtype_mode'] == 'HN':
+              subtype = x['subtype']
+            elif options['subtype_mode'] == 'H':
+              subtype = match.group(1)
+            elif options['subtype_mode'] == 'N':
+              subtype = match.group(2)
+            counts[subtype][0] += 1
+            counts[subtype][1].add(x['subtype'])
+        return {v: {'subtypes': list(counts[v][1])} for v in counts if v and counts[v][0] >= options['min_group_pts']}
 
 steps:
   - type: select
     copy_for_options: [k]
     pick_group: |
       lambda metadata, group_options, options:
-        return [x for x in metadata if (options['include_recombinants'] or not x['recombinant']) and
-                                       x['subtype'] in group_options['subtypes']]
+        return [{
+          'subtype': entry['subtype'],
+          'name': entry['name'],
+          'filenames': ['ncbi/' + x['id'] + '.fasta' for x in entry['sequences']]
+        } for entry in metadata if entry['type'] == options['type'] and entry['subtype'] in group_options['subtypes']]
+    postprocess: |
+      lambda metadata_entry, entry_sequences, options:
+        seq = ''.join(seqs[0] for seqs in entry_sequences)
+        return [(metadata_entry, [seq])]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    mode: frequencies
+    mode: counts
     k: from_options
     bits_per_element: 16
 

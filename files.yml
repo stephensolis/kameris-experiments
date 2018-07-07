@@ -1,136 +1,47 @@
-files:
-  # metadata
-  1kplants.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/1kplants.json
-    md5: 73659fd447958823c0d6fb2777e125f0
-  cpdna-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-all.json
-    md5: 4a396b55026b468c3bfe7e01254bf1e7
-  cpdna-taxa.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/cpdna-taxa.json
-    md5: 331c5a256707416975d68ea0085889fb
-  dengue-ncbi-whole.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/dengue-ncbi-whole.json
-    md5: 89b338f6fbc3877076f2f1adc522c6b5
-  flu-ncbi.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/flu-ncbi.json
-    md5: 660b60c97dc3d29f7d03cd5e0aa07b2e
-  genomes-animals.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-animals.json
-    md5: 1b0857b1e35193a09a1ad226eb635da6
-  genomes-archaea.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-archaea.json
-    md5: 179933dc512475a087836779b9feecbb
-  genomes-bacteria.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-bacteria.json
-    md5: 43c18e5990b7702a71411735525443ee
-  genomes-fungi.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-fungi.json
-    md5: f7ab44dd27a998403f3f572f73bad15f
-  genomes-plants.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-plants.json
-    md5: d7c66fdc9bf7dcc41d1eef00844a9c37
-  genomes-protists.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/genomes-protists.json
-    md5: 124ec173d35ae1179623c92e3bc0f764
-  hbv-ibcp-whole.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hbv-ibcp-whole.json
-    md5: 3d445bf52dd8542e88e90081bd2e0ec4
-  hcv-lanl-whole.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hcv-lanl-whole.json
-    md5: b167e58d156e6d8002fdacbce706c00f
-  hiv1-lanl-pol.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-pol.json
-    md5: 57421fab953689b987b6aae8942f93b0
-  hiv1-lanl-whole.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-lanl-whole.json
-    md5: 3145ca5ea100baf2e2c16fc32b69c320
-  hiv1-mixed-polfragments.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-mixed-polfragments.json
-    md5: 3acfe683ca2a898226ca7fd6781882b6
-  hiv1-synthetic-polfragments.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/hiv1-synthetic-polfragments.json
-    md5: 712be41fb6cc3bd39e81f0d8e94ae2b4
-  mmetsp.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mmetsp.json
-    md5: af9eb1c8c94fc1cb18a1ee740f82e5e0
-  mtdna-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-all.json
-    md5: e0cfa25b5b94ac96ece819fb2e71cf21
-  mtdna-human-haplogroups.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-human-haplogroups.json
-    md5: 0ff3f3395564ffedaaa6a12e83c28950
-  mtdna-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-refseq.json
-    md5: f3a392a48c8f7eeaf5cc0e1f5fa3fe07
-  mtdna-taxa.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/mtdna-taxa.json
-    md5: 6463ca02e21d6ef48443b17eaf5840f1
-  plasmids-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmids-all.json
-    md5: 60e23f2a95a2c8d4687420fd88fb20d3
-  plasmids-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plasmids-refseq.json
-    md5: 013620655a71a4eb2bb882617d585d50
-  plastids-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/plastids-refseq.json
-    md5: 77e813be2f7457f342f8c8ef64e135ae
-  viruses-all.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-all.json
-    md5: bf2476bec8537fab2e14e65a8e95be88
-  viruses-refseq.json:
-    url: https://raw.githubusercontent.com/stephensolis/modmap-experiments/master/metadata/viruses-refseq.json
-    md5: a02016b9f21de629e3a321502a21a545
+metadata:
+  1kplants: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/1kplants.json
+  cpdna-all: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/cpdna-all.json
+  cpdna-taxa: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/cpdna-taxa.json
+  dengue-ncbi-whole: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/dengue-ncbi-whole.json
+  flu-ncbi: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/flu-ncbi.json
+  genomes-animals: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-animals.json
+  genomes-archaea: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-archaea.json
+  genomes-bacteria: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-bacteria.json
+  genomes-fungi: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-fungi.json
+  genomes-plants: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-plants.json
+  genomes-protists: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/genomes-protists.json
+  hbv-ibcp-whole: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hbv-ibcp-whole.json
+  hcv-lanl-whole: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hcv-lanl-whole.json
+  hiv1-lanl-pol: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-lanl-pol.json
+  hiv1-lanl-whole: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-lanl-whole.json
+  hiv1-mixed-polfragments: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-mixed-polfragments.json
+  hiv1-synthetic-polfragments: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/hiv1-synthetic-polfragments.json
+  mmetsp.json: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mmetsp.json
+  mtdna-all.json: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-all.json
+  mtdna-human-haplogroups: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-human-haplogroups.json
+  mtdna-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-refseq.json
+  mtdna-taxa: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/mtdna-taxa.json
+  plasmids-all: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/plasmids-all.json
+  plasmids-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/plasmids-refseq.json
+  plastids-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/plastids-refseq.json
+  viruses-all: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/viruses-all.json
+  viruses-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/viruses-refseq.json
 
-  # archives
-  1kplants.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvU0RJSDMtbjZVZDQ
-    md5: bdd7821189b0f0438a8471e399f2b30f
-  dengue.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTHZPTEdZOC1JNUE
-    md5: a9f35debf4415b2a67b1ea571433fc08
-  flu.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvNV9yTmJYU00wUmM
-    md5: f43c8d662acc00fde7fcabbb8d23d5c3
-  genomes-animals.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvODRWRnBCQlJiNW8
-    md5: 4982906b52226b0e4b7c44611359f675
-  genomes-archaea.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvSk94cFhQMk92c28
-    md5: 06d498610f6d5bf9742d3c2f1df357a6
-  genomes-bacteria.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMDluZm5VdnEtSUE
-    md5: 666f2221c98a0895dc210eb3c74f5766
-  genomes-fungi.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvVGptcTJJamw5amc
-    md5: 15bce50b2cc04cdf22f8f8939714f1ea
-  genomes-plants.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvQUx6V2xfUEplSTg
-    md5: 0b99f57fabc4affa9c3c4b98cee83ff7
-  genomes-protists.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTkZJRnZESVV0Tmc
-    md5: b3b55eede261cda229775f7f008c10e7
-  hbv.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMFNiY1VyZ1MtZUE
-    md5: f9833fded8a0bd30f346c1b620c0955d
-  hcv.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvZ2QzZTh1TFJKZE0
-    md5: e6be225d82621a35150f18ffa16bb1c3
-  hiv1.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTva1NNYXh5WEM2Z28
-    md5: a5574b21c2bd6af0c172b5a9f892418d
-  mmetsp.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvX2tjNF9lbkdiTWs
-    md5: e7dc8c58aba542a0bf0abad73cc4672f
-  mtdna.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvaExHUmhxV253WUU
-    md5: 409dddce9dc47487a8281edf7f83cbc5
-  plasmids.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdlFkVGJUNkRZdjQ
-    md5: dbc3bd2d3fe6d9e6395b248c9db1010d
-  plastids.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvM0lKT2JDMXh5RU0
-    md5: 79078975595c50d8b8a179157ad345ad
-  viruses.zip:
-    url: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdE9NcDEzaTNWYk0
-    md5: 93218cf13d8b44387620a1bd8a27480f
+archives:
+  1kplants: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvU0RJSDMtbjZVZDQ
+  dengue: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTHZPTEdZOC1JNUE
+  flu: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvNV9yTmJYU00wUmM
+  genomes-animals: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvODRWRnBCQlJiNW8
+  genomes-archaea: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvSk94cFhQMk92c28
+  genomes-bacteria: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMDluZm5VdnEtSUE
+  genomes-fungi: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvVGptcTJJamw5amc
+  genomes-plants: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvQUx6V2xfUEplSTg
+  genomes-protists: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvTkZJRnZESVV0Tmc
+  hbv: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvMFNiY1VyZ1MtZUE
+  hcv: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvZ2QzZTh1TFJKZE0
+  hiv1: https://drive.google.com/uc?export=download&id=0B7OX388vZjTva1NNYXh5WEM2Z28
+  mmetsp: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvX2tjNF9lbkdiTWs
+  mtdna: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvaExHUmhxV253WUU
+  plasmids: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdlFkVGJUNkRZdjQ
+  plastids: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvM0lKT2JDMXh5RU0
+  viruses: https://drive.google.com/uc?export=download&id=0B7OX388vZjTvdE9NcDEzaTNWYk0

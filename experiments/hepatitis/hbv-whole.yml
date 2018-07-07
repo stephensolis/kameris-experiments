@@ -8,30 +8,28 @@ experiments:
         - 20
         - 100
       include_recombinants: [true, false]
-      no_copy: true
     dataset:
       archive: hbv
       archive_folder: ibcp-whole
       metadata: hbv-ibcp-whole
-    selection_key: subtype
     groups: |
-      lambda:
-        import collections, json, os
-        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
-          metadata = json.load(f)
-        counts = collections.Counter(x[{selection_key!r}] for x in metadata)
-        return {{v: {{'selection_key': {selection_key!r}, 'values': [v]}} for v in counts if v and counts[v] >= {min_group_pts}}}
+      lambda options, metadata:
+        import collections
+        counts = collections.Counter(x['subtype'] for x in metadata)
+        return {v: {'selection_key': options['selection_key'], 'values': [v]} for v in counts if v and counts[v] >= options['min_group_pts']}
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
-        return [x for x in metadata if ({include_recombinants} or not x['recombinant']) and
+      lambda metadata, group_options, options:
+        return [x for x in metadata if (options['include_recombinants'] or not x['recombinant']) and
                                        x[group_options['selection_key']] in group_options['values']]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 16
 
   #- type: distances
@@ -51,7 +49,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -73,13 +70,11 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options
   #
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-info.mm-dist
   #  output_file: classification-info.json
   #  <<: *classify_options

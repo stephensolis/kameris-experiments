@@ -6,20 +6,17 @@ experiments:
       k: 4..6
       sample_len: [150000, 500000, 50000, 10000, 5000]
       samples_per_organism: [1, 5, 10]
-      no_copy: true
     min_group_pts: 10
     taxonomy_index: 0
     dataset:
       archive: 1kplants
       metadata: 1kplants
     groups: |
-      lambda:
-        import collections, json, os
-        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
-          metadata = json.load(f)
-        counts = collections.Counter(x['taxonomy'].split('; ')[{taxonomy_index}] for x in metadata)
-        omit_groups = {{'incertae sedis'}}
-        return {{v: {{'taxonomy_str': v}} for v in counts if v and v not in omit_groups and counts[v] >= {min_group_pts}}}
+      lambda options, metadata:
+        import collections
+        counts = collections.Counter(x['taxonomy'].split('; ')[options['taxonomy_index']] for x in metadata)
+        omit_groups = {'incertae sedis'}
+        return {v: {'taxonomy_str': v} for v in counts if v and v not in omit_groups and counts[v] >= options['min_group_pts']}
 
   order:
     <<: *exp_options
@@ -32,18 +29,19 @@ experiments:
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
-        return [x for x in metadata if group_options['taxonomy_str'] == x['taxonomy'].split('; ')[{taxonomy_index}]]
+      lambda metadata, group_options, options:
+        return [x for x in metadata if group_options['taxonomy_str'] == x['taxonomy'].split('; ')[options['taxonomy_index']]]
     postprocess: |
-      lambda metadata_entry, entry_sequences:
+      lambda metadata_entry, entry_sequences, options:
         import numpy as np
         samples = []
         random_indexes = np.random.permutation(len(entry_sequences)).tolist()
-        for _ in range({samples_per_organism}):
+        for _ in range(options['samples_per_organism']):
           seq = ''
           choices = []
-          while len(seq) < {sample_len}:
+          while len(seq) < options['sample_len']:
             idx = random_indexes.pop()
             choices.append(idx)
             seq += entry_sequences[idx]
@@ -52,12 +50,12 @@ steps:
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 32
 
   - &classify_options
     type: classify
-    features_type: mmg-cgrs
     features_file: cgrs.mm-repr
     output_file: classification-cgrs.json
     validation_count: 10

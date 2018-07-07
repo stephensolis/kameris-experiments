@@ -1,6 +1,8 @@
-# modmap-experiments
+# kameris-experiments
 
-This is a collection of datasets and job description files for use with [stephensolis/modmap-toolkit](https://github.com/stephensolis/modmap-toolkit).
+[![Travis](https://travis-ci.org/stephensolis/kameris-experiments.svg?branch=master)](https://travis-ci.org/stephensolis/kameris-experiments)
+
+This is a collection of datasets and job description files for use with [stephensolis/kameris](https://github.com/stephensolis/kameris).
 
 ## License ![MIT](http://img.shields.io/:license-mit-blue.svg) ![CC0](http://img.shields.io/:license-CC0-green.svg)
 

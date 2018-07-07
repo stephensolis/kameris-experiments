@@ -1,0 +1,13 @@
+language: python
+os: linux
+dist: trusty
+sudo: false
+
+python: "3.6"
+
+install:
+  - pip install kameris yamllint
+
+script:
+  - find experiments -type f -print0 | xargs -0 -n1 -I % sh -c 'echo validating %; kameris run-job --validate-only % .test-settings.yml files.yml'
+  - find experiments -type f -print0 | xargs -0 yamllint -c .yamllint.yml

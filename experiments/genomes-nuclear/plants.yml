@@ -15,23 +15,25 @@ experiments:
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
-        return [{{
+      lambda metadata, group_options, options:
+        return [{
           'id': metadata[species]['id'],
           'taxonomy': metadata[species]['taxonomy'],
           'filenames': [species + '/nuclear/' + x['id'] + '.fasta' for x in metadata[species]['sequences']
                                                                    if x['type'] == 'chromosome' or x['type'] == 'linkage group']
-        }} for species in metadata
+        } for species in metadata
            if any(tax_str in metadata[species]['taxonomy'] for tax_str in group_options['taxonomy_contains'])]
     postprocess: |
-      lambda metadata_entry, entry_sequences:
+      lambda metadata_entry, entry_sequences, options:
         seq = ''.join(seqs[0] for seqs in entry_sequences)
         return [(metadata_entry, [seq])]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 32
 
   #- type: distances
@@ -46,7 +48,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -68,7 +69,6 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options

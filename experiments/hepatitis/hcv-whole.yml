@@ -10,33 +10,31 @@ experiments:
       archive_folder: lanl-whole
       metadata: hcv-lanl-whole
     groups: |
-      lambda:
-        import collections, json, os
-        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
-          metadata = json.load(f)
+      lambda options, metadata:
+        import collections
         counts = collections.Counter(x['subtype'] for x in metadata)
-        return {{h: {{'subtype': h + '$'}} for h in counts if h and counts[h] >= {min_group_pts}}}
+        return {h: {'subtype': h + '$'} for h in counts if h and counts[h] >= options['min_group_pts']}
 
   subtype-firstletter:
     <<: *exp_options
     groups: |
-      lambda:
-        import collections, json, os
-        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
-          metadata = json.load(f)
+      lambda options, metadata:
+        import collections
         counts = collections.Counter(x['subtype'][0] for x in metadata)
-        return {{h: {{'subtype': h}} for h in counts if h and counts[h] >= {min_group_pts}}}
+        return {h: {'subtype': h} for h in counts if h and counts[h] >= options['min_group_pts']}
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
+      lambda metadata, group_options, options:
         import re
         return [x for x in metadata if re.match(group_options['subtype'], x['subtype'])]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 16
 
   #- type: distances
@@ -56,7 +54,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -78,13 +75,11 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options
   #
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-info.mm-dist
   #  output_file: classification-info.json
   #  <<: *classify_options

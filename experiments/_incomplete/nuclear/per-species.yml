@@ -6,16 +6,12 @@ experiments:
       k: 8..11
       sample_len: [50000, 100000, 150000, 1000000, 2000000, 4000000]
       num_samples: [5, 10]
-      no_copy: true
     dataset:
       archive: genomes-animals
       metadata: nuclear-animals
     groups: |
-      lambda:
-        import json, os
-        with open(os.path.join({metadata_dir!r}, {dataset[metadata]!r} + '.json'), 'r') as f:
-          metadata = json.load(f)
-        return {{s: {{'species': s}} for s in metadata}}
+      lambda options, metadata:
+        return {s: {'species': s} for s in metadata}
 
   archaea:
     <<: *exp_options
@@ -43,27 +39,29 @@ experiments:
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
+      lambda metadata, group_options, options:
         seq_metadata = [x for x in metadata[group_options['species']]['sequences']
                               if x['type'] == 'chromosome' or x['type'] == 'linkage group']
         for x in seq_metadata:
           x['filename'] = group_options['species'] + '/nuclear/' + x['id'] + '.fasta'
         return seq_metadata
     postprocess: |
-      lambda metadata_entry, entry_sequences:
+      lambda metadata_entry, entry_sequences, options:
         import random
         seq = entry_sequences[0]
-        sample_idxs = random.sample(range(int(len(seq)/{sample_len})), {num_samples})
+        sample_idxs = random.sample(range(int(len(seq)/options['sample_len'])), options['num_samples'])
         samples = []
         for idx in sample_idxs:
-          start_idx = {sample_len}*idx
-          samples.append((dict(metadata_entry, sample_start=start_idx), [seq[start_idx:start_idx+{sample_len}]]))
+          start_idx = options['sample_len']*idx
+          samples.append((dict(metadata_entry, sample_start=start_idx), [seq[start_idx:start_idx+options['sample_len']]]))
         return samples
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 32
 
   #- type: distances
@@ -78,7 +76,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -100,7 +97,6 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options

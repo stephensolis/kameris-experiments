@@ -6,7 +6,6 @@ experiments:
       k: 4..6
       sample_len: [150000, 500000, 50000, 10000, 5000]
       samples_per_organism: [1, 5, 10]
-      no_copy: true
     dataset:
       archive: mmetsp
       archive_folder: nt
@@ -57,26 +56,27 @@ experiments:
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
+      lambda metadata, group_options, options:
         # these ids are in either nt or cds but not both, we omit them entirely
-        omit_ids = {{'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719',
+        omit_ids = {'MMETSP0133', 'MMETSP0134', 'MMETSP0135', 'MMETSP0197', 'MMETSP0399', 'MMETSP0452', 'MMETSP0923', 'MMETSP0925', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719',
         # these are too short for unique samples
-                     'MMETSP0018', 'MMETSP0044', 'MMETSP0186', 'MMETSP0210', 'MMETSP0223', 'MMETSP0225', 'MMETSP0229', 'MMETSP0251', 'MMETSP0252', 'MMETSP0347', 'MMETSP0451', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719', 'MMETSP0924', 'MMETSP1018', 'MMETSP1019', 'MMETSP1147', 'MMETSP1148', 'MMETSP1317'}}
+                     'MMETSP0018', 'MMETSP0044', 'MMETSP0186', 'MMETSP0210', 'MMETSP0223', 'MMETSP0225', 'MMETSP0229', 'MMETSP0251', 'MMETSP0252', 'MMETSP0347', 'MMETSP0451', 'MMETSP0705', 'MMETSP0716', 'MMETSP0719', 'MMETSP0924', 'MMETSP1018', 'MMETSP1019', 'MMETSP1147', 'MMETSP1148', 'MMETSP1317'}
         return [x for x in metadata if x['id'] not in omit_ids
                                     and ((any(t in x['taxonomy'] for t in group_options['taxonomy']['contains'])
                                           and not any(t in x['taxonomy'] for t in group_options['taxonomy']['not_contains']))
                                          or (any(h in x['highlevel_group'] for h in group_options['highlevel_group']['contains'])
                                              and not any(h in x['highlevel_group'] for h in group_options['highlevel_group']['not_contains'])))]
     postprocess: |
-      lambda metadata_entry, entry_sequences:
+      lambda metadata_entry, entry_sequences, options:
         import numpy as np
         samples = []
-        for _ in range({samples_per_organism}):
+        for _ in range(options['samples_per_organism']):
           seq = ''
           choices = []
           random_indexes = np.random.permutation(len(entry_sequences)).tolist()
-          while len(seq) < {sample_len}:
+          while len(seq) < options['sample_len']:
             idx = random_indexes.pop()
             choices.append(idx)
             seq += entry_sequences[idx]
@@ -85,12 +85,12 @@ steps:
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 32
 
   - &classify_options
     type: classify
-    features_type: mmg-cgrs
     features_file: cgrs.mm-repr
     output_file: classification-cgrs.json
     validation_count: 10

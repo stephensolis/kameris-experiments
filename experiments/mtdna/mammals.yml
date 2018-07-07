@@ -33,14 +33,16 @@ experiments:
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
+      lambda metadata, group_options, options:
         return [x for x in metadata if any(tax_str in x['taxonomy'] for tax_str in group_options['taxonomy_contains'])
-                                    and ('Homo sapiens' not in x['name'] or x['id'] in {{'NC_012920.1', 'NC_011137.1'}})]
+                                    and ('Homo sapiens' not in x['name'] or x['id'] in {'NC_012920.1', 'NC_011137.1'})]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 16
 
   #- type: distances
@@ -60,7 +62,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -82,13 +83,11 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options
   #
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-info.mm-dist
   #  output_file: classification-info.json
   #  <<: *classify_options

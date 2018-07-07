@@ -2,10 +2,8 @@ name: taxa-cpdna
 
 experiments: |
   lambda:
-    import json, os
-    with open(os.path.join({metadata_dir!r}, 'cpdna-taxa.json'), 'r') as f:
-      metadata = json.load(f)
-    exp_options = {{}}
+    metadata = load_metadata('cpdna-taxa')
+    exp_options = {}
     for group in metadata:
       for subgroup in metadata[group]['interesting_groups']:
         if ' ' in subgroup:
@@ -16,40 +14,42 @@ experiments: |
           outer_subgroup_name = group
           outer_subgroup_contains = []
           outer_subgroup_not_contains = [subgroup]
-        exp_options[subgroup] = {{
-          'expand_options': {{
+        exp_options[subgroup] = {
+          'expand_options': {
             'k': '4..7'
-          }},
-          'dataset': {{
+          },
+          'dataset': {
             'archive': 'cpdna',
             'metadata': 'cpdna-taxa'
-          }},
-          'groups': {{
-            subgroup: {{
+          },
+          'groups': {
+            subgroup: {
               'base_group': group,
               'name_contains': [subgroup],
               'name_not_contains': []
-            }},
-            '{{}}, not {{}}'.format(outer_subgroup_name, subgroup): {{
+            },
+            '{}, not {}'.format(outer_subgroup_name, subgroup): {
               'base_group': group,
               'name_contains': outer_subgroup_contains,
               'name_not_contains': outer_subgroup_not_contains
-            }}
-          }}
-        }}
+            }
+          }
+        }
     return exp_options
 
 steps:
   - type: select
+    copy_for_options: [k]
     pick_group: |
-      lambda metadata, group_options:
+      lambda metadata, group_options, options:
         return [x for x in metadata[group_options['base_group']]['sequences']
                         if (not group_options['name_contains'] or any(n in x['name'] for n in group_options['name_contains']))
                         and not any(n in x['name'] for n in group_options['name_not_contains'])]
 
   - type: kmers
     output_file: cgrs.mm-repr
-    k: '{k}'
+    mode: counts
+    k: from_options
     bits_per_element: 32
 
   #- type: distances
@@ -69,7 +69,6 @@ steps:
 
   - &classify_options
     type: classify
-    features_type: mmg-repr
     features_file: cgrs.mm-repr
     output_file: classification-kmers.json
     validation_count: 10
@@ -91,13 +90,11 @@ steps:
       - multilayer-perceptron
 
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-manhat.mm-dist
   #  output_file: classification-manhat.json
   #  <<: *classify_options
   #
   #- type: classify
-  #  features_type: mmg-dists
   #  features_file: dists-info.mm-dist
   #  output_file: classification-info.json
   #  <<: *classify_options

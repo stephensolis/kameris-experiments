@@ -1,0 +1,4 @@
+local_dirs:
+  archives: archives
+  metadata: metadata
+  output: output
