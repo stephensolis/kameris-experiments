@@ -148,9 +148,9 @@ The contents of this repository except for the `metadata/` directory are license
     SOFTWARE.
 
 ## Training on new datasets
-1. Clone https://github.com/stephensolis/kameris. Change 'urls_file' in kameris/utils/defaults.py to 'https://raw.githubusercontent.com/[your git id]/kameris-experiments/master/files.yml' 
+1. Clone https://github.com/stephensolis/kameris. Change 'urls_file' in kameris/utils/defaults.py to 'https://raw.githubusercontent.com/[your_git_id]/kameris-experiments/master/files.yml'.
 2. Zip all sequences fasta files for training into a single zip file. Make sure the sequences are in the root of the archive, not inside a folder. Upload this zip to google drive. Create a new entry with the download url in 'archives' in files.yml. 
-3. (Optional) Create another folder containing all sequences fasta files but all sequences files belonging to cluster 'A' are contained in a subfolder named 'A'. Give the folder the name 'sequence'. Put it into samples/. See samples/sequences. 
+3. (Optional) Create another folder containing all sequences fasta files but all sequences files belonging to cluster 'A' are contained in a subfolder named 'A'. Give the folder the name 'sequences'. Put it into samples/. See samples/sequences. 
 4. Open a json file and fill it in with the classes they belong to. id should be the name of the corresponding sequence file without the .fasta extension. If you have done Step 3, you can run `cd samples`, `python create_json.py sequences`, to get an idea of how the metadata file is created. A file named 'sequences.json' should be created inside metadata/ folder.
 5. Create an new entry with the download url in 'metadata' in files.yml.
 6. Push all changes to your repo.
