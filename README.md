@@ -147,6 +147,23 @@ The contents of this repository except for the `metadata/` directory are license
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
+## Training on new datasets
+1. Clone https://github.com/stephensolis/kameris. Change 'urls_file' in kameris/utils/defaults.py to be 'https://raw.githubusercontent.com/[your git id]/kameris-experiments/master/files.yml' 
+2. Zip all sequences fasta files for training into a single zip file. Make sure the sequences are in the root of the archive, not inside a folder. Upload this zip to google drive. Create a new entry with the download url in 'archive' in files.yml. 
+3. (Optional) Create another folder containing all sequences fasta files but all sequences files belonging to cluster 'A' are contained in a subfolder named 'A'. Give the folder the name 'sequence'. Put it into samples/. See samples/sequences. 
+4. Open a json file and fill it in with the classes they belong to. id should be the name of the corresponding sequence file without the .fasta extension. If you have done Step 3, you can run `cd samples`, `python create_json.py sequences`, to get an idea of how the metadata file is created. A file named 'sequences.json' should be created inside metadata/ folder.
+5. Create an new entry with the download url in 'metadata' in files.yml.
+6. Push all changes to your repo.
+7. Open a terminal in the experiment folder and run `kameris run-job experiment.yml https://raw.githubusercontent.com/stephensolis/kameris/master/demo/settings.yml`.
+
+This should give you results for k=4,5.
+
+You can edit the experiment.yml file and keep an eye on these properties, for example:
+1. k -- a list of values of k (inclusive) you want to run
+2. validation_count -- accuracy is reported as N-fold cross-validation, this number is the value of N
+3. groups -- the cluster names
+4. classifiers -- name of classifiers to run
+
 The contents of the `metadata/` directory are licensed as follows:
 
     CC0 1.0 Universal
