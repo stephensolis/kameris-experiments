@@ -28,23 +28,23 @@ metadata:
   viruses-refseq: https://raw.githubusercontent.com/stephensolis/kameris-experiments/master/metadata/viruses-refseq.json
 
 archives:
-  1kplants: https://kameris-archives.s3.fr-par.scw.cloud/1kplants.zip
-  dengue: https://kameris-archives.s3.fr-par.scw.cloud/dengue.zip
-  flu: https://kameris-archives.s3.fr-par.scw.cloud/flu.zip
-  genomes-animals: https://kameris-archives.s3.fr-par.scw.cloud/genomes-animals.zip
-  genomes-archaea: https://kameris-archives.s3.fr-par.scw.cloud/genomes-archaea.zip
-  genomes-bacteria: https://kameris-archives.s3.fr-par.scw.cloud/genomes-bacteria.zip
-  genomes-fungi: https://kameris-archives.s3.fr-par.scw.cloud/genomes-fungi.zip
-  genomes-plants: https://kameris-archives.s3.fr-par.scw.cloud/genomes-plants.zip
-  genomes-protists: https://kameris-archives.s3.fr-par.scw.cloud/genomes-protists.zip
-  hbv: https://kameris-archives.s3.fr-par.scw.cloud/hbv.zip
-  hcv: https://kameris-archives.s3.fr-par.scw.cloud/hcv.zip
-  hiv1: https://kameris-archives.s3.fr-par.scw.cloud/hiv1.zip
-  mmetsp: https://kameris-archives.s3.fr-par.scw.cloud/mmetsp.zip
-  mtdna: https://kameris-archives.s3.fr-par.scw.cloud/mtdna.zip
-  plasmids: https://kameris-archives.s3.fr-par.scw.cloud/plasmids.zip
-  plastids: https://kameris-archives.s3.fr-par.scw.cloud/plastids.zip
-  viruses: https://kameris-archives.s3.fr-par.scw.cloud/viruses.zip
+  1kplants: https://f005.backblazeb2.com/file/kameris-archives/1kplants.zip
+  dengue: https://f005.backblazeb2.com/file/kameris-archives/dengue.zip
+  flu: https://f005.backblazeb2.com/file/kameris-archives/flu.zip
+  genomes-animals: https://f005.backblazeb2.com/file/kameris-archives/genomes-animals.zip
+  genomes-archaea: https://f005.backblazeb2.com/file/kameris-archives/genomes-archaea.zip
+  genomes-bacteria: https://f005.backblazeb2.com/file/kameris-archives/genomes-bacteria.zip
+  genomes-fungi: https://f005.backblazeb2.com/file/kameris-archives/genomes-fungi.zip
+  genomes-plants: https://f005.backblazeb2.com/file/kameris-archives/genomes-plants.zip
+  genomes-protists: https://f005.backblazeb2.com/file/kameris-archives/genomes-protists.zip
+  hbv: https://f005.backblazeb2.com/file/kameris-archives/hbv.zip
+  hcv: https://f005.backblazeb2.com/file/kameris-archives/hcv.zip
+  hiv1: https://f005.backblazeb2.com/file/kameris-archives/hiv1.zip
+  mmetsp: https://f005.backblazeb2.com/file/kameris-archives/mmetsp.zip
+  mtdna: https://f005.backblazeb2.com/file/kameris-archives/mtdna.zip
+  plasmids: https://f005.backblazeb2.com/file/kameris-archives/plasmids.zip
+  plastids: https://f005.backblazeb2.com/file/kameris-archives/plastids.zip
+  viruses: https://f005.backblazeb2.com/file/kameris-archives/viruses.zip
 
 models:
   hiv1-linearsvm:
